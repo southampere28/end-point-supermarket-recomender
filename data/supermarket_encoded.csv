@@ -1,0 +1,999 @@
+id_transaksi,quantity,id_product,harga,total,id_user,date,name,category,ketersediaan_stock,fullname,email,gender,user_id_enc,product_id_enc
+1,5,137,11500.0,57500.0,1,2025-01-01 01:00:00,Pepsodent Herbal,Pasta Gigi dan Mouthwash,True,Sibby Cartin,scartin0@google.cn,Female,0,121
+1,4,55,8500.0,34000.0,1,2025-01-01 01:00:00,Teh Celup Sariwangi,Kopi dan Teh,True,Sibby Cartin,scartin0@google.cn,Female,0,54
+1,4,49,12000.0,48000.0,1,2025-01-01 01:00:00,Torabika Creamy Latte,Kopi dan Teh,True,Sibby Cartin,scartin0@google.cn,Female,0,48
+1,5,15,6500.0,32500.0,1,2025-01-01 01:00:00,Mi BonCabe Level 15,Makanan Instan,True,Sibby Cartin,scartin0@google.cn,Female,0,14
+2,5,147,18500.0,92500.0,2,2025-01-01 02:00:00,Colgate Total 12 Professional Clean,Pasta Gigi dan Mouthwash,True,Meredith Aven,maven1@marketwatch.com,Male,1,131
+2,3,43,185000.0,555000.0,2,2025-01-01 02:00:00,Enfagrow A+ 3 Vanilla,Produk Susu,True,Meredith Aven,maven1@marketwatch.com,Male,1,42
+2,3,172,19500.0,58500.0,2,2025-01-01 02:00:00,Minyak Telon My Baby,Produk Kesehatan,True,Meredith Aven,maven1@marketwatch.com,Male,1,156
+2,5,59,15000.0,75000.0,2,2025-01-01 02:00:00,Sosro Heritage Green Tea,Kopi dan Teh,True,Meredith Aven,maven1@marketwatch.com,Male,1,58
+3,5,219,15000.0,75000.0,3,2025-01-01 03:00:00,Twix Chocolate Bar,Camilan Manis,True,Udell Incogna,uincogna2@squarespace.com,Polygender,2,202
+3,4,45,55000.0,220000.0,3,2025-01-01 03:00:00,Vidoran Xmart 1+ Vanilla,Produk Susu,True,Udell Incogna,uincogna2@squarespace.com,Polygender,2,44
+3,1,91,73000.0,73000.0,3,2025-01-01 03:00:00,Beras Ramos Cap Topi Koki 5kg,Beras dan Bahan Pokok,True,Udell Incogna,uincogna2@squarespace.com,Polygender,2,89
+3,3,102,6000.0,18000.0,3,2025-01-01 03:00:00,Garam Refina 500g,Beras dan Bahan Pokok,True,Udell Incogna,uincogna2@squarespace.com,Polygender,2,100
+4,2,159,23500.0,47000.0,4,2025-01-01 04:00:00,Cussons Baby Powder Fresh dan Nourish,Produk Bayi,True,Rik Elan,relan3@opera.com,Male,3,143
+4,3,20,8000.0,24000.0,4,2025-01-01 04:00:00,Pocari Sweat 500ml,Minuman,True,Rik Elan,relan3@opera.com,Male,3,19
+4,3,54,55000.0,165000.0,4,2025-01-01 04:00:00,Starbucks VIA Colombia,Kopi dan Teh,True,Rik Elan,relan3@opera.com,Male,3,53
+4,4,39,85000.0,340000.0,4,2025-01-01 04:00:00,Lactamil Pregnasis,Produk Susu,True,Rik Elan,relan3@opera.com,Male,3,38
+5,4,5,3000.0,12000.0,5,2025-01-01 05:00:00,Sarimi Ayam Kecap,Makanan Instan,True,Sara Ludlam,sludlam4@dell.com,Female,4,4
+5,4,95,36000.0,144000.0,5,2025-01-01 05:00:00,Minyak Goreng SunCo 2L,Beras dan Bahan Pokok,True,Sara Ludlam,sludlam4@dell.com,Female,4,93
+5,1,104,33000.0,33000.0,5,2025-01-01 05:00:00,Minyak Tropical 2L,Beras dan Bahan Pokok,True,Sara Ludlam,sludlam4@dell.com,Female,4,102
+5,2,223,9000.0,18000.0,5,2025-01-01 05:00:00,Better Wafer Roll Chocolate,Camilan Manis,True,Sara Ludlam,sludlam4@dell.com,Female,4,206
+6,3,103,85000.0,255000.0,6,2025-01-01 06:00:00,Beras Pandan Wangi Cap Caping Gunung 5kg,Beras dan Bahan Pokok,True,Nellie Lydiatt,nlydiatt5@tmall.com,Female,5,101
+6,2,104,33000.0,66000.0,6,2025-01-01 06:00:00,Minyak Tropical 2L,Beras dan Bahan Pokok,True,Nellie Lydiatt,nlydiatt5@tmall.com,Female,5,102
+6,4,116,29500.0,118000.0,6,2025-01-01 06:00:00,Vaseline Healthy White UV Lightening,Sabun dan Perawatan Tubuh,True,Nellie Lydiatt,nlydiatt5@tmall.com,Female,5,114
+6,3,63,11000.0,33000.0,6,2025-01-01 06:00:00,Lays Rumput Laut,Makanan Ringan,True,Nellie Lydiatt,nlydiatt5@tmall.com,Female,5,62
+7,4,86,13500.0,54000.0,7,2025-01-01 07:00:00,Tiga Sapi Kecap Manis,Bumbu Dapur,True,Baldwin Di Baudi,bdibaudi6@who.int,Male,6,84
+7,4,5,3000.0,12000.0,7,2025-01-01 07:00:00,Sarimi Ayam Kecap,Makanan Instan,True,Baldwin Di Baudi,bdibaudi6@who.int,Male,6,4
+7,4,113,19500.0,78000.0,7,2025-01-01 07:00:00,Body Wash Citra Natural White,Sabun dan Perawatan Tubuh,True,Baldwin Di Baudi,bdibaudi6@who.int,Male,6,111
+7,3,55,8500.0,25500.0,7,2025-01-01 07:00:00,Teh Celup Sariwangi,Kopi dan Teh,True,Baldwin Di Baudi,bdibaudi6@who.int,Male,6,54
+8,4,168,16500.0,66000.0,8,2025-01-01 08:00:00,Konidin Sirup Batuk,Produk Kesehatan,True,Malanie Baughan,mbaughan7@infoseek.co.jp,Female,7,152
+8,4,159,23500.0,94000.0,8,2025-01-01 08:00:00,Cussons Baby Powder Fresh dan Nourish,Produk Bayi,True,Malanie Baughan,mbaughan7@infoseek.co.jp,Female,7,143
+8,1,211,25000.0,25000.0,8,2025-01-01 08:00:00,SilverQueen Cashew Milk Chocolate,Camilan Manis,True,Malanie Baughan,mbaughan7@infoseek.co.jp,Female,7,195
+8,1,143,17500.0,17500.0,8,2025-01-01 08:00:00,Oral B Pro Health,Pasta Gigi dan Mouthwash,True,Malanie Baughan,mbaughan7@infoseek.co.jp,Female,7,127
+9,4,209,43500.0,174000.0,9,2025-01-01 09:00:00,Fiesta Spicy Wing,Makanan Beku (Frozen Food),True,Adelaide Spiers,aspiers8@tiny.cc,Female,8,193
+9,4,3,3400.0,13600.0,9,2025-01-01 09:00:00,Mie Sedaap Kari Ayam,Makanan Instan,True,Adelaide Spiers,aspiers8@tiny.cc,Female,8,2
+9,4,190,14500.0,58000.0,9,2025-01-01 09:00:00,Mr. Muscle Pembersih Serbaguna,Alat Kebersihan Rumah,True,Adelaide Spiers,aspiers8@tiny.cc,Female,8,174
+9,4,178,29500.0,118000.0,9,2025-01-01 09:00:00,Imboost Force,Produk Kesehatan,True,Adelaide Spiers,aspiers8@tiny.cc,Female,8,162
+10,1,193,19500.0,19500.0,10,2025-01-01 10:00:00,Daia Detergent Pink,Alat Kebersihan Rumah,True,Tamma MacSorley,tmacsorley9@goodreads.com,Female,9,177
+10,3,167,9500.0,28500.0,10,2025-01-01 10:00:00,Hansaplast Plester,Produk Kesehatan,True,Tamma MacSorley,tmacsorley9@goodreads.com,Female,9,151
+10,2,152,78000.0,156000.0,10,2025-01-01 10:00:00,Sweety Silver Pants,Produk Bayi,True,Tamma MacSorley,tmacsorley9@goodreads.com,Female,9,136
+10,3,196,45000.0,135000.0,10,2025-01-01 10:00:00,So Good Chicken Nugget Original,Makanan Beku (Frozen Food),True,Tamma MacSorley,tmacsorley9@goodreads.com,Female,9,180
+11,5,215,12500.0,62500.0,11,2025-01-01 11:00:00,Tango Wafer Chocolate,Camilan Manis,True,Noelyn Leggate,nleggatea@naver.com,Female,10,198
+11,3,28,5000.0,15000.0,11,2025-01-01 11:00:00,Fanta Strawberry 390ml,Minuman,True,Noelyn Leggate,nleggatea@naver.com,Female,10,27
+11,2,171,21500.0,43000.0,11,2025-01-01 11:00:00,Minyak Kayu Putih Cap Lang,Produk Kesehatan,True,Noelyn Leggate,nleggatea@naver.com,Female,10,155
+11,3,177,17000.0,51000.0,11,2025-01-01 11:00:00,Hemaviton Stamina Plus,Produk Kesehatan,True,Noelyn Leggate,nleggatea@naver.com,Female,10,161
+12,4,7,7500.0,30000.0,12,2025-01-01 12:00:00,Lemonilo Mie Instan Ayam Bakar,Makanan Instan,True,Alissa Boost,aboostb@i2i.jp,Female,11,6
+12,1,3,3400.0,3400.0,12,2025-01-01 12:00:00,Mie Sedaap Kari Ayam,Makanan Instan,True,Alissa Boost,aboostb@i2i.jp,Female,11,2
+12,1,23,6500.0,6500.0,12,2025-01-01 12:00:00,Nu Green Tea Original,Minuman,True,Alissa Boost,aboostb@i2i.jp,Female,11,22
+12,2,222,8500.0,17000.0,12,2025-01-01 12:00:00,Nabati Wafer Chocolate,Camilan Manis,True,Alissa Boost,aboostb@i2i.jp,Female,11,205
+13,1,101,3500.0,3500.0,13,2025-01-01 13:00:00,Garam Cap Kapal,Beras dan Bahan Pokok,True,Marylinda Witton,mwittonc@angelfire.com,Female,12,99
+13,3,99,16000.0,48000.0,13,2025-01-01 13:00:00,Gula Pasir Gulaku Putih 1kg,Beras dan Bahan Pokok,True,Marylinda Witton,mwittonc@angelfire.com,Female,12,97
+13,3,213,2500.0,7500.0,13,2025-01-01 13:00:00,Choki-Choki Stick,Camilan Manis,True,Marylinda Witton,mwittonc@angelfire.com,Female,12,196
+13,3,222,8500.0,25500.0,13,2025-01-01 13:00:00,Nabati Wafer Chocolate,Camilan Manis,True,Marylinda Witton,mwittonc@angelfire.com,Female,12,205
+14,4,117,45000.0,180000.0,14,2025-01-01 14:00:00,Nivea Extra White Firming Lotion,Sabun dan Perawatan Tubuh,True,Korry Rothon,krothond@cisco.com,Female,13,115
+14,3,53,5500.0,16500.0,14,2025-01-01 14:00:00,Kopi Tubruk Gadjah,Kopi dan Teh,True,Korry Rothon,krothond@cisco.com,Female,13,52
+14,1,194,13500.0,13500.0,14,2025-01-01 14:00:00,S.O.S Pembersih Serbaguna Lemon,Alat Kebersihan Rumah,True,Korry Rothon,krothond@cisco.com,Female,13,178
+14,2,141,25000.0,50000.0,14,2025-01-01 14:00:00,Enzim Orthodontic Toothpaste,Pasta Gigi dan Mouthwash,True,Korry Rothon,krothond@cisco.com,Female,13,125
+15,5,107,5000.0,25000.0,15,2025-01-01 15:00:00,Sabun Dettol Original,Sabun dan Perawatan Tubuh,True,Bryce Deniscke,bdenisckee@adobe.com,Male,14,105
+15,4,163,37500.0,150000.0,15,2025-01-01 15:00:00,Pigeon Baby Shampoo Chamomile,Produk Bayi,True,Bryce Deniscke,bdenisckee@adobe.com,Male,14,147
+15,1,13,12500.0,12500.0,15,2025-01-01 15:00:00,Mi Instan Sehat Alami FitMee Shirataki,Makanan Instan,True,Bryce Deniscke,bdenisckee@adobe.com,Male,14,12
+15,1,170,4500.0,4500.0,15,2025-01-01 15:00:00,Paramex Tablet,Produk Kesehatan,True,Bryce Deniscke,bdenisckee@adobe.com,Male,14,154
+16,3,109,9500.0,28500.0,16,2025-01-01 16:00:00,Sabun Dove Beauty Bar,Sabun dan Perawatan Tubuh,True,Wade Vertey,wverteyf@amazon.co.jp,Male,15,107
+16,3,146,22500.0,67500.0,16,2025-01-01 16:00:00,Total Care Mouthwash Fresh Mint,Pasta Gigi dan Mouthwash,True,Wade Vertey,wverteyf@amazon.co.jp,Male,15,130
+16,3,49,12000.0,36000.0,16,2025-01-01 16:00:00,Torabika Creamy Latte,Kopi dan Teh,True,Wade Vertey,wverteyf@amazon.co.jp,Male,15,48
+16,1,67,12500.0,12500.0,16,2025-01-01 16:00:00,Kacang Garuda Rosta,Makanan Ringan,True,Wade Vertey,wverteyf@amazon.co.jp,Male,15,66
+17,3,60,35000.0,105000.0,17,2025-01-01 17:00:00,Dilmah Tea English Breakfast,Kopi dan Teh,True,Gayler Streader,gstreaderg@pagesperso-orange.fr,Male,16,59
+17,1,162,35000.0,35000.0,17,2025-01-01 17:00:00,Baby Huki Botol Susu PP 250ml,Produk Bayi,True,Gayler Streader,gstreaderg@pagesperso-orange.fr,Male,16,146
+17,2,57,5000.0,10000.0,17,2025-01-01 17:00:00,Teh Pucuk Harum Jasmine,Kopi dan Teh,True,Gayler Streader,gstreaderg@pagesperso-orange.fr,Male,16,56
+17,2,13,12500.0,25000.0,17,2025-01-01 17:00:00,Mi Instan Sehat Alami FitMee Shirataki,Makanan Instan,True,Gayler Streader,gstreaderg@pagesperso-orange.fr,Male,16,12
+18,3,218,13500.0,40500.0,18,2025-01-01 18:00:00,Kinder Joy,Camilan Manis,True,Stacy Berge,sbergeh@csmonitor.com,Polygender,17,201
+18,1,95,36000.0,36000.0,18,2025-01-01 18:00:00,Minyak Goreng SunCo 2L,Beras dan Bahan Pokok,True,Stacy Berge,sbergeh@csmonitor.com,Polygender,17,93
+18,2,30,5500.0,11000.0,18,2025-01-01 18:00:00,Freshtea Jasmine 500ml,Minuman,True,Stacy Berge,sbergeh@csmonitor.com,Polygender,17,29
+18,3,63,11000.0,33000.0,18,2025-01-01 18:00:00,Lays Rumput Laut,Makanan Ringan,True,Stacy Berge,sbergeh@csmonitor.com,Polygender,17,62
+19,1,5,3000.0,3000.0,19,2025-01-01 19:00:00,Sarimi Ayam Kecap,Makanan Instan,True,Alene Perrins,aperrinsi@google.it,Polygender,18,4
+19,3,82,6000.0,18000.0,19,2025-01-01 19:00:00,BonCabe Level 10,Bumbu Dapur,True,Alene Perrins,aperrinsi@google.it,Polygender,18,80
+19,1,27,5000.0,5000.0,19,2025-01-01 19:00:00,Coca Cola 390ml,Minuman,True,Alene Perrins,aperrinsi@google.it,Polygender,18,26
+19,1,142,9500.0,9500.0,19,2025-01-01 19:00:00,Ciptadent Whitening,Pasta Gigi dan Mouthwash,True,Alene Perrins,aperrinsi@google.it,Polygender,18,126
+20,3,196,45000.0,135000.0,20,2025-01-01 20:00:00,So Good Chicken Nugget Original,Makanan Beku (Frozen Food),True,Nanni Frossell,nfrossellj@chicagotribune.com,Female,19,180
+20,1,28,5000.0,5000.0,20,2025-01-01 20:00:00,Fanta Strawberry 390ml,Minuman,True,Nanni Frossell,nfrossellj@chicagotribune.com,Female,19,27
+20,4,74,9500.0,38000.0,20,2025-01-01 20:00:00,Good Time Cookies,Makanan Ringan,True,Nanni Frossell,nfrossellj@chicagotribune.com,Female,19,72
+20,2,45,55000.0,110000.0,20,2025-01-01 20:00:00,Vidoran Xmart 1+ Vanilla,Produk Susu,True,Nanni Frossell,nfrossellj@chicagotribune.com,Female,19,44
+21,4,48,23000.0,92000.0,21,2025-01-01 21:00:00,Nescafe Classic 100g,Kopi dan Teh,True,Cahra Van Castele,cvancastelek@slashdot.org,Female,20,47
+21,5,44,65000.0,325000.0,21,2025-01-01 21:00:00,Susu Zee Platinum Choco Hazel,Produk Susu,True,Cahra Van Castele,cvancastelek@slashdot.org,Female,20,43
+21,4,85,7500.0,30000.0,21,2025-01-01 21:00:00,Sasa Tepung Bumbu Spicy,Bumbu Dapur,True,Cahra Van Castele,cvancastelek@slashdot.org,Female,20,83
+21,3,29,4500.0,13500.0,21,2025-01-01 21:00:00,Nestle Pure Life 600ml,Minuman,True,Cahra Van Castele,cvancastelek@slashdot.org,Female,20,28
+22,5,142,9500.0,47500.0,22,2025-01-01 22:00:00,Ciptadent Whitening,Pasta Gigi dan Mouthwash,True,Creighton Guillard,cguillardl@reuters.com,Male,21,126
+22,2,138,12000.0,24000.0,22,2025-01-01 22:00:00,CloseUp Ever Fresh,Pasta Gigi dan Mouthwash,True,Creighton Guillard,cguillardl@reuters.com,Male,21,122
+22,3,104,33000.0,99000.0,22,2025-01-01 22:00:00,Minyak Tropical 2L,Beras dan Bahan Pokok,True,Creighton Guillard,cguillardl@reuters.com,Male,21,102
+22,2,1,3500.0,7000.0,22,2025-01-01 22:00:00,Indomie Goreng,Makanan Instan,True,Creighton Guillard,cguillardl@reuters.com,Male,21,0
+23,5,151,85000.0,425000.0,23,2025-01-01 23:00:00,MamyPoko Pants Extra Soft,Produk Bayi,True,Minni Gelletly,mgelletlym@blogger.com,Female,22,135
+23,3,183,23000.0,69000.0,23,2025-01-01 23:00:00,Attack Easy Detergent Bubuk,Alat Kebersihan Rumah,True,Minni Gelletly,mgelletlym@blogger.com,Female,22,167
+23,3,153,95000.0,285000.0,23,2025-01-01 23:00:00,Merries Pants Good Skin,Produk Bayi,True,Minni Gelletly,mgelletlym@blogger.com,Female,22,137
+23,2,5,3000.0,6000.0,23,2025-01-01 23:00:00,Sarimi Ayam Kecap,Makanan Instan,True,Minni Gelletly,mgelletlym@blogger.com,Female,22,4
+24,1,100,15500.0,15500.0,24,2025-01-02 00:00:00,Gula Pasir Rose Brand 1kg,Beras dan Bahan Pokok,True,Elisabeth Seary,esearyn@washingtonpost.com,Female,23,98
+24,3,180,18000.0,54000.0,24,2025-01-02 00:00:00,OBH Combi Anak,Produk Kesehatan,True,Elisabeth Seary,esearyn@washingtonpost.com,Female,23,164
+24,3,162,35000.0,105000.0,24,2025-01-02 00:00:00,Baby Huki Botol Susu PP 250ml,Produk Bayi,True,Elisabeth Seary,esearyn@washingtonpost.com,Female,23,146
+24,5,11,8500.0,42500.0,24,2025-01-02 00:00:00,Koka Mie Goreng Singapura,Makanan Instan,True,Elisabeth Seary,esearyn@washingtonpost.com,Female,23,10
+25,4,103,85000.0,340000.0,25,2025-01-02 01:00:00,Beras Pandan Wangi Cap Caping Gunung 5kg,Beras dan Bahan Pokok,True,Erna Hofer,ehofero@nbcnews.com,Female,24,101
+25,2,167,9500.0,19000.0,25,2025-01-02 01:00:00,Hansaplast Plester,Produk Kesehatan,True,Erna Hofer,ehofero@nbcnews.com,Female,24,151
+25,5,43,185000.0,925000.0,25,2025-01-02 01:00:00,Enfagrow A+ 3 Vanilla,Produk Susu,True,Erna Hofer,ehofero@nbcnews.com,Female,24,42
+25,2,94,35000.0,70000.0,25,2025-01-02 01:00:00,Minyak Goreng Bimoli 2L,Beras dan Bahan Pokok,True,Erna Hofer,ehofero@nbcnews.com,Female,24,92
+26,2,170,4500.0,9000.0,26,2025-01-02 02:00:00,Paramex Tablet,Produk Kesehatan,True,Yurik Ledwich,yledwichp@xinhuanet.com,Male,25,154
+26,4,20,8000.0,32000.0,26,2025-01-02 02:00:00,Pocari Sweat 500ml,Minuman,True,Yurik Ledwich,yledwichp@xinhuanet.com,Male,25,19
+26,3,206,36500.0,109500.0,26,2025-01-02 02:00:00,Seafood Fiesta Fish Nugget,Makanan Beku (Frozen Food),True,Yurik Ledwich,yledwichp@xinhuanet.com,Male,25,190
+26,3,174,7500.0,22500.0,26,2025-01-02 02:00:00,Tolak Angin Cair,Produk Kesehatan,True,Yurik Ledwich,yledwichp@xinhuanet.com,Male,25,158
+27,1,110,15500.0,15500.0,27,2025-01-02 03:00:00,Sabun Biore Body Foam Fresh,Sabun dan Perawatan Tubuh,True,Lauretta Roelofs,lroelofsq@un.org,Female,26,108
+27,1,163,37500.0,37500.0,27,2025-01-02 03:00:00,Pigeon Baby Shampoo Chamomile,Produk Bayi,True,Lauretta Roelofs,lroelofsq@un.org,Female,26,147
+27,2,78,12500.0,25000.0,27,2025-01-02 03:00:00,Saus Sambal Indofood,Bumbu Dapur,True,Lauretta Roelofs,lroelofsq@un.org,Female,26,76
+27,3,168,16500.0,49500.0,27,2025-01-02 03:00:00,Konidin Sirup Batuk,Produk Kesehatan,True,Lauretta Roelofs,lroelofsq@un.org,Female,26,152
+28,1,167,9500.0,9500.0,28,2025-01-02 04:00:00,Hansaplast Plester,Produk Kesehatan,True,Clint Wragg,cwraggr@webs.com,Male,27,151
+28,1,85,7500.0,7500.0,28,2025-01-02 04:00:00,Sasa Tepung Bumbu Spicy,Bumbu Dapur,True,Clint Wragg,cwraggr@webs.com,Male,27,83
+28,1,177,17000.0,17000.0,28,2025-01-02 04:00:00,Hemaviton Stamina Plus,Produk Kesehatan,True,Clint Wragg,cwraggr@webs.com,Male,27,161
+28,2,81,5000.0,10000.0,28,2025-01-02 04:00:00,Masako Rasa Sapi,Bumbu Dapur,True,Clint Wragg,cwraggr@webs.com,Male,27,79
+29,3,1,3500.0,10500.0,29,2025-01-02 05:00:00,Indomie Goreng,Makanan Instan,True,Henrie Inworth,hinworths@shop-pro.jp,Genderfluid,28,0
+29,3,79,14500.0,43500.0,29,2025-01-02 05:00:00,Saus Tomat Del Monte,Bumbu Dapur,True,Henrie Inworth,hinworths@shop-pro.jp,Genderfluid,28,77
+29,4,61,10500.0,42000.0,29,2025-01-02 05:00:00,Chitato Sapi Panggang,Makanan Ringan,True,Henrie Inworth,hinworths@shop-pro.jp,Genderfluid,28,60
+29,5,140,10500.0,52500.0,29,2025-01-02 05:00:00,Formula Pasta Gigi Anti Bakteri,Pasta Gigi dan Mouthwash,True,Henrie Inworth,hinworths@shop-pro.jp,Genderfluid,28,124
+30,2,43,185000.0,370000.0,30,2025-01-02 06:00:00,Enfagrow A+ 3 Vanilla,Produk Susu,True,Grete Beverage,gbeveraget@google.ca,Female,29,42
+30,1,224,12000.0,12000.0,30,2025-01-02 06:00:00,Ovaltine Cookies,Camilan Manis,True,Grete Beverage,gbeveraget@google.ca,Female,29,207
+30,1,111,8500.0,8500.0,30,2025-01-02 06:00:00,Sabun Shinzui Skin Lightening,Sabun dan Perawatan Tubuh,True,Grete Beverage,gbeveraget@google.ca,Female,29,109
+30,1,11,8500.0,8500.0,30,2025-01-02 06:00:00,Koka Mie Goreng Singapura,Makanan Instan,True,Grete Beverage,gbeveraget@google.ca,Female,29,10
+31,3,87,12000.0,36000.0,31,2025-01-02 07:00:00,Indofood Sambal Extra Pedas,Bumbu Dapur,True,Dulce Filippello,dfilippellou@opera.com,Female,30,85
+31,1,207,45000.0,45000.0,31,2025-01-02 07:00:00,Champ Sosis Sapi,Makanan Beku (Frozen Food),True,Dulce Filippello,dfilippellou@opera.com,Female,30,191
+31,2,144,25000.0,50000.0,31,2025-01-02 07:00:00,Listerine Cool Mint 250ml,Pasta Gigi dan Mouthwash,True,Dulce Filippello,dfilippellou@opera.com,Female,30,128
+31,3,25,7000.0,21000.0,31,2025-01-02 07:00:00,Good Day Coolin Coffee,Minuman,True,Dulce Filippello,dfilippellou@opera.com,Female,30,24
+32,1,160,18500.0,18500.0,32,2025-01-02 08:00:00,Bambi Baby Lotion,Produk Bayi,True,Alfi Feldstern,afeldsternv@blinklist.com,Female,31,144
+32,5,140,10500.0,52500.0,32,2025-01-02 08:00:00,Formula Pasta Gigi Anti Bakteri,Pasta Gigi dan Mouthwash,True,Alfi Feldstern,afeldsternv@blinklist.com,Female,31,124
+32,1,111,8500.0,8500.0,32,2025-01-02 08:00:00,Sabun Shinzui Skin Lightening,Sabun dan Perawatan Tubuh,True,Alfi Feldstern,afeldsternv@blinklist.com,Female,31,109
+32,1,38,17500.0,17500.0,32,2025-01-02 08:00:00,Diamond Susu UHT Full Cream,Produk Susu,True,Alfi Feldstern,afeldsternv@blinklist.com,Female,31,37
+33,4,193,19500.0,78000.0,33,2025-01-02 09:00:00,Daia Detergent Pink,Alat Kebersihan Rumah,True,Cherrita Edelheid,cedelheidw@soundcloud.com,Female,32,177
+33,4,141,25000.0,100000.0,33,2025-01-02 09:00:00,Enzim Orthodontic Toothpaste,Pasta Gigi dan Mouthwash,True,Cherrita Edelheid,cedelheidw@soundcloud.com,Female,32,125
+33,1,176,18500.0,18500.0,33,2025-01-02 09:00:00,Enervon-C Tablet,Produk Kesehatan,True,Cherrita Edelheid,cedelheidw@soundcloud.com,Female,32,160
+33,3,48,23000.0,69000.0,33,2025-01-02 09:00:00,Nescafe Classic 100g,Kopi dan Teh,True,Cherrita Edelheid,cedelheidw@soundcloud.com,Female,32,47
+34,2,149,17500.0,35000.0,34,2025-01-02 10:00:00,Darlie All Shiny White,Pasta Gigi dan Mouthwash,True,Balduin Bailie,bbailiex@washington.edu,Male,33,133
+34,5,56,7500.0,37500.0,34,2025-01-02 10:00:00,Teh Sosro Celup Melati,Kopi dan Teh,True,Balduin Bailie,bbailiex@washington.edu,Male,33,55
+34,1,183,23000.0,23000.0,34,2025-01-02 10:00:00,Attack Easy Detergent Bubuk,Alat Kebersihan Rumah,True,Balduin Bailie,bbailiex@washington.edu,Male,33,167
+34,1,65,9000.0,9000.0,34,2025-01-02 10:00:00,Taro Net Seaweed,Makanan Ringan,True,Balduin Bailie,bbailiex@washington.edu,Male,33,64
+35,5,91,73000.0,365000.0,35,2025-01-02 11:00:00,Beras Ramos Cap Topi Koki 5kg,Beras dan Bahan Pokok,True,Garik Ezzell,gezzelly@google.com.au,Male,34,89
+35,1,92,68000.0,68000.0,35,2025-01-02 11:00:00,Beras Setra Ramos Cap Ayam Jago 5kg,Beras dan Bahan Pokok,True,Garik Ezzell,gezzelly@google.com.au,Male,34,90
+35,2,2,3200.0,6400.0,35,2025-01-02 11:00:00,Indomie Kuah Ayam Bawang,Makanan Instan,True,Garik Ezzell,gezzelly@google.com.au,Male,34,1
+36,1,20,8000.0,8000.0,36,2025-01-02 12:00:00,Pocari Sweat 500ml,Minuman,True,Leila Hainey`,lhaineyz@hhs.gov,Female,35,19
+36,5,196,45000.0,225000.0,36,2025-01-02 12:00:00,So Good Chicken Nugget Original,Makanan Beku (Frozen Food),True,Leila Hainey`,lhaineyz@hhs.gov,Female,35,180
+36,1,198,32500.0,32500.0,36,2025-01-02 12:00:00,Fiesta Sosis Sapi Goreng,Makanan Beku (Frozen Food),True,Leila Hainey`,lhaineyz@hhs.gov,Female,35,182
+36,5,217,11500.0,57500.0,36,2025-01-02 12:00:00,KitKat 4 Fingers,Camilan Manis,True,Leila Hainey`,lhaineyz@hhs.gov,Female,35,200
+37,4,185,12500.0,50000.0,37,2025-01-02 13:00:00,Bayclin Pembersih Lantai,Alat Kebersihan Rumah,True,Elayne Von Salzberg,evonsalzberg10@cbc.ca,Female,36,169
+37,5,36,9500.0,47500.0,37,2025-01-02 13:00:00,Bear Brand Susu Steril,Produk Susu,True,Elayne Von Salzberg,evonsalzberg10@cbc.ca,Female,36,35
+37,2,140,10500.0,21000.0,37,2025-01-02 13:00:00,Formula Pasta Gigi Anti Bakteri,Pasta Gigi dan Mouthwash,True,Elayne Von Salzberg,evonsalzberg10@cbc.ca,Female,36,124
+37,2,52,10500.0,21000.0,37,2025-01-02 13:00:00,Kopiko Lucky Day,Kopi dan Teh,True,Elayne Von Salzberg,evonsalzberg10@cbc.ca,Female,36,51
+38,2,30,5500.0,11000.0,38,2025-01-02 14:00:00,Freshtea Jasmine 500ml,Minuman,True,Gloriana Westmarland,gwestmarland11@thetimes.co.uk,Female,37,29
+38,5,18,6500.0,32500.0,38,2025-01-02 14:00:00,Aqua 1.5L,Minuman,True,Gloriana Westmarland,gwestmarland11@thetimes.co.uk,Female,37,17
+38,4,137,11500.0,46000.0,38,2025-01-02 14:00:00,Pepsodent Herbal,Pasta Gigi dan Mouthwash,True,Gloriana Westmarland,gwestmarland11@thetimes.co.uk,Female,37,121
+38,2,75,7000.0,14000.0,38,2025-01-02 14:00:00,Dueto Wafer Chocolate,Makanan Ringan,True,Gloriana Westmarland,gwestmarland11@thetimes.co.uk,Female,37,73
+39,2,192,9500.0,19000.0,39,2025-01-02 15:00:00,Mama Lemon Jeruk Nipis,Alat Kebersihan Rumah,True,Randene Feaster,rfeaster12@google.ru,Female,38,176
+39,3,17,4000.0,12000.0,39,2025-01-02 15:00:00,Le Minerale 600ml,Minuman,True,Randene Feaster,rfeaster12@google.ru,Female,38,16
+39,5,106,4500.0,22500.0,39,2025-01-02 15:00:00,Sabun Lifebuoy Total 10,Sabun dan Perawatan Tubuh,True,Randene Feaster,rfeaster12@google.ru,Female,38,104
+39,1,179,21500.0,21500.0,39,2025-01-02 15:00:00,Woods Peppermint Cough Syrup,Produk Kesehatan,True,Randene Feaster,rfeaster12@google.ru,Female,38,163
+40,1,15,6500.0,6500.0,40,2025-01-02 16:00:00,Mi BonCabe Level 15,Makanan Instan,True,Roseann Barbera,rbarbera13@un.org,Female,39,14
+40,3,166,18500.0,55500.0,40,2025-01-02 16:00:00,Betadine Antiseptic Solution,Produk Kesehatan,True,Roseann Barbera,rbarbera13@un.org,Female,39,150
+40,1,73,10000.0,10000.0,40,2025-01-02 16:00:00,Pocky Chocolate,Makanan Ringan,True,Roseann Barbera,rbarbera13@un.org,Female,39,71
+40,5,210,45000.0,225000.0,40,2025-01-02 16:00:00,SunnyGold Chicken Wing,Makanan Beku (Frozen Food),True,Roseann Barbera,rbarbera13@un.org,Female,39,194
+41,3,105,32000.0,96000.0,41,2025-01-02 17:00:00,Minyak Sovia 2L,Beras dan Bahan Pokok,True,Lonnard Ledley,lledley14@youtube.com,Male,40,103
+41,5,94,35000.0,175000.0,41,2025-01-02 17:00:00,Minyak Goreng Bimoli 2L,Beras dan Bahan Pokok,True,Lonnard Ledley,lledley14@youtube.com,Male,40,92
+41,1,193,19500.0,19500.0,41,2025-01-02 17:00:00,Daia Detergent Pink,Alat Kebersihan Rumah,True,Lonnard Ledley,lledley14@youtube.com,Male,40,177
+41,2,72,15000.0,30000.0,41,2025-01-02 17:00:00,Beng-Beng Share It,Makanan Ringan,True,Lonnard Ledley,lledley14@youtube.com,Male,40,70
+42,2,14,15000.0,30000.0,42,2025-01-02 18:00:00,Mi Samyang Spicy Chicken,Makanan Instan,True,Bryant Antley,bantley15@bbb.org,Male,41,13
+42,2,72,15000.0,30000.0,42,2025-01-02 18:00:00,Beng-Beng Share It,Makanan Ringan,True,Bryant Antley,bantley15@bbb.org,Male,41,70
+42,2,60,35000.0,70000.0,42,2025-01-02 18:00:00,Dilmah Tea English Breakfast,Kopi dan Teh,True,Bryant Antley,bantley15@bbb.org,Male,41,59
+42,1,8,3300.0,3300.0,42,2025-01-02 18:00:00,Gaga 100 Extra Pedas,Makanan Instan,True,Bryant Antley,bantley15@bbb.org,Male,41,7
+43,4,62,9500.0,38000.0,43,2025-01-02 19:00:00,Qtela Keripik Singkong Original,Makanan Ringan,True,Augie People,apeople16@princeton.edu,Male,42,61
+43,2,17,4000.0,8000.0,43,2025-01-02 19:00:00,Le Minerale 600ml,Minuman,True,Augie People,apeople16@princeton.edu,Male,42,16
+43,1,85,7500.0,7500.0,43,2025-01-02 19:00:00,Sasa Tepung Bumbu Spicy,Bumbu Dapur,True,Augie People,apeople16@princeton.edu,Male,42,83
+43,2,16,5000.0,10000.0,43,2025-01-02 19:00:00,Teh Botol Sosro,Minuman,True,Augie People,apeople16@princeton.edu,Male,42,15
+44,2,109,9500.0,19000.0,44,2025-01-02 20:00:00,Sabun Dove Beauty Bar,Sabun dan Perawatan Tubuh,True,Charlean Redington,credington17@usnews.com,Female,43,107
+44,3,175,8500.0,25500.0,44,2025-01-02 20:00:00,Promag Tablet,Produk Kesehatan,True,Charlean Redington,credington17@usnews.com,Female,43,159
+44,4,224,12000.0,48000.0,44,2025-01-02 20:00:00,Ovaltine Cookies,Camilan Manis,True,Charlean Redington,credington17@usnews.com,Female,43,207
+44,3,31,45000.0,135000.0,44,2025-01-02 20:00:00,Susu Dancow Full Cream,Produk Susu,True,Charlean Redington,credington17@usnews.com,Female,43,30
+45,2,188,15500.0,31000.0,45,2025-01-02 21:00:00,Vixal Pembersih Kamar Mandi,Alat Kebersihan Rumah,True,Heall Smaleman,hsmaleman18@hibu.com,Male,44,172
+45,1,17,4000.0,4000.0,45,2025-01-02 21:00:00,Le Minerale 600ml,Minuman,True,Heall Smaleman,hsmaleman18@hibu.com,Male,44,16
+45,1,96,34000.0,34000.0,45,2025-01-02 21:00:00,Minyak Filma 2L,Beras dan Bahan Pokok,True,Heall Smaleman,hsmaleman18@hibu.com,Male,44,94
+45,3,220,22500.0,67500.0,45,2025-01-02 21:00:00,Dairy Milk Cadbury,Camilan Manis,True,Heall Smaleman,hsmaleman18@hibu.com,Male,44,203
+46,2,39,85000.0,170000.0,46,2025-01-02 22:00:00,Lactamil Pregnasis,Produk Susu,True,Ralf Isacke,risacke19@symantec.com,Male,45,38
+46,2,214,9500.0,19000.0,46,2025-01-02 22:00:00,Malkist Roma Cokelat,Camilan Manis,True,Ralf Isacke,risacke19@symantec.com,Male,45,197
+46,5,106,4500.0,22500.0,46,2025-01-02 22:00:00,Sabun Lifebuoy Total 10,Sabun dan Perawatan Tubuh,True,Ralf Isacke,risacke19@symantec.com,Male,45,104
+46,3,137,11500.0,34500.0,46,2025-01-02 22:00:00,Pepsodent Herbal,Pasta Gigi dan Mouthwash,True,Ralf Isacke,risacke19@symantec.com,Male,45,121
+47,3,207,45000.0,135000.0,47,2025-01-02 23:00:00,Champ Sosis Sapi,Makanan Beku (Frozen Food),True,Barrett Godbolt,bgodbolt1a@gravatar.com,Genderqueer,46,191
+47,4,164,165000.0,660000.0,47,2025-01-02 23:00:00,Bebelove 1 Susu Formula,Produk Bayi,True,Barrett Godbolt,bgodbolt1a@gravatar.com,Genderqueer,46,148
+47,5,205,38500.0,192500.0,47,2025-01-02 23:00:00,Fiesta Tempura Chicken Nugget,Makanan Beku (Frozen Food),True,Barrett Godbolt,bgodbolt1a@gravatar.com,Genderqueer,46,189
+47,3,116,29500.0,88500.0,47,2025-01-02 23:00:00,Vaseline Healthy White UV Lightening,Sabun dan Perawatan Tubuh,True,Barrett Godbolt,bgodbolt1a@gravatar.com,Genderqueer,46,114
+48,3,7,7500.0,22500.0,48,2025-01-03 00:00:00,Lemonilo Mie Instan Ayam Bakar,Makanan Instan,True,Ferguson Cicccitti,fcicccitti1b@google.com,Genderqueer,47,6
+48,4,106,4500.0,18000.0,48,2025-01-03 00:00:00,Sabun Lifebuoy Total 10,Sabun dan Perawatan Tubuh,True,Ferguson Cicccitti,fcicccitti1b@google.com,Genderqueer,47,104
+48,2,171,21500.0,43000.0,48,2025-01-03 00:00:00,Minyak Kayu Putih Cap Lang,Produk Kesehatan,True,Ferguson Cicccitti,fcicccitti1b@google.com,Genderqueer,47,155
+48,3,144,25000.0,75000.0,48,2025-01-03 00:00:00,Listerine Cool Mint 250ml,Pasta Gigi dan Mouthwash,True,Ferguson Cicccitti,fcicccitti1b@google.com,Genderqueer,47,128
+49,2,35,7500.0,15000.0,49,2025-01-03 01:00:00,Ultra Milk Cokelat 250ml,Produk Susu,True,Derward Rubinowicz,drubinowicz1c@mapy.cz,Male,48,34
+49,5,12,2900.0,14500.0,49,2025-01-03 01:00:00,Mie Burung Dara Ayam Bawang,Makanan Instan,True,Derward Rubinowicz,drubinowicz1c@mapy.cz,Male,48,11
+49,3,33,18000.0,54000.0,49,2025-01-03 01:00:00,Indomilk Full Cream 1L,Produk Susu,True,Derward Rubinowicz,drubinowicz1c@mapy.cz,Male,48,32
+49,2,19,7000.0,14000.0,49,2025-01-03 01:00:00,Mizone Lychee Lemon,Minuman,True,Derward Rubinowicz,drubinowicz1c@mapy.cz,Male,48,18
+50,1,88,3500.0,3500.0,50,2025-01-03 02:00:00,Desaku Bumbu Racik Ayam Goreng,Bumbu Dapur,True,Tannie Rydzynski,trydzynski1d@ftc.gov,Male,49,86
+50,3,32,12500.0,37500.0,50,2025-01-03 02:00:00,Frisian Flag Kental Manis Putih,Produk Susu,True,Tannie Rydzynski,trydzynski1d@ftc.gov,Male,49,31
+50,1,221,17500.0,17500.0,50,2025-01-03 02:00:00,Snickers Chocolate Bar,Camilan Manis,True,Tannie Rydzynski,trydzynski1d@ftc.gov,Male,49,204
+50,3,108,4200.0,12600.0,50,2025-01-03 02:00:00,Sabun Lux Soft Touch,Sabun dan Perawatan Tubuh,True,Tannie Rydzynski,trydzynski1d@ftc.gov,Male,49,106
+51,5,65,9000.0,45000.0,51,2025-01-03 03:00:00,Taro Net Seaweed,Makanan Ringan,True,Karlyn Maddaford,kmaddaford1e@facebook.com,Female,50,64
+51,4,205,38500.0,154000.0,51,2025-01-03 03:00:00,Fiesta Tempura Chicken Nugget,Makanan Beku (Frozen Food),True,Karlyn Maddaford,kmaddaford1e@facebook.com,Female,50,189
+51,4,159,23500.0,94000.0,51,2025-01-03 03:00:00,Cussons Baby Powder Fresh dan Nourish,Produk Bayi,True,Karlyn Maddaford,kmaddaford1e@facebook.com,Female,50,143
+51,3,153,95000.0,285000.0,51,2025-01-03 03:00:00,Merries Pants Good Skin,Produk Bayi,True,Karlyn Maddaford,kmaddaford1e@facebook.com,Female,50,137
+52,4,163,37500.0,150000.0,52,2025-01-03 04:00:00,Pigeon Baby Shampoo Chamomile,Produk Bayi,True,Giffer Jearum,gjearum1f@aol.com,Male,51,147
+52,2,165,195000.0,390000.0,52,2025-01-03 04:00:00,Morinaga Chil Kid Platinum,Produk Bayi,True,Giffer Jearum,gjearum1f@aol.com,Male,51,149
+52,4,156,65000.0,260000.0,52,2025-01-03 04:00:00,Sensi Dry Pants,Produk Bayi,True,Giffer Jearum,gjearum1f@aol.com,Male,51,140
+52,2,188,15500.0,31000.0,52,2025-01-03 04:00:00,Vixal Pembersih Kamar Mandi,Alat Kebersihan Rumah,True,Giffer Jearum,gjearum1f@aol.com,Male,51,172
+53,5,222,8500.0,42500.0,53,2025-01-03 05:00:00,Nabati Wafer Chocolate,Camilan Manis,True,Sigfrid Ronaghan,sronaghan1g@vinaora.com,Male,52,205
+53,3,89,4500.0,13500.0,53,2025-01-03 05:00:00,Bumbu Indofood Rendang,Bumbu Dapur,True,Sigfrid Ronaghan,sronaghan1g@vinaora.com,Male,52,87
+53,1,42,80000.0,80000.0,53,2025-01-03 05:00:00,Anlene Gold 5X,Produk Susu,True,Sigfrid Ronaghan,sronaghan1g@vinaora.com,Male,52,41
+53,2,156,65000.0,130000.0,53,2025-01-03 05:00:00,Sensi Dry Pants,Produk Bayi,True,Sigfrid Ronaghan,sronaghan1g@vinaora.com,Male,52,140
+54,5,53,5500.0,27500.0,54,2025-01-03 06:00:00,Kopi Tubruk Gadjah,Kopi dan Teh,True,Olympie Fayerbrother,ofayerbrother1h@goo.gl,Genderqueer,53,52
+54,1,167,9500.0,9500.0,54,2025-01-03 06:00:00,Hansaplast Plester,Produk Kesehatan,True,Olympie Fayerbrother,ofayerbrother1h@goo.gl,Genderqueer,53,151
+54,4,150,23500.0,94000.0,54,2025-01-03 06:00:00,Pepsodent Mouthwash Active Defense,Pasta Gigi dan Mouthwash,True,Olympie Fayerbrother,ofayerbrother1h@goo.gl,Genderqueer,53,134
+54,1,30,5500.0,5500.0,54,2025-01-03 06:00:00,Freshtea Jasmine 500ml,Minuman,True,Olympie Fayerbrother,ofayerbrother1h@goo.gl,Genderqueer,53,29
+55,2,78,12500.0,25000.0,55,2025-01-03 07:00:00,Saus Sambal Indofood,Bumbu Dapur,True,Dorene Kellet,dkellet1i@cornell.edu,Female,54,76
+55,1,170,4500.0,4500.0,55,2025-01-03 07:00:00,Paramex Tablet,Produk Kesehatan,True,Dorene Kellet,dkellet1i@cornell.edu,Female,54,154
+55,2,199,69500.0,139000.0,55,2025-01-03 07:00:00,Kanzler Beef Sausage,Makanan Beku (Frozen Food),True,Dorene Kellet,dkellet1i@cornell.edu,Female,54,183
+55,1,204,52500.0,52500.0,55,2025-01-03 07:00:00,Bernardi Bakso Sapi,Makanan Beku (Frozen Food),True,Dorene Kellet,dkellet1i@cornell.edu,Female,54,188
+56,3,214,9500.0,28500.0,56,2025-01-03 08:00:00,Malkist Roma Cokelat,Camilan Manis,True,Yank Petken,ypetken1j@networksolutions.com,Male,55,197
+56,3,89,4500.0,13500.0,56,2025-01-03 08:00:00,Bumbu Indofood Rendang,Bumbu Dapur,True,Yank Petken,ypetken1j@networksolutions.com,Male,55,87
+56,2,103,85000.0,170000.0,56,2025-01-03 08:00:00,Beras Pandan Wangi Cap Caping Gunung 5kg,Beras dan Bahan Pokok,True,Yank Petken,ypetken1j@networksolutions.com,Male,55,101
+56,2,21,10000.0,20000.0,56,2025-01-03 08:00:00,You C1000 Orange,Minuman,True,Yank Petken,ypetken1j@networksolutions.com,Male,55,20
+57,4,112,3800.0,15200.0,57,2025-01-03 09:00:00,Sabun Nuvo Family Protection,Sabun dan Perawatan Tubuh,True,Ivar MacAulay,imacaulay1k@census.gov,Male,56,110
+57,3,78,12500.0,37500.0,57,2025-01-03 09:00:00,Saus Sambal Indofood,Bumbu Dapur,True,Ivar MacAulay,imacaulay1k@census.gov,Male,56,76
+57,4,119,27000.0,108000.0,57,2025-01-03 09:00:00,Citra Body Lotion Pearly White UV,Sabun dan Perawatan Tubuh,True,Ivar MacAulay,imacaulay1k@census.gov,Male,56,117
+57,5,90,7000.0,35000.0,57,2025-01-03 09:00:00,MamaSuka Kaldu Jamur,Bumbu Dapur,True,Ivar MacAulay,imacaulay1k@census.gov,Male,56,88
+58,1,96,34000.0,34000.0,58,2025-01-03 10:00:00,Minyak Filma 2L,Beras dan Bahan Pokok,True,Briano Rimell,brimell1l@etsy.com,Male,57,94
+58,3,35,7500.0,22500.0,58,2025-01-03 10:00:00,Ultra Milk Cokelat 250ml,Produk Susu,True,Briano Rimell,brimell1l@etsy.com,Male,57,34
+58,3,96,34000.0,102000.0,58,2025-01-03 10:00:00,Minyak Filma 2L,Beras dan Bahan Pokok,True,Briano Rimell,brimell1l@etsy.com,Male,57,94
+58,3,14,15000.0,45000.0,58,2025-01-03 10:00:00,Mi Samyang Spicy Chicken,Makanan Instan,True,Briano Rimell,brimell1l@etsy.com,Male,57,13
+59,3,82,6000.0,18000.0,59,2025-01-03 11:00:00,BonCabe Level 10,Bumbu Dapur,True,Chrotoem Willshire,cwillshire1m@deliciousdays.com,Male,58,80
+59,3,61,10500.0,31500.0,59,2025-01-03 11:00:00,Chitato Sapi Panggang,Makanan Ringan,True,Chrotoem Willshire,cwillshire1m@deliciousdays.com,Male,58,60
+59,3,65,9000.0,27000.0,59,2025-01-03 11:00:00,Taro Net Seaweed,Makanan Ringan,True,Chrotoem Willshire,cwillshire1m@deliciousdays.com,Male,58,64
+59,1,30,5500.0,5500.0,59,2025-01-03 11:00:00,Freshtea Jasmine 500ml,Minuman,True,Chrotoem Willshire,cwillshire1m@deliciousdays.com,Male,58,29
+60,1,198,32500.0,32500.0,60,2025-01-03 12:00:00,Fiesta Sosis Sapi Goreng,Makanan Beku (Frozen Food),True,Harwell Cookes,hcookes1n@mit.edu,Male,59,182
+60,5,211,25000.0,125000.0,60,2025-01-03 12:00:00,SilverQueen Cashew Milk Chocolate,Camilan Manis,True,Harwell Cookes,hcookes1n@mit.edu,Male,59,195
+60,1,37,9000.0,9000.0,60,2025-01-03 12:00:00,Cimory Fresh Milk Chocolate,Produk Susu,True,Harwell Cookes,hcookes1n@mit.edu,Male,59,36
+60,4,43,185000.0,740000.0,60,2025-01-03 12:00:00,Enfagrow A+ 3 Vanilla,Produk Susu,True,Harwell Cookes,hcookes1n@mit.edu,Male,59,42
+61,3,25,7000.0,21000.0,1,2025-01-03 13:00:00,Good Day Coolin Coffee,Minuman,True,Sibby Cartin,scartin0@google.cn,Female,0,24
+61,2,33,18000.0,36000.0,1,2025-01-03 13:00:00,Indomilk Full Cream 1L,Produk Susu,True,Sibby Cartin,scartin0@google.cn,Female,0,32
+61,4,166,18500.0,74000.0,1,2025-01-03 13:00:00,Betadine Antiseptic Solution,Produk Kesehatan,True,Sibby Cartin,scartin0@google.cn,Female,0,150
+62,4,205,38500.0,154000.0,2,2025-01-03 14:00:00,Fiesta Tempura Chicken Nugget,Makanan Beku (Frozen Food),True,Meredith Aven,maven1@marketwatch.com,Male,1,189
+62,4,47,12500.0,50000.0,2,2025-01-03 14:00:00,Good Day Mocacinno,Kopi dan Teh,True,Meredith Aven,maven1@marketwatch.com,Male,1,46
+62,3,117,45000.0,135000.0,2,2025-01-03 14:00:00,Nivea Extra White Firming Lotion,Sabun dan Perawatan Tubuh,True,Meredith Aven,maven1@marketwatch.com,Male,1,115
+62,5,25,7000.0,35000.0,2,2025-01-03 14:00:00,Good Day Coolin Coffee,Minuman,True,Meredith Aven,maven1@marketwatch.com,Male,1,24
+63,2,179,21500.0,43000.0,3,2025-01-03 15:00:00,Woods Peppermint Cough Syrup,Produk Kesehatan,True,Udell Incogna,uincogna2@squarespace.com,Polygender,2,163
+63,4,72,15000.0,60000.0,3,2025-01-03 15:00:00,Beng-Beng Share It,Makanan Ringan,True,Udell Incogna,uincogna2@squarespace.com,Polygender,2,70
+63,1,171,21500.0,21500.0,3,2025-01-03 15:00:00,Minyak Kayu Putih Cap Lang,Produk Kesehatan,True,Udell Incogna,uincogna2@squarespace.com,Polygender,2,155
+63,3,54,55000.0,165000.0,3,2025-01-03 15:00:00,Starbucks VIA Colombia,Kopi dan Teh,True,Udell Incogna,uincogna2@squarespace.com,Polygender,2,53
+64,5,75,7000.0,35000.0,4,2025-01-03 16:00:00,Dueto Wafer Chocolate,Makanan Ringan,True,Rik Elan,relan3@opera.com,Male,3,73
+64,1,156,65000.0,65000.0,4,2025-01-03 16:00:00,Sensi Dry Pants,Produk Bayi,True,Rik Elan,relan3@opera.com,Male,3,140
+64,4,183,23000.0,92000.0,4,2025-01-03 16:00:00,Attack Easy Detergent Bubuk,Alat Kebersihan Rumah,True,Rik Elan,relan3@opera.com,Male,3,167
+64,4,185,12500.0,50000.0,4,2025-01-03 16:00:00,Bayclin Pembersih Lantai,Alat Kebersihan Rumah,True,Rik Elan,relan3@opera.com,Male,3,169
+65,4,162,35000.0,140000.0,5,2025-01-03 17:00:00,Baby Huki Botol Susu PP 250ml,Produk Bayi,True,Sara Ludlam,sludlam4@dell.com,Female,4,146
+65,1,83,8500.0,8500.0,5,2025-01-03 17:00:00,Sajiku Tepung Bumbu Serbaguna,Bumbu Dapur,True,Sara Ludlam,sludlam4@dell.com,Female,4,81
+65,1,72,15000.0,15000.0,5,2025-01-03 17:00:00,Beng-Beng Share It,Makanan Ringan,True,Sara Ludlam,sludlam4@dell.com,Female,4,70
+65,2,113,19500.0,39000.0,5,2025-01-03 17:00:00,Body Wash Citra Natural White,Sabun dan Perawatan Tubuh,True,Sara Ludlam,sludlam4@dell.com,Female,4,111
+66,1,214,9500.0,9500.0,6,2025-01-03 18:00:00,Malkist Roma Cokelat,Camilan Manis,True,Nellie Lydiatt,nlydiatt5@tmall.com,Female,5,197
+66,5,93,75000.0,375000.0,6,2025-01-03 18:00:00,Beras Kepala Cap Anak Raja 5kg,Beras dan Bahan Pokok,True,Nellie Lydiatt,nlydiatt5@tmall.com,Female,5,91
+66,3,182,25500.0,76500.0,6,2025-01-03 18:00:00,Rinso Detergent Cair Anti Noda,Alat Kebersihan Rumah,True,Nellie Lydiatt,nlydiatt5@tmall.com,Female,5,166
+66,3,176,18500.0,55500.0,6,2025-01-03 18:00:00,Enervon-C Tablet,Produk Kesehatan,True,Nellie Lydiatt,nlydiatt5@tmall.com,Female,5,160
+67,4,223,9000.0,36000.0,7,2025-01-03 19:00:00,Better Wafer Roll Chocolate,Camilan Manis,True,Baldwin Di Baudi,bdibaudi6@who.int,Male,6,206
+67,1,113,19500.0,19500.0,7,2025-01-03 19:00:00,Body Wash Citra Natural White,Sabun dan Perawatan Tubuh,True,Baldwin Di Baudi,bdibaudi6@who.int,Male,6,111
+67,5,225,10000.0,50000.0,7,2025-01-03 19:00:00,Pocky Strawberry,Camilan Manis,True,Baldwin Di Baudi,bdibaudi6@who.int,Male,6,208
+67,2,160,18500.0,37000.0,7,2025-01-03 19:00:00,Bambi Baby Lotion,Produk Bayi,True,Baldwin Di Baudi,bdibaudi6@who.int,Male,6,144
+68,4,115,55000.0,220000.0,8,2025-01-03 20:00:00,Body Wash Scarlett Brightening Pomegranate,Sabun dan Perawatan Tubuh,True,Malanie Baughan,mbaughan7@infoseek.co.jp,Female,7,113
+68,5,219,15000.0,75000.0,8,2025-01-03 20:00:00,Twix Chocolate Bar,Camilan Manis,True,Malanie Baughan,mbaughan7@infoseek.co.jp,Female,7,202
+68,4,164,165000.0,660000.0,8,2025-01-03 20:00:00,Bebelove 1 Susu Formula,Produk Bayi,True,Malanie Baughan,mbaughan7@infoseek.co.jp,Female,7,148
+68,1,149,17500.0,17500.0,8,2025-01-03 20:00:00,Darlie All Shiny White,Pasta Gigi dan Mouthwash,True,Malanie Baughan,mbaughan7@infoseek.co.jp,Female,7,133
+69,3,15,6500.0,19500.0,9,2025-01-03 21:00:00,Mi BonCabe Level 15,Makanan Instan,True,Adelaide Spiers,aspiers8@tiny.cc,Female,8,14
+69,1,103,85000.0,85000.0,9,2025-01-03 21:00:00,Beras Pandan Wangi Cap Caping Gunung 5kg,Beras dan Bahan Pokok,True,Adelaide Spiers,aspiers8@tiny.cc,Female,8,101
+69,4,84,9500.0,38000.0,9,2025-01-03 21:00:00,Kobe Tepung Kentucky Super Crispy,Bumbu Dapur,True,Adelaide Spiers,aspiers8@tiny.cc,Female,8,82
+69,2,180,18000.0,36000.0,9,2025-01-03 21:00:00,OBH Combi Anak,Produk Kesehatan,True,Adelaide Spiers,aspiers8@tiny.cc,Female,8,164
+70,5,185,12500.0,62500.0,10,2025-01-03 22:00:00,Bayclin Pembersih Lantai,Alat Kebersihan Rumah,True,Tamma MacSorley,tmacsorley9@goodreads.com,Female,9,169
+70,4,173,6500.0,26000.0,10,2025-01-03 22:00:00,Antangin JRG,Produk Kesehatan,True,Tamma MacSorley,tmacsorley9@goodreads.com,Female,9,157
+70,1,147,18500.0,18500.0,10,2025-01-03 22:00:00,Colgate Total 12 Professional Clean,Pasta Gigi dan Mouthwash,True,Tamma MacSorley,tmacsorley9@goodreads.com,Female,9,131
+70,2,176,18500.0,37000.0,10,2025-01-03 22:00:00,Enervon-C Tablet,Produk Kesehatan,True,Tamma MacSorley,tmacsorley9@goodreads.com,Female,9,160
+71,5,203,39500.0,197500.0,11,2025-01-03 23:00:00,Fiesta Chicken Karage,Makanan Beku (Frozen Food),True,Noelyn Leggate,nleggatea@naver.com,Female,10,187
+71,1,46,13500.0,13500.0,11,2025-01-03 23:00:00,Kopi Kapal Api Special Mix,Kopi dan Teh,True,Noelyn Leggate,nleggatea@naver.com,Female,10,45
+71,4,67,12500.0,50000.0,11,2025-01-03 23:00:00,Kacang Garuda Rosta,Makanan Ringan,True,Noelyn Leggate,nleggatea@naver.com,Female,10,66
+71,5,82,6000.0,30000.0,11,2025-01-03 23:00:00,BonCabe Level 10,Bumbu Dapur,True,Noelyn Leggate,nleggatea@naver.com,Female,10,80
+72,3,216,14500.0,43500.0,12,2025-01-04 00:00:00,Delfi Top,Camilan Manis,True,Alissa Boost,aboostb@i2i.jp,Female,11,199
+72,4,83,8500.0,34000.0,12,2025-01-04 00:00:00,Sajiku Tepung Bumbu Serbaguna,Bumbu Dapur,True,Alissa Boost,aboostb@i2i.jp,Female,11,81
+72,2,157,23717.42195367573,71193.2527693857,12,2025-01-04 00:00:00,,,,Alissa Boost,aboostb@i2i.jp,Female,11,141
+72,4,152,78000.0,312000.0,12,2025-01-04 00:00:00,Sweety Silver Pants,Produk Bayi,True,Alissa Boost,aboostb@i2i.jp,Female,11,136
+73,2,187,14000.0,28000.0,13,2025-01-04 01:00:00,Super Pell Pembersih Lantai Lemon,Alat Kebersihan Rumah,True,Marylinda Witton,mwittonc@angelfire.com,Female,12,171
+73,4,192,9500.0,38000.0,13,2025-01-04 01:00:00,Mama Lemon Jeruk Nipis,Alat Kebersihan Rumah,True,Marylinda Witton,mwittonc@angelfire.com,Female,12,176
+73,5,20,8000.0,40000.0,13,2025-01-04 01:00:00,Pocari Sweat 500ml,Minuman,True,Marylinda Witton,mwittonc@angelfire.com,Female,12,19
+73,2,194,13500.0,27000.0,13,2025-01-04 01:00:00,S.O.S Pembersih Serbaguna Lemon,Alat Kebersihan Rumah,True,Marylinda Witton,mwittonc@angelfire.com,Female,12,178
+74,2,90,7000.0,14000.0,14,2025-01-04 02:00:00,MamaSuka Kaldu Jamur,Bumbu Dapur,True,Korry Rothon,krothond@cisco.com,Female,13,88
+74,5,171,21500.0,107500.0,14,2025-01-04 02:00:00,Minyak Kayu Putih Cap Lang,Produk Kesehatan,True,Korry Rothon,krothond@cisco.com,Female,13,155
+74,3,47,12500.0,37500.0,14,2025-01-04 02:00:00,Good Day Mocacinno,Kopi dan Teh,True,Korry Rothon,krothond@cisco.com,Female,13,46
+74,5,106,4500.0,22500.0,14,2025-01-04 02:00:00,Sabun Lifebuoy Total 10,Sabun dan Perawatan Tubuh,True,Korry Rothon,krothond@cisco.com,Female,13,104
+75,5,21,10000.0,50000.0,15,2025-01-04 03:00:00,You C1000 Orange,Minuman,True,Bryce Deniscke,bdenisckee@adobe.com,Male,14,20
+75,5,97,13000.0,65000.0,15,2025-01-04 03:00:00,Tepung Terigu Segitiga Biru 1kg,Beras dan Bahan Pokok,True,Bryce Deniscke,bdenisckee@adobe.com,Male,14,95
+75,3,92,68000.0,204000.0,15,2025-01-04 03:00:00,Beras Setra Ramos Cap Ayam Jago 5kg,Beras dan Bahan Pokok,True,Bryce Deniscke,bdenisckee@adobe.com,Male,14,90
+75,3,12,2900.0,8700.0,15,2025-01-04 03:00:00,Mie Burung Dara Ayam Bawang,Makanan Instan,True,Bryce Deniscke,bdenisckee@adobe.com,Male,14,11
+76,3,21,10000.0,30000.0,16,2025-01-04 04:00:00,You C1000 Orange,Minuman,True,Wade Vertey,wverteyf@amazon.co.jp,Male,15,20
+76,5,220,22500.0,112500.0,16,2025-01-04 04:00:00,Dairy Milk Cadbury,Camilan Manis,True,Wade Vertey,wverteyf@amazon.co.jp,Male,15,203
+76,5,188,15500.0,77500.0,16,2025-01-04 04:00:00,Vixal Pembersih Kamar Mandi,Alat Kebersihan Rumah,True,Wade Vertey,wverteyf@amazon.co.jp,Male,15,172
+76,2,145,35000.0,70000.0,16,2025-01-04 04:00:00,Betadine Mouthwash dan Gargle,Pasta Gigi dan Mouthwash,True,Wade Vertey,wverteyf@amazon.co.jp,Male,15,129
+77,3,161,28500.0,85500.0,17,2025-01-04 05:00:00,Pure Baby Liquid Cleanser,Produk Bayi,True,Gayler Streader,gstreaderg@pagesperso-orange.fr,Male,16,145
+77,1,176,18500.0,18500.0,17,2025-01-04 05:00:00,Enervon-C Tablet,Produk Kesehatan,True,Gayler Streader,gstreaderg@pagesperso-orange.fr,Male,16,160
+77,2,174,7500.0,15000.0,17,2025-01-04 05:00:00,Tolak Angin Cair,Produk Kesehatan,True,Gayler Streader,gstreaderg@pagesperso-orange.fr,Male,16,158
+77,1,160,18500.0,18500.0,17,2025-01-04 05:00:00,Bambi Baby Lotion,Produk Bayi,True,Gayler Streader,gstreaderg@pagesperso-orange.fr,Male,16,144
+78,3,41,95000.0,285000.0,18,2025-01-04 06:00:00,Bebelac 3 Vanila,Produk Susu,True,Stacy Berge,sbergeh@csmonitor.com,Polygender,17,40
+78,2,61,10500.0,21000.0,18,2025-01-04 06:00:00,Chitato Sapi Panggang,Makanan Ringan,True,Stacy Berge,sbergeh@csmonitor.com,Polygender,17,60
+78,1,102,6000.0,6000.0,18,2025-01-04 06:00:00,Garam Refina 500g,Beras dan Bahan Pokok,True,Stacy Berge,sbergeh@csmonitor.com,Polygender,17,100
+78,3,173,6500.0,19500.0,18,2025-01-04 06:00:00,Antangin JRG,Produk Kesehatan,True,Stacy Berge,sbergeh@csmonitor.com,Polygender,17,157
+79,1,73,10000.0,10000.0,19,2025-01-04 07:00:00,Pocky Chocolate,Makanan Ringan,True,Alene Perrins,aperrinsi@google.it,Polygender,18,71
+79,5,50,8500.0,42500.0,19,2025-01-04 07:00:00,ABC Kopi Susu,Kopi dan Teh,True,Alene Perrins,aperrinsi@google.it,Polygender,18,49
+79,1,95,36000.0,36000.0,19,2025-01-04 07:00:00,Minyak Goreng SunCo 2L,Beras dan Bahan Pokok,True,Alene Perrins,aperrinsi@google.it,Polygender,18,93
+79,3,221,17500.0,52500.0,19,2025-01-04 07:00:00,Snickers Chocolate Bar,Camilan Manis,True,Alene Perrins,aperrinsi@google.it,Polygender,18,204
+80,3,24,5500.0,16500.0,20,2025-01-04 08:00:00,Floridina Jeruk 360ml,Minuman,True,Nanni Frossell,nfrossellj@chicagotribune.com,Female,19,23
+80,5,78,12500.0,62500.0,20,2025-01-04 08:00:00,Saus Sambal Indofood,Bumbu Dapur,True,Nanni Frossell,nfrossellj@chicagotribune.com,Female,19,76
+80,2,102,6000.0,12000.0,20,2025-01-04 08:00:00,Garam Refina 500g,Beras dan Bahan Pokok,True,Nanni Frossell,nfrossellj@chicagotribune.com,Female,19,100
+80,2,177,17000.0,34000.0,20,2025-01-04 08:00:00,Hemaviton Stamina Plus,Produk Kesehatan,True,Nanni Frossell,nfrossellj@chicagotribune.com,Female,19,161
+81,2,48,23000.0,46000.0,21,2025-01-04 09:00:00,Nescafe Classic 100g,Kopi dan Teh,True,Cahra Van Castele,cvancastelek@slashdot.org,Female,20,47
+81,1,20,8000.0,8000.0,21,2025-01-04 09:00:00,Pocari Sweat 500ml,Minuman,True,Cahra Van Castele,cvancastelek@slashdot.org,Female,20,19
+81,5,95,36000.0,180000.0,21,2025-01-04 09:00:00,Minyak Goreng SunCo 2L,Beras dan Bahan Pokok,True,Cahra Van Castele,cvancastelek@slashdot.org,Female,20,93
+81,2,60,35000.0,70000.0,21,2025-01-04 09:00:00,Dilmah Tea English Breakfast,Kopi dan Teh,True,Cahra Van Castele,cvancastelek@slashdot.org,Female,20,59
+82,1,94,35000.0,35000.0,22,2025-01-04 10:00:00,Minyak Goreng Bimoli 2L,Beras dan Bahan Pokok,True,Creighton Guillard,cguillardl@reuters.com,Male,21,92
+82,2,100,15500.0,31000.0,22,2025-01-04 10:00:00,Gula Pasir Rose Brand 1kg,Beras dan Bahan Pokok,True,Creighton Guillard,cguillardl@reuters.com,Male,21,98
+82,4,13,12500.0,50000.0,22,2025-01-04 10:00:00,Mi Instan Sehat Alami FitMee Shirataki,Makanan Instan,True,Creighton Guillard,cguillardl@reuters.com,Male,21,12
+82,2,68,8500.0,17000.0,22,2025-01-04 10:00:00,Astor Wafer Roll Chocolate,Makanan Ringan,True,Creighton Guillard,cguillardl@reuters.com,Male,21,67
+83,4,47,12500.0,50000.0,23,2025-01-04 11:00:00,Good Day Mocacinno,Kopi dan Teh,True,Minni Gelletly,mgelletlym@blogger.com,Female,22,46
+83,5,24,5500.0,27500.0,23,2025-01-04 11:00:00,Floridina Jeruk 360ml,Minuman,True,Minni Gelletly,mgelletlym@blogger.com,Female,22,23
+83,3,149,17500.0,52500.0,23,2025-01-04 11:00:00,Darlie All Shiny White,Pasta Gigi dan Mouthwash,True,Minni Gelletly,mgelletlym@blogger.com,Female,22,133
+83,5,96,34000.0,170000.0,23,2025-01-04 11:00:00,Minyak Filma 2L,Beras dan Bahan Pokok,True,Minni Gelletly,mgelletlym@blogger.com,Female,22,94
+84,5,77,25000.0,125000.0,24,2025-01-04 12:00:00,Kecap Bango Manis,Bumbu Dapur,True,Elisabeth Seary,esearyn@washingtonpost.com,Female,23,75
+84,3,48,23000.0,69000.0,24,2025-01-04 12:00:00,Nescafe Classic 100g,Kopi dan Teh,True,Elisabeth Seary,esearyn@washingtonpost.com,Female,23,47
+84,4,81,5000.0,20000.0,24,2025-01-04 12:00:00,Masako Rasa Sapi,Bumbu Dapur,True,Elisabeth Seary,esearyn@washingtonpost.com,Female,23,79
+84,5,20,8000.0,40000.0,24,2025-01-04 12:00:00,Pocari Sweat 500ml,Minuman,True,Elisabeth Seary,esearyn@washingtonpost.com,Female,23,19
+85,4,95,36000.0,144000.0,25,2025-01-04 13:00:00,Minyak Goreng SunCo 2L,Beras dan Bahan Pokok,True,Erna Hofer,ehofero@nbcnews.com,Female,24,93
+85,2,59,15000.0,30000.0,25,2025-01-04 13:00:00,Sosro Heritage Green Tea,Kopi dan Teh,True,Erna Hofer,ehofero@nbcnews.com,Female,24,58
+85,1,189,12500.0,12500.0,25,2025-01-04 13:00:00,SOS Pembersih Kaca,Alat Kebersihan Rumah,True,Erna Hofer,ehofero@nbcnews.com,Female,24,173
+85,3,216,14500.0,43500.0,25,2025-01-04 13:00:00,Delfi Top,Camilan Manis,True,Erna Hofer,ehofero@nbcnews.com,Female,24,199
+86,2,189,12500.0,25000.0,26,2025-01-04 14:00:00,SOS Pembersih Kaca,Alat Kebersihan Rumah,True,Yurik Ledwich,yledwichp@xinhuanet.com,Male,25,173
+86,1,40,75000.0,75000.0,26,2025-01-04 14:00:00,SGM Eksplor 1+ Vanilla,Produk Susu,True,Yurik Ledwich,yledwichp@xinhuanet.com,Male,25,39
+86,2,142,9500.0,19000.0,26,2025-01-04 14:00:00,Ciptadent Whitening,Pasta Gigi dan Mouthwash,True,Yurik Ledwich,yledwichp@xinhuanet.com,Male,25,126
+86,3,105,32000.0,96000.0,26,2025-01-04 14:00:00,Minyak Sovia 2L,Beras dan Bahan Pokok,True,Yurik Ledwich,yledwichp@xinhuanet.com,Male,25,103
+87,2,156,65000.0,130000.0,27,2025-01-04 15:00:00,Sensi Dry Pants,Produk Bayi,True,Lauretta Roelofs,lroelofsq@un.org,Female,26,140
+87,5,218,13500.0,67500.0,27,2025-01-04 15:00:00,Kinder Joy,Camilan Manis,True,Lauretta Roelofs,lroelofsq@un.org,Female,26,201
+87,4,171,21500.0,86000.0,27,2025-01-04 15:00:00,Minyak Kayu Putih Cap Lang,Produk Kesehatan,True,Lauretta Roelofs,lroelofsq@un.org,Female,26,155
+87,4,69,7500.0,30000.0,27,2025-01-04 15:00:00,Oreo Vanilla,Makanan Ringan,True,Lauretta Roelofs,lroelofsq@un.org,Female,26,68
+88,1,45,55000.0,55000.0,28,2025-01-04 16:00:00,Vidoran Xmart 1+ Vanilla,Produk Susu,True,Clint Wragg,cwraggr@webs.com,Male,27,44
+88,2,198,32500.0,65000.0,28,2025-01-04 16:00:00,Fiesta Sosis Sapi Goreng,Makanan Beku (Frozen Food),True,Clint Wragg,cwraggr@webs.com,Male,27,182
+88,1,196,45000.0,45000.0,28,2025-01-04 16:00:00,So Good Chicken Nugget Original,Makanan Beku (Frozen Food),True,Clint Wragg,cwraggr@webs.com,Male,27,180
+88,4,141,25000.0,100000.0,28,2025-01-04 16:00:00,Enzim Orthodontic Toothpaste,Pasta Gigi dan Mouthwash,True,Clint Wragg,cwraggr@webs.com,Male,27,125
+89,2,84,9500.0,19000.0,29,2025-01-04 17:00:00,Kobe Tepung Kentucky Super Crispy,Bumbu Dapur,True,Henrie Inworth,hinworths@shop-pro.jp,Genderfluid,28,82
+89,5,5,3000.0,15000.0,29,2025-01-04 17:00:00,Sarimi Ayam Kecap,Makanan Instan,True,Henrie Inworth,hinworths@shop-pro.jp,Genderfluid,28,4
+89,1,64,10000.0,10000.0,29,2025-01-04 17:00:00,Piattos Keju,Makanan Ringan,True,Henrie Inworth,hinworths@shop-pro.jp,Genderfluid,28,63
+89,1,30,5500.0,5500.0,29,2025-01-04 17:00:00,Freshtea Jasmine 500ml,Minuman,True,Henrie Inworth,hinworths@shop-pro.jp,Genderfluid,28,29
+90,4,173,6500.0,26000.0,30,2025-01-04 18:00:00,Antangin JRG,Produk Kesehatan,True,Grete Beverage,gbeveraget@google.ca,Female,29,157
+90,3,51,13500.0,40500.0,30,2025-01-04 18:00:00,Luwak White Koffie Original,Kopi dan Teh,True,Grete Beverage,gbeveraget@google.ca,Female,29,50
+90,5,14,15000.0,75000.0,30,2025-01-04 18:00:00,Mi Samyang Spicy Chicken,Makanan Instan,True,Grete Beverage,gbeveraget@google.ca,Female,29,13
+90,5,188,15500.0,77500.0,30,2025-01-04 18:00:00,Vixal Pembersih Kamar Mandi,Alat Kebersihan Rumah,True,Grete Beverage,gbeveraget@google.ca,Female,29,172
+91,1,219,15000.0,15000.0,31,2025-01-04 19:00:00,Twix Chocolate Bar,Camilan Manis,True,Dulce Filippello,dfilippellou@opera.com,Female,30,202
+91,1,215,12500.0,12500.0,31,2025-01-04 19:00:00,Tango Wafer Chocolate,Camilan Manis,True,Dulce Filippello,dfilippellou@opera.com,Female,30,198
+91,1,22,6000.0,6000.0,31,2025-01-04 19:00:00,Ultrajaya Teh Kotak Jasmine,Minuman,True,Dulce Filippello,dfilippellou@opera.com,Female,30,21
+91,3,153,95000.0,285000.0,31,2025-01-04 19:00:00,Merries Pants Good Skin,Produk Bayi,True,Dulce Filippello,dfilippellou@opera.com,Female,30,137
+92,4,51,13500.0,54000.0,32,2025-01-04 20:00:00,Luwak White Koffie Original,Kopi dan Teh,True,Alfi Feldstern,afeldsternv@blinklist.com,Female,31,50
+92,4,175,8500.0,34000.0,32,2025-01-04 20:00:00,Promag Tablet,Produk Kesehatan,True,Alfi Feldstern,afeldsternv@blinklist.com,Female,31,159
+92,2,194,13500.0,27000.0,32,2025-01-04 20:00:00,S.O.S Pembersih Serbaguna Lemon,Alat Kebersihan Rumah,True,Alfi Feldstern,afeldsternv@blinklist.com,Female,31,178
+92,1,35,7500.0,7500.0,32,2025-01-04 20:00:00,Ultra Milk Cokelat 250ml,Produk Susu,True,Alfi Feldstern,afeldsternv@blinklist.com,Female,31,34
+93,3,224,12000.0,36000.0,33,2025-01-04 21:00:00,Ovaltine Cookies,Camilan Manis,True,Cherrita Edelheid,cedelheidw@soundcloud.com,Female,32,207
+93,3,33,18000.0,54000.0,33,2025-01-04 21:00:00,Indomilk Full Cream 1L,Produk Susu,True,Cherrita Edelheid,cedelheidw@soundcloud.com,Female,32,32
+93,1,63,11000.0,11000.0,33,2025-01-04 21:00:00,Lays Rumput Laut,Makanan Ringan,True,Cherrita Edelheid,cedelheidw@soundcloud.com,Female,32,62
+93,1,194,13500.0,13500.0,33,2025-01-04 21:00:00,S.O.S Pembersih Serbaguna Lemon,Alat Kebersihan Rumah,True,Cherrita Edelheid,cedelheidw@soundcloud.com,Female,32,178
+94,3,18,6500.0,19500.0,34,2025-01-04 22:00:00,Aqua 1.5L,Minuman,True,Balduin Bailie,bbailiex@washington.edu,Male,33,17
+94,1,33,18000.0,18000.0,34,2025-01-04 22:00:00,Indomilk Full Cream 1L,Produk Susu,True,Balduin Bailie,bbailiex@washington.edu,Male,33,32
+94,2,3,3400.0,6800.0,34,2025-01-04 22:00:00,Mie Sedaap Kari Ayam,Makanan Instan,True,Balduin Bailie,bbailiex@washington.edu,Male,33,2
+94,4,189,12500.0,50000.0,34,2025-01-04 22:00:00,SOS Pembersih Kaca,Alat Kebersihan Rumah,True,Balduin Bailie,bbailiex@washington.edu,Male,33,173
+95,5,49,12000.0,60000.0,35,2025-01-04 23:00:00,Torabika Creamy Latte,Kopi dan Teh,True,Garik Ezzell,gezzelly@google.com.au,Male,34,48
+95,5,76,15000.0,75000.0,35,2025-01-04 23:00:00,Kecap ABC Manis,Bumbu Dapur,True,Garik Ezzell,gezzelly@google.com.au,Male,34,74
+95,3,24,5500.0,16500.0,35,2025-01-04 23:00:00,Floridina Jeruk 360ml,Minuman,True,Garik Ezzell,gezzelly@google.com.au,Male,34,23
+95,2,151,85000.0,170000.0,35,2025-01-04 23:00:00,MamyPoko Pants Extra Soft,Produk Bayi,True,Garik Ezzell,gezzelly@google.com.au,Male,34,135
+96,3,159,23500.0,70500.0,36,2025-01-05 00:00:00,Cussons Baby Powder Fresh dan Nourish,Produk Bayi,True,Leila Hainey`,lhaineyz@hhs.gov,Female,35,143
+96,2,119,27000.0,54000.0,36,2025-01-05 00:00:00,Citra Body Lotion Pearly White UV,Sabun dan Perawatan Tubuh,True,Leila Hainey`,lhaineyz@hhs.gov,Female,35,117
+96,5,40,75000.0,375000.0,36,2025-01-05 00:00:00,SGM Eksplor 1+ Vanilla,Produk Susu,True,Leila Hainey`,lhaineyz@hhs.gov,Female,35,39
+96,4,163,37500.0,150000.0,36,2025-01-05 00:00:00,Pigeon Baby Shampoo Chamomile,Produk Bayi,True,Leila Hainey`,lhaineyz@hhs.gov,Female,35,147
+97,1,199,69500.0,69500.0,37,2025-01-05 01:00:00,Kanzler Beef Sausage,Makanan Beku (Frozen Food),True,Elayne Von Salzberg,evonsalzberg10@cbc.ca,Female,36,183
+97,2,89,4500.0,9000.0,37,2025-01-05 01:00:00,Bumbu Indofood Rendang,Bumbu Dapur,True,Elayne Von Salzberg,evonsalzberg10@cbc.ca,Female,36,87
+97,1,100,15500.0,15500.0,37,2025-01-05 01:00:00,Gula Pasir Rose Brand 1kg,Beras dan Bahan Pokok,True,Elayne Von Salzberg,evonsalzberg10@cbc.ca,Female,36,98
+97,2,184,17500.0,35000.0,37,2025-01-05 01:00:00,Molto Pewangi All Variants,Alat Kebersihan Rumah,True,Elayne Von Salzberg,evonsalzberg10@cbc.ca,Female,36,168
+98,3,160,18500.0,55500.0,38,2025-01-05 02:00:00,Bambi Baby Lotion,Produk Bayi,True,Gloriana Westmarland,gwestmarland11@thetimes.co.uk,Female,37,144
+98,3,106,4500.0,13500.0,38,2025-01-05 02:00:00,Sabun Lifebuoy Total 10,Sabun dan Perawatan Tubuh,True,Gloriana Westmarland,gwestmarland11@thetimes.co.uk,Female,37,104
+98,5,138,12000.0,60000.0,38,2025-01-05 02:00:00,CloseUp Ever Fresh,Pasta Gigi dan Mouthwash,True,Gloriana Westmarland,gwestmarland11@thetimes.co.uk,Female,37,122
+98,3,4,2500.0,7500.0,38,2025-01-05 02:00:00,Mie Gelas Ayam Bawang,Makanan Instan,True,Gloriana Westmarland,gwestmarland11@thetimes.co.uk,Female,37,3
+99,3,166,18500.0,55500.0,39,2025-01-05 03:00:00,Betadine Antiseptic Solution,Produk Kesehatan,True,Randene Feaster,rfeaster12@google.ru,Female,38,150
+99,5,187,14000.0,70000.0,39,2025-01-05 03:00:00,Super Pell Pembersih Lantai Lemon,Alat Kebersihan Rumah,True,Randene Feaster,rfeaster12@google.ru,Female,38,171
+99,2,41,95000.0,190000.0,39,2025-01-05 03:00:00,Bebelac 3 Vanila,Produk Susu,True,Randene Feaster,rfeaster12@google.ru,Female,38,40
+99,3,53,5500.0,16500.0,39,2025-01-05 03:00:00,Kopi Tubruk Gadjah,Kopi dan Teh,True,Randene Feaster,rfeaster12@google.ru,Female,38,52
+100,3,117,45000.0,135000.0,40,2025-01-05 04:00:00,Nivea Extra White Firming Lotion,Sabun dan Perawatan Tubuh,True,Roseann Barbera,rbarbera13@un.org,Female,39,115
+100,3,19,7000.0,21000.0,40,2025-01-05 04:00:00,Mizone Lychee Lemon,Minuman,True,Roseann Barbera,rbarbera13@un.org,Female,39,18
+100,5,17,4000.0,20000.0,40,2025-01-05 04:00:00,Le Minerale 600ml,Minuman,True,Roseann Barbera,rbarbera13@un.org,Female,39,16
+100,3,106,4500.0,13500.0,40,2025-01-05 04:00:00,Sabun Lifebuoy Total 10,Sabun dan Perawatan Tubuh,True,Roseann Barbera,rbarbera13@un.org,Female,39,104
+101,3,10,3200.0,9600.0,41,2025-01-05 05:00:00,Mie ABC Selera Pedas,Makanan Instan,True,Lonnard Ledley,lledley14@youtube.com,Male,40,9
+101,2,224,12000.0,24000.0,41,2025-01-05 05:00:00,Ovaltine Cookies,Camilan Manis,True,Lonnard Ledley,lledley14@youtube.com,Male,40,207
+101,4,157,23717.42195367573,71193.2527693857,41,2025-01-05 05:00:00,,,,Lonnard Ledley,lledley14@youtube.com,Male,40,141
+101,4,139,28500.0,114000.0,41,2025-01-05 05:00:00,Sensodyne Repair dan Protect,Pasta Gigi dan Mouthwash,True,Lonnard Ledley,lledley14@youtube.com,Male,40,123
+102,2,221,17500.0,35000.0,42,2025-01-05 06:00:00,Snickers Chocolate Bar,Camilan Manis,True,Bryant Antley,bantley15@bbb.org,Male,41,204
+102,5,197,38500.0,192500.0,42,2025-01-05 06:00:00,Fiesta Chicken Nugget Stick,Makanan Beku (Frozen Food),True,Bryant Antley,bantley15@bbb.org,Male,41,181
+102,3,13,12500.0,37500.0,42,2025-01-05 06:00:00,Mi Instan Sehat Alami FitMee Shirataki,Makanan Instan,True,Bryant Antley,bantley15@bbb.org,Male,41,12
+102,2,57,5000.0,10000.0,42,2025-01-05 06:00:00,Teh Pucuk Harum Jasmine,Kopi dan Teh,True,Bryant Antley,bantley15@bbb.org,Male,41,56
+103,5,108,4200.0,21000.0,43,2025-01-05 07:00:00,Sabun Lux Soft Touch,Sabun dan Perawatan Tubuh,True,Augie People,apeople16@princeton.edu,Male,42,106
+103,5,75,7000.0,35000.0,43,2025-01-05 07:00:00,Dueto Wafer Chocolate,Makanan Ringan,True,Augie People,apeople16@princeton.edu,Male,42,73
+103,3,157,23717.42195367573,71193.2527693857,43,2025-01-05 07:00:00,,,,Augie People,apeople16@princeton.edu,Male,42,141
+103,4,140,10500.0,42000.0,43,2025-01-05 07:00:00,Formula Pasta Gigi Anti Bakteri,Pasta Gigi dan Mouthwash,True,Augie People,apeople16@princeton.edu,Male,42,124
+104,5,59,15000.0,75000.0,44,2025-01-05 08:00:00,Sosro Heritage Green Tea,Kopi dan Teh,True,Charlean Redington,credington17@usnews.com,Female,43,58
+104,3,23,6500.0,19500.0,44,2025-01-05 08:00:00,Nu Green Tea Original,Minuman,True,Charlean Redington,credington17@usnews.com,Female,43,22
+104,4,15,6500.0,26000.0,44,2025-01-05 08:00:00,Mi BonCabe Level 15,Makanan Instan,True,Charlean Redington,credington17@usnews.com,Female,43,14
+104,2,48,23000.0,46000.0,44,2025-01-05 08:00:00,Nescafe Classic 100g,Kopi dan Teh,True,Charlean Redington,credington17@usnews.com,Female,43,47
+105,4,29,4500.0,18000.0,45,2025-01-05 09:00:00,Nestle Pure Life 600ml,Minuman,True,Heall Smaleman,hsmaleman18@hibu.com,Male,44,28
+105,2,181,24000.0,48000.0,45,2025-01-05 09:00:00,So Klin Liquid Detergent,Alat Kebersihan Rumah,True,Heall Smaleman,hsmaleman18@hibu.com,Male,44,165
+105,3,195,7500.0,22500.0,45,2025-01-05 09:00:00,Scotch Brite Spons Cuci Piring,Alat Kebersihan Rumah,True,Heall Smaleman,hsmaleman18@hibu.com,Male,44,179
+105,5,66,16500.0,82500.0,45,2025-01-05 09:00:00,Kusuka Keripik Singkong,Makanan Ringan,True,Heall Smaleman,hsmaleman18@hibu.com,Male,44,65
+106,5,184,17500.0,87500.0,46,2025-01-05 10:00:00,Molto Pewangi All Variants,Alat Kebersihan Rumah,True,Ralf Isacke,risacke19@symantec.com,Male,45,168
+106,2,10,3200.0,6400.0,46,2025-01-05 10:00:00,Mie ABC Selera Pedas,Makanan Instan,True,Ralf Isacke,risacke19@symantec.com,Male,45,9
+106,1,72,15000.0,15000.0,46,2025-01-05 10:00:00,Beng-Beng Share It,Makanan Ringan,True,Ralf Isacke,risacke19@symantec.com,Male,45,70
+106,3,107,5000.0,15000.0,46,2025-01-05 10:00:00,Sabun Dettol Original,Sabun dan Perawatan Tubuh,True,Ralf Isacke,risacke19@symantec.com,Male,45,105
+107,2,58,9500.0,19000.0,47,2025-01-05 11:00:00,Tong Tji Teh Celup,Kopi dan Teh,True,Barrett Godbolt,bgodbolt1a@gravatar.com,Genderqueer,46,57
+107,3,88,3500.0,10500.0,47,2025-01-05 11:00:00,Desaku Bumbu Racik Ayam Goreng,Bumbu Dapur,True,Barrett Godbolt,bgodbolt1a@gravatar.com,Genderqueer,46,86
+107,1,102,6000.0,6000.0,47,2025-01-05 11:00:00,Garam Refina 500g,Beras dan Bahan Pokok,True,Barrett Godbolt,bgodbolt1a@gravatar.com,Genderqueer,46,100
+107,2,50,8500.0,17000.0,47,2025-01-05 11:00:00,ABC Kopi Susu,Kopi dan Teh,True,Barrett Godbolt,bgodbolt1a@gravatar.com,Genderqueer,46,49
+108,3,22,6000.0,18000.0,48,2025-01-05 12:00:00,Ultrajaya Teh Kotak Jasmine,Minuman,True,Ferguson Cicccitti,fcicccitti1b@google.com,Genderqueer,47,21
+108,5,36,9500.0,47500.0,48,2025-01-05 12:00:00,Bear Brand Susu Steril,Produk Susu,True,Ferguson Cicccitti,fcicccitti1b@google.com,Genderqueer,47,35
+108,1,45,55000.0,55000.0,48,2025-01-05 12:00:00,Vidoran Xmart 1+ Vanilla,Produk Susu,True,Ferguson Cicccitti,fcicccitti1b@google.com,Genderqueer,47,44
+108,5,140,10500.0,52500.0,48,2025-01-05 12:00:00,Formula Pasta Gigi Anti Bakteri,Pasta Gigi dan Mouthwash,True,Ferguson Cicccitti,fcicccitti1b@google.com,Genderqueer,47,124
+109,1,223,9000.0,9000.0,49,2025-01-05 13:00:00,Better Wafer Roll Chocolate,Camilan Manis,True,Derward Rubinowicz,drubinowicz1c@mapy.cz,Male,48,206
+109,3,48,23000.0,69000.0,49,2025-01-05 13:00:00,Nescafe Classic 100g,Kopi dan Teh,True,Derward Rubinowicz,drubinowicz1c@mapy.cz,Male,48,47
+109,3,222,8500.0,25500.0,49,2025-01-05 13:00:00,Nabati Wafer Chocolate,Camilan Manis,True,Derward Rubinowicz,drubinowicz1c@mapy.cz,Male,48,205
+109,5,74,9500.0,47500.0,49,2025-01-05 13:00:00,Good Time Cookies,Makanan Ringan,True,Derward Rubinowicz,drubinowicz1c@mapy.cz,Male,48,72
+110,3,20,8000.0,24000.0,50,2025-01-05 14:00:00,Pocari Sweat 500ml,Minuman,True,Tannie Rydzynski,trydzynski1d@ftc.gov,Male,49,19
+110,2,53,5500.0,11000.0,50,2025-01-05 14:00:00,Kopi Tubruk Gadjah,Kopi dan Teh,True,Tannie Rydzynski,trydzynski1d@ftc.gov,Male,49,52
+110,4,106,4500.0,18000.0,50,2025-01-05 14:00:00,Sabun Lifebuoy Total 10,Sabun dan Perawatan Tubuh,True,Tannie Rydzynski,trydzynski1d@ftc.gov,Male,49,104
+110,3,83,8500.0,25500.0,50,2025-01-05 14:00:00,Sajiku Tepung Bumbu Serbaguna,Bumbu Dapur,True,Tannie Rydzynski,trydzynski1d@ftc.gov,Male,49,81
+111,2,138,12000.0,24000.0,51,2025-01-05 15:00:00,CloseUp Ever Fresh,Pasta Gigi dan Mouthwash,True,Karlyn Maddaford,kmaddaford1e@facebook.com,Female,50,122
+111,3,175,8500.0,25500.0,51,2025-01-05 15:00:00,Promag Tablet,Produk Kesehatan,True,Karlyn Maddaford,kmaddaford1e@facebook.com,Female,50,159
+111,4,40,75000.0,300000.0,51,2025-01-05 15:00:00,SGM Eksplor 1+ Vanilla,Produk Susu,True,Karlyn Maddaford,kmaddaford1e@facebook.com,Female,50,39
+111,3,56,7500.0,22500.0,51,2025-01-05 15:00:00,Teh Sosro Celup Melati,Kopi dan Teh,True,Karlyn Maddaford,kmaddaford1e@facebook.com,Female,50,55
+112,2,39,85000.0,170000.0,52,2025-01-05 16:00:00,Lactamil Pregnasis,Produk Susu,True,Giffer Jearum,gjearum1f@aol.com,Male,51,38
+112,5,140,10500.0,52500.0,52,2025-01-05 16:00:00,Formula Pasta Gigi Anti Bakteri,Pasta Gigi dan Mouthwash,True,Giffer Jearum,gjearum1f@aol.com,Male,51,124
+112,1,3,3400.0,3400.0,52,2025-01-05 16:00:00,Mie Sedaap Kari Ayam,Makanan Instan,True,Giffer Jearum,gjearum1f@aol.com,Male,51,2
+112,4,169,5500.0,22000.0,52,2025-01-05 16:00:00,Bodrex Extra,Produk Kesehatan,True,Giffer Jearum,gjearum1f@aol.com,Male,51,153
+113,4,188,15500.0,62000.0,53,2025-01-05 17:00:00,Vixal Pembersih Kamar Mandi,Alat Kebersihan Rumah,True,Sigfrid Ronaghan,sronaghan1g@vinaora.com,Male,52,172
+113,5,52,10500.0,52500.0,53,2025-01-05 17:00:00,Kopiko Lucky Day,Kopi dan Teh,True,Sigfrid Ronaghan,sronaghan1g@vinaora.com,Male,52,51
+113,5,108,4200.0,21000.0,53,2025-01-05 17:00:00,Sabun Lux Soft Touch,Sabun dan Perawatan Tubuh,True,Sigfrid Ronaghan,sronaghan1g@vinaora.com,Male,52,106
+113,1,29,4500.0,4500.0,53,2025-01-05 17:00:00,Nestle Pure Life 600ml,Minuman,True,Sigfrid Ronaghan,sronaghan1g@vinaora.com,Male,52,28
+114,2,197,38500.0,77000.0,54,2025-01-05 18:00:00,Fiesta Chicken Nugget Stick,Makanan Beku (Frozen Food),True,Olympie Fayerbrother,ofayerbrother1h@goo.gl,Genderqueer,53,181
+114,4,105,32000.0,128000.0,54,2025-01-05 18:00:00,Minyak Sovia 2L,Beras dan Bahan Pokok,True,Olympie Fayerbrother,ofayerbrother1h@goo.gl,Genderqueer,53,103
+114,2,18,6500.0,13000.0,54,2025-01-05 18:00:00,Aqua 1.5L,Minuman,True,Olympie Fayerbrother,ofayerbrother1h@goo.gl,Genderqueer,53,17
+114,5,113,19500.0,97500.0,54,2025-01-05 18:00:00,Body Wash Citra Natural White,Sabun dan Perawatan Tubuh,True,Olympie Fayerbrother,ofayerbrother1h@goo.gl,Genderqueer,53,111
+115,2,101,3500.0,7000.0,55,2025-01-05 19:00:00,Garam Cap Kapal,Beras dan Bahan Pokok,True,Dorene Kellet,dkellet1i@cornell.edu,Female,54,99
+115,2,74,9500.0,19000.0,55,2025-01-05 19:00:00,Good Time Cookies,Makanan Ringan,True,Dorene Kellet,dkellet1i@cornell.edu,Female,54,72
+115,2,210,45000.0,90000.0,55,2025-01-05 19:00:00,SunnyGold Chicken Wing,Makanan Beku (Frozen Food),True,Dorene Kellet,dkellet1i@cornell.edu,Female,54,194
+115,5,146,22500.0,112500.0,55,2025-01-05 19:00:00,Total Care Mouthwash Fresh Mint,Pasta Gigi dan Mouthwash,True,Dorene Kellet,dkellet1i@cornell.edu,Female,54,130
+116,3,223,9000.0,27000.0,56,2025-01-05 20:00:00,Better Wafer Roll Chocolate,Camilan Manis,True,Yank Petken,ypetken1j@networksolutions.com,Male,55,206
+116,1,161,28500.0,28500.0,56,2025-01-05 20:00:00,Pure Baby Liquid Cleanser,Produk Bayi,True,Yank Petken,ypetken1j@networksolutions.com,Male,55,145
+116,3,46,13500.0,40500.0,56,2025-01-05 20:00:00,Kopi Kapal Api Special Mix,Kopi dan Teh,True,Yank Petken,ypetken1j@networksolutions.com,Male,55,45
+116,5,31,45000.0,225000.0,56,2025-01-05 20:00:00,Susu Dancow Full Cream,Produk Susu,True,Yank Petken,ypetken1j@networksolutions.com,Male,55,30
+117,4,33,18000.0,72000.0,57,2025-01-05 21:00:00,Indomilk Full Cream 1L,Produk Susu,True,Ivar MacAulay,imacaulay1k@census.gov,Male,56,32
+117,4,221,17500.0,70000.0,57,2025-01-05 21:00:00,Snickers Chocolate Bar,Camilan Manis,True,Ivar MacAulay,imacaulay1k@census.gov,Male,56,204
+117,4,177,17000.0,68000.0,57,2025-01-05 21:00:00,Hemaviton Stamina Plus,Produk Kesehatan,True,Ivar MacAulay,imacaulay1k@census.gov,Male,56,161
+117,5,102,6000.0,30000.0,57,2025-01-05 21:00:00,Garam Refina 500g,Beras dan Bahan Pokok,True,Ivar MacAulay,imacaulay1k@census.gov,Male,56,100
+118,3,165,195000.0,585000.0,58,2025-01-05 22:00:00,Morinaga Chil Kid Platinum,Produk Bayi,True,Briano Rimell,brimell1l@etsy.com,Male,57,149
+118,3,146,22500.0,67500.0,58,2025-01-05 22:00:00,Total Care Mouthwash Fresh Mint,Pasta Gigi dan Mouthwash,True,Briano Rimell,brimell1l@etsy.com,Male,57,130
+118,2,39,85000.0,170000.0,58,2025-01-05 22:00:00,Lactamil Pregnasis,Produk Susu,True,Briano Rimell,brimell1l@etsy.com,Male,57,38
+118,2,220,22500.0,45000.0,58,2025-01-05 22:00:00,Dairy Milk Cadbury,Camilan Manis,True,Briano Rimell,brimell1l@etsy.com,Male,57,203
+119,3,42,80000.0,240000.0,59,2025-01-05 23:00:00,Anlene Gold 5X,Produk Susu,True,Chrotoem Willshire,cwillshire1m@deliciousdays.com,Male,58,41
+119,5,156,65000.0,325000.0,59,2025-01-05 23:00:00,Sensi Dry Pants,Produk Bayi,True,Chrotoem Willshire,cwillshire1m@deliciousdays.com,Male,58,140
+119,5,155,82000.0,410000.0,59,2025-01-05 23:00:00,Nepia Genki Pants,Produk Bayi,True,Chrotoem Willshire,cwillshire1m@deliciousdays.com,Male,58,139
+119,5,115,55000.0,275000.0,59,2025-01-05 23:00:00,Body Wash Scarlett Brightening Pomegranate,Sabun dan Perawatan Tubuh,True,Chrotoem Willshire,cwillshire1m@deliciousdays.com,Male,58,113
+120,3,63,11000.0,33000.0,60,2025-01-06 00:00:00,Lays Rumput Laut,Makanan Ringan,True,Harwell Cookes,hcookes1n@mit.edu,Male,59,62
+120,5,112,3800.0,19000.0,60,2025-01-06 00:00:00,Sabun Nuvo Family Protection,Sabun dan Perawatan Tubuh,True,Harwell Cookes,hcookes1n@mit.edu,Male,59,110
+120,5,119,27000.0,135000.0,60,2025-01-06 00:00:00,Citra Body Lotion Pearly White UV,Sabun dan Perawatan Tubuh,True,Harwell Cookes,hcookes1n@mit.edu,Male,59,117
+120,4,61,10500.0,42000.0,60,2025-01-06 00:00:00,Chitato Sapi Panggang,Makanan Ringan,True,Harwell Cookes,hcookes1n@mit.edu,Male,59,60
+121,3,191,10500.0,31500.0,1,2025-01-06 01:00:00,Sunlight Jeruk Nipis 100,Alat Kebersihan Rumah,True,Sibby Cartin,scartin0@google.cn,Female,0,175
+121,2,22,6000.0,12000.0,1,2025-01-06 01:00:00,Ultrajaya Teh Kotak Jasmine,Minuman,True,Sibby Cartin,scartin0@google.cn,Female,0,21
+121,2,88,3500.0,7000.0,1,2025-01-06 01:00:00,Desaku Bumbu Racik Ayam Goreng,Bumbu Dapur,True,Sibby Cartin,scartin0@google.cn,Female,0,86
+121,5,224,12000.0,60000.0,1,2025-01-06 01:00:00,Ovaltine Cookies,Camilan Manis,True,Sibby Cartin,scartin0@google.cn,Female,0,207
+122,3,152,78000.0,234000.0,2,2025-01-06 02:00:00,Sweety Silver Pants,Produk Bayi,True,Meredith Aven,maven1@marketwatch.com,Male,1,136
+122,3,208,41500.0,124500.0,2,2025-01-06 02:00:00,Belfoods Favorite Chicken Stick,Makanan Beku (Frozen Food),True,Meredith Aven,maven1@marketwatch.com,Male,1,192
+122,2,208,41500.0,83000.0,2,2025-01-06 02:00:00,Belfoods Favorite Chicken Stick,Makanan Beku (Frozen Food),True,Meredith Aven,maven1@marketwatch.com,Male,1,192
+122,4,16,5000.0,20000.0,2,2025-01-06 02:00:00,Teh Botol Sosro,Minuman,True,Meredith Aven,maven1@marketwatch.com,Male,1,15
+123,4,61,10500.0,42000.0,3,2025-01-06 03:00:00,Chitato Sapi Panggang,Makanan Ringan,True,Udell Incogna,uincogna2@squarespace.com,Polygender,2,60
+123,5,36,9500.0,47500.0,3,2025-01-06 03:00:00,Bear Brand Susu Steril,Produk Susu,True,Udell Incogna,uincogna2@squarespace.com,Polygender,2,35
+123,4,50,8500.0,34000.0,3,2025-01-06 03:00:00,ABC Kopi Susu,Kopi dan Teh,True,Udell Incogna,uincogna2@squarespace.com,Polygender,2,49
+123,4,22,6000.0,24000.0,3,2025-01-06 03:00:00,Ultrajaya Teh Kotak Jasmine,Minuman,True,Udell Incogna,uincogna2@squarespace.com,Polygender,2,21
+124,1,157,23717.42195367573,71193.2527693857,4,2025-01-06 04:00:00,,,,Rik Elan,relan3@opera.com,Male,3,141
+124,2,216,14500.0,29000.0,4,2025-01-06 04:00:00,Delfi Top,Camilan Manis,True,Rik Elan,relan3@opera.com,Male,3,199
+124,5,196,45000.0,225000.0,4,2025-01-06 04:00:00,So Good Chicken Nugget Original,Makanan Beku (Frozen Food),True,Rik Elan,relan3@opera.com,Male,3,180
+124,1,45,55000.0,55000.0,4,2025-01-06 04:00:00,Vidoran Xmart 1+ Vanilla,Produk Susu,True,Rik Elan,relan3@opera.com,Male,3,44
+125,5,114,28500.0,142500.0,5,2025-01-06 05:00:00,Body Wash Kojie San Skin Lightening,Sabun dan Perawatan Tubuh,True,Sara Ludlam,sludlam4@dell.com,Female,4,112
+125,4,215,12500.0,50000.0,5,2025-01-06 05:00:00,Tango Wafer Chocolate,Camilan Manis,True,Sara Ludlam,sludlam4@dell.com,Female,4,198
+125,5,221,17500.0,87500.0,5,2025-01-06 05:00:00,Snickers Chocolate Bar,Camilan Manis,True,Sara Ludlam,sludlam4@dell.com,Female,4,204
+125,1,68,8500.0,8500.0,5,2025-01-06 05:00:00,Astor Wafer Roll Chocolate,Makanan Ringan,True,Sara Ludlam,sludlam4@dell.com,Female,4,67
+126,2,194,13500.0,27000.0,6,2025-01-06 06:00:00,S.O.S Pembersih Serbaguna Lemon,Alat Kebersihan Rumah,True,Nellie Lydiatt,nlydiatt5@tmall.com,Female,5,178
+126,4,82,6000.0,24000.0,6,2025-01-06 06:00:00,BonCabe Level 10,Bumbu Dapur,True,Nellie Lydiatt,nlydiatt5@tmall.com,Female,5,80
+126,1,208,41500.0,41500.0,6,2025-01-06 06:00:00,Belfoods Favorite Chicken Stick,Makanan Beku (Frozen Food),True,Nellie Lydiatt,nlydiatt5@tmall.com,Female,5,192
+126,3,92,68000.0,204000.0,6,2025-01-06 06:00:00,Beras Setra Ramos Cap Ayam Jago 5kg,Beras dan Bahan Pokok,True,Nellie Lydiatt,nlydiatt5@tmall.com,Female,5,90
+127,5,177,17000.0,85000.0,7,2025-01-06 07:00:00,Hemaviton Stamina Plus,Produk Kesehatan,True,Baldwin Di Baudi,bdibaudi6@who.int,Male,6,161
+127,5,166,18500.0,92500.0,7,2025-01-06 07:00:00,Betadine Antiseptic Solution,Produk Kesehatan,True,Baldwin Di Baudi,bdibaudi6@who.int,Male,6,150
+127,3,104,33000.0,99000.0,7,2025-01-06 07:00:00,Minyak Tropical 2L,Beras dan Bahan Pokok,True,Baldwin Di Baudi,bdibaudi6@who.int,Male,6,102
+127,4,170,4500.0,18000.0,7,2025-01-06 07:00:00,Paramex Tablet,Produk Kesehatan,True,Baldwin Di Baudi,bdibaudi6@who.int,Male,6,154
+128,2,72,15000.0,30000.0,8,2025-01-06 08:00:00,Beng-Beng Share It,Makanan Ringan,True,Malanie Baughan,mbaughan7@infoseek.co.jp,Female,7,70
+128,4,156,65000.0,260000.0,8,2025-01-06 08:00:00,Sensi Dry Pants,Produk Bayi,True,Malanie Baughan,mbaughan7@infoseek.co.jp,Female,7,140
+128,1,72,15000.0,15000.0,8,2025-01-06 08:00:00,Beng-Beng Share It,Makanan Ringan,True,Malanie Baughan,mbaughan7@infoseek.co.jp,Female,7,70
+128,1,21,10000.0,10000.0,8,2025-01-06 08:00:00,You C1000 Orange,Minuman,True,Malanie Baughan,mbaughan7@infoseek.co.jp,Female,7,20
+129,1,78,12500.0,12500.0,9,2025-01-06 09:00:00,Saus Sambal Indofood,Bumbu Dapur,True,Adelaide Spiers,aspiers8@tiny.cc,Female,8,76
+129,1,216,14500.0,14500.0,9,2025-01-06 09:00:00,Delfi Top,Camilan Manis,True,Adelaide Spiers,aspiers8@tiny.cc,Female,8,199
+129,5,209,43500.0,217500.0,9,2025-01-06 09:00:00,Fiesta Spicy Wing,Makanan Beku (Frozen Food),True,Adelaide Spiers,aspiers8@tiny.cc,Female,8,193
+129,2,222,8500.0,17000.0,9,2025-01-06 09:00:00,Nabati Wafer Chocolate,Camilan Manis,True,Adelaide Spiers,aspiers8@tiny.cc,Female,8,205
+130,5,56,7500.0,37500.0,10,2025-01-06 10:00:00,Teh Sosro Celup Melati,Kopi dan Teh,True,Tamma MacSorley,tmacsorley9@goodreads.com,Female,9,55
+130,4,14,15000.0,60000.0,10,2025-01-06 10:00:00,Mi Samyang Spicy Chicken,Makanan Instan,True,Tamma MacSorley,tmacsorley9@goodreads.com,Female,9,13
+130,5,46,13500.0,67500.0,10,2025-01-06 10:00:00,Kopi Kapal Api Special Mix,Kopi dan Teh,True,Tamma MacSorley,tmacsorley9@goodreads.com,Female,9,45
+130,5,65,9000.0,45000.0,10,2025-01-06 10:00:00,Taro Net Seaweed,Makanan Ringan,True,Tamma MacSorley,tmacsorley9@goodreads.com,Female,9,64
+131,4,220,22500.0,90000.0,11,2025-01-06 11:00:00,Dairy Milk Cadbury,Camilan Manis,True,Noelyn Leggate,nleggatea@naver.com,Female,10,203
+131,5,76,15000.0,75000.0,11,2025-01-06 11:00:00,Kecap ABC Manis,Bumbu Dapur,True,Noelyn Leggate,nleggatea@naver.com,Female,10,74
+131,4,56,7500.0,30000.0,11,2025-01-06 11:00:00,Teh Sosro Celup Melati,Kopi dan Teh,True,Noelyn Leggate,nleggatea@naver.com,Female,10,55
+131,2,64,10000.0,20000.0,11,2025-01-06 11:00:00,Piattos Keju,Makanan Ringan,True,Noelyn Leggate,nleggatea@naver.com,Female,10,63
+132,5,56,7500.0,37500.0,12,2025-01-06 12:00:00,Teh Sosro Celup Melati,Kopi dan Teh,True,Alissa Boost,aboostb@i2i.jp,Female,11,55
+132,2,114,28500.0,57000.0,12,2025-01-06 12:00:00,Body Wash Kojie San Skin Lightening,Sabun dan Perawatan Tubuh,True,Alissa Boost,aboostb@i2i.jp,Female,11,112
+132,5,50,8500.0,42500.0,12,2025-01-06 12:00:00,ABC Kopi Susu,Kopi dan Teh,True,Alissa Boost,aboostb@i2i.jp,Female,11,49
+132,1,177,17000.0,17000.0,12,2025-01-06 12:00:00,Hemaviton Stamina Plus,Produk Kesehatan,True,Alissa Boost,aboostb@i2i.jp,Female,11,161
+133,1,214,9500.0,9500.0,13,2025-01-06 13:00:00,Malkist Roma Cokelat,Camilan Manis,True,Marylinda Witton,mwittonc@angelfire.com,Female,12,197
+133,1,42,80000.0,80000.0,13,2025-01-06 13:00:00,Anlene Gold 5X,Produk Susu,True,Marylinda Witton,mwittonc@angelfire.com,Female,12,41
+133,4,205,38500.0,154000.0,13,2025-01-06 13:00:00,Fiesta Tempura Chicken Nugget,Makanan Beku (Frozen Food),True,Marylinda Witton,mwittonc@angelfire.com,Female,12,189
+133,5,112,3800.0,19000.0,13,2025-01-06 13:00:00,Sabun Nuvo Family Protection,Sabun dan Perawatan Tubuh,True,Marylinda Witton,mwittonc@angelfire.com,Female,12,110
+134,4,138,12000.0,48000.0,14,2025-01-06 14:00:00,CloseUp Ever Fresh,Pasta Gigi dan Mouthwash,True,Korry Rothon,krothond@cisco.com,Female,13,122
+134,5,84,9500.0,47500.0,14,2025-01-06 14:00:00,Kobe Tepung Kentucky Super Crispy,Bumbu Dapur,True,Korry Rothon,krothond@cisco.com,Female,13,82
+134,4,214,9500.0,38000.0,14,2025-01-06 14:00:00,Malkist Roma Cokelat,Camilan Manis,True,Korry Rothon,krothond@cisco.com,Female,13,197
+134,1,33,18000.0,18000.0,14,2025-01-06 14:00:00,Indomilk Full Cream 1L,Produk Susu,True,Korry Rothon,krothond@cisco.com,Female,13,32
+135,1,187,14000.0,14000.0,15,2025-01-06 15:00:00,Super Pell Pembersih Lantai Lemon,Alat Kebersihan Rumah,True,Bryce Deniscke,bdenisckee@adobe.com,Male,14,171
+135,2,98,15000.0,30000.0,15,2025-01-06 15:00:00,Tepung Terigu Kunci Biru 1kg,Beras dan Bahan Pokok,True,Bryce Deniscke,bdenisckee@adobe.com,Male,14,96
+135,1,22,6000.0,6000.0,15,2025-01-06 15:00:00,Ultrajaya Teh Kotak Jasmine,Minuman,True,Bryce Deniscke,bdenisckee@adobe.com,Male,14,21
+135,3,76,15000.0,45000.0,15,2025-01-06 15:00:00,Kecap ABC Manis,Bumbu Dapur,True,Bryce Deniscke,bdenisckee@adobe.com,Male,14,74
+136,5,191,10500.0,52500.0,16,2025-01-06 16:00:00,Sunlight Jeruk Nipis 100,Alat Kebersihan Rumah,True,Wade Vertey,wverteyf@amazon.co.jp,Male,15,175
+136,2,218,13500.0,27000.0,16,2025-01-06 16:00:00,Kinder Joy,Camilan Manis,True,Wade Vertey,wverteyf@amazon.co.jp,Male,15,201
+136,1,219,15000.0,15000.0,16,2025-01-06 16:00:00,Twix Chocolate Bar,Camilan Manis,True,Wade Vertey,wverteyf@amazon.co.jp,Male,15,202
+136,5,73,10000.0,50000.0,16,2025-01-06 16:00:00,Pocky Chocolate,Makanan Ringan,True,Wade Vertey,wverteyf@amazon.co.jp,Male,15,71
+137,4,34,25000.0,100000.0,17,2025-01-06 17:00:00,Greenfields Fresh Milk,Produk Susu,True,Gayler Streader,gstreaderg@pagesperso-orange.fr,Male,16,33
+137,4,27,5000.0,20000.0,17,2025-01-06 17:00:00,Coca Cola 390ml,Minuman,True,Gayler Streader,gstreaderg@pagesperso-orange.fr,Male,16,26
+137,5,116,29500.0,147500.0,17,2025-01-06 17:00:00,Vaseline Healthy White UV Lightening,Sabun dan Perawatan Tubuh,True,Gayler Streader,gstreaderg@pagesperso-orange.fr,Male,16,114
+137,5,175,8500.0,42500.0,17,2025-01-06 17:00:00,Promag Tablet,Produk Kesehatan,True,Gayler Streader,gstreaderg@pagesperso-orange.fr,Male,16,159
+138,3,206,36500.0,109500.0,18,2025-01-06 18:00:00,Seafood Fiesta Fish Nugget,Makanan Beku (Frozen Food),True,Stacy Berge,sbergeh@csmonitor.com,Polygender,17,190
+138,5,77,25000.0,125000.0,18,2025-01-06 18:00:00,Kecap Bango Manis,Bumbu Dapur,True,Stacy Berge,sbergeh@csmonitor.com,Polygender,17,75
+138,4,54,55000.0,220000.0,18,2025-01-06 18:00:00,Starbucks VIA Colombia,Kopi dan Teh,True,Stacy Berge,sbergeh@csmonitor.com,Polygender,17,53
+138,4,66,16500.0,66000.0,18,2025-01-06 18:00:00,Kusuka Keripik Singkong,Makanan Ringan,True,Stacy Berge,sbergeh@csmonitor.com,Polygender,17,65
+139,2,190,14500.0,29000.0,19,2025-01-06 19:00:00,Mr. Muscle Pembersih Serbaguna,Alat Kebersihan Rumah,True,Alene Perrins,aperrinsi@google.it,Polygender,18,174
+139,1,207,45000.0,45000.0,19,2025-01-06 19:00:00,Champ Sosis Sapi,Makanan Beku (Frozen Food),True,Alene Perrins,aperrinsi@google.it,Polygender,18,191
+139,1,191,10500.0,10500.0,19,2025-01-06 19:00:00,Sunlight Jeruk Nipis 100,Alat Kebersihan Rumah,True,Alene Perrins,aperrinsi@google.it,Polygender,18,175
+139,1,16,5000.0,5000.0,19,2025-01-06 19:00:00,Teh Botol Sosro,Minuman,True,Alene Perrins,aperrinsi@google.it,Polygender,18,15
+140,4,171,21500.0,86000.0,20,2025-01-06 20:00:00,Minyak Kayu Putih Cap Lang,Produk Kesehatan,True,Nanni Frossell,nfrossellj@chicagotribune.com,Female,19,155
+140,4,83,8500.0,34000.0,20,2025-01-06 20:00:00,Sajiku Tepung Bumbu Serbaguna,Bumbu Dapur,True,Nanni Frossell,nfrossellj@chicagotribune.com,Female,19,81
+140,1,25,7000.0,7000.0,20,2025-01-06 20:00:00,Good Day Coolin Coffee,Minuman,True,Nanni Frossell,nfrossellj@chicagotribune.com,Female,19,24
+140,4,200,42500.0,170000.0,20,2025-01-06 20:00:00,Belfoods Royal Chicken Nugget,Makanan Beku (Frozen Food),True,Nanni Frossell,nfrossellj@chicagotribune.com,Female,19,184
+141,1,210,45000.0,45000.0,21,2025-01-06 21:00:00,SunnyGold Chicken Wing,Makanan Beku (Frozen Food),True,Cahra Van Castele,cvancastelek@slashdot.org,Female,20,194
+141,1,69,7500.0,7500.0,21,2025-01-06 21:00:00,Oreo Vanilla,Makanan Ringan,True,Cahra Van Castele,cvancastelek@slashdot.org,Female,20,68
+141,3,22,6000.0,18000.0,21,2025-01-06 21:00:00,Ultrajaya Teh Kotak Jasmine,Minuman,True,Cahra Van Castele,cvancastelek@slashdot.org,Female,20,21
+141,3,46,13500.0,40500.0,21,2025-01-06 21:00:00,Kopi Kapal Api Special Mix,Kopi dan Teh,True,Cahra Van Castele,cvancastelek@slashdot.org,Female,20,45
+142,2,216,14500.0,29000.0,22,2025-01-06 22:00:00,Delfi Top,Camilan Manis,True,Creighton Guillard,cguillardl@reuters.com,Male,21,199
+142,1,110,15500.0,15500.0,22,2025-01-06 22:00:00,Sabun Biore Body Foam Fresh,Sabun dan Perawatan Tubuh,True,Creighton Guillard,cguillardl@reuters.com,Male,21,108
+142,2,172,19500.0,39000.0,22,2025-01-06 22:00:00,Minyak Telon My Baby,Produk Kesehatan,True,Creighton Guillard,cguillardl@reuters.com,Male,21,156
+142,2,96,34000.0,68000.0,22,2025-01-06 22:00:00,Minyak Filma 2L,Beras dan Bahan Pokok,True,Creighton Guillard,cguillardl@reuters.com,Male,21,94
+143,1,87,12000.0,12000.0,23,2025-01-06 23:00:00,Indofood Sambal Extra Pedas,Bumbu Dapur,True,Minni Gelletly,mgelletlym@blogger.com,Female,22,85
+143,4,206,36500.0,146000.0,23,2025-01-06 23:00:00,Seafood Fiesta Fish Nugget,Makanan Beku (Frozen Food),True,Minni Gelletly,mgelletlym@blogger.com,Female,22,190
+143,1,89,4500.0,4500.0,23,2025-01-06 23:00:00,Bumbu Indofood Rendang,Bumbu Dapur,True,Minni Gelletly,mgelletlym@blogger.com,Female,22,87
+143,5,39,85000.0,425000.0,23,2025-01-06 23:00:00,Lactamil Pregnasis,Produk Susu,True,Minni Gelletly,mgelletlym@blogger.com,Female,22,38
+144,1,204,52500.0,52500.0,24,2025-01-07 00:00:00,Bernardi Bakso Sapi,Makanan Beku (Frozen Food),True,Elisabeth Seary,esearyn@washingtonpost.com,Female,23,188
+144,4,136,13500.0,54000.0,24,2025-01-07 00:00:00,Pepsodent Whitening,Pasta Gigi dan Mouthwash,True,Elisabeth Seary,esearyn@washingtonpost.com,Female,23,120
+144,5,207,45000.0,225000.0,24,2025-01-07 00:00:00,Champ Sosis Sapi,Makanan Beku (Frozen Food),True,Elisabeth Seary,esearyn@washingtonpost.com,Female,23,191
+144,2,55,8500.0,17000.0,24,2025-01-07 00:00:00,Teh Celup Sariwangi,Kopi dan Teh,True,Elisabeth Seary,esearyn@washingtonpost.com,Female,23,54
+145,4,46,13500.0,54000.0,25,2025-01-07 01:00:00,Kopi Kapal Api Special Mix,Kopi dan Teh,True,Erna Hofer,ehofero@nbcnews.com,Female,24,45
+145,5,181,24000.0,120000.0,25,2025-01-07 01:00:00,So Klin Liquid Detergent,Alat Kebersihan Rumah,True,Erna Hofer,ehofero@nbcnews.com,Female,24,165
+145,5,7,7500.0,37500.0,25,2025-01-07 01:00:00,Lemonilo Mie Instan Ayam Bakar,Makanan Instan,True,Erna Hofer,ehofero@nbcnews.com,Female,24,6
+145,3,84,9500.0,28500.0,25,2025-01-07 01:00:00,Kobe Tepung Kentucky Super Crispy,Bumbu Dapur,True,Erna Hofer,ehofero@nbcnews.com,Female,24,82
+146,2,51,13500.0,27000.0,26,2025-01-07 02:00:00,Luwak White Koffie Original,Kopi dan Teh,True,Yurik Ledwich,yledwichp@xinhuanet.com,Male,25,50
+146,4,61,10500.0,42000.0,26,2025-01-07 02:00:00,Chitato Sapi Panggang,Makanan Ringan,True,Yurik Ledwich,yledwichp@xinhuanet.com,Male,25,60
+146,1,146,22500.0,22500.0,26,2025-01-07 02:00:00,Total Care Mouthwash Fresh Mint,Pasta Gigi dan Mouthwash,True,Yurik Ledwich,yledwichp@xinhuanet.com,Male,25,130
+146,2,16,5000.0,10000.0,26,2025-01-07 02:00:00,Teh Botol Sosro,Minuman,True,Yurik Ledwich,yledwichp@xinhuanet.com,Male,25,15
+147,3,190,14500.0,43500.0,27,2025-01-07 03:00:00,Mr. Muscle Pembersih Serbaguna,Alat Kebersihan Rumah,True,Lauretta Roelofs,lroelofsq@un.org,Female,26,174
+147,3,24,5500.0,16500.0,27,2025-01-07 03:00:00,Floridina Jeruk 360ml,Minuman,True,Lauretta Roelofs,lroelofsq@un.org,Female,26,23
+147,2,51,13500.0,27000.0,27,2025-01-07 03:00:00,Luwak White Koffie Original,Kopi dan Teh,True,Lauretta Roelofs,lroelofsq@un.org,Female,26,50
+147,3,139,28500.0,85500.0,27,2025-01-07 03:00:00,Sensodyne Repair dan Protect,Pasta Gigi dan Mouthwash,True,Lauretta Roelofs,lroelofsq@un.org,Female,26,123
+148,3,173,6500.0,19500.0,28,2025-01-07 04:00:00,Antangin JRG,Produk Kesehatan,True,Clint Wragg,cwraggr@webs.com,Male,27,157
+148,2,44,65000.0,130000.0,28,2025-01-07 04:00:00,Susu Zee Platinum Choco Hazel,Produk Susu,True,Clint Wragg,cwraggr@webs.com,Male,27,43
+148,3,195,7500.0,22500.0,28,2025-01-07 04:00:00,Scotch Brite Spons Cuci Piring,Alat Kebersihan Rumah,True,Clint Wragg,cwraggr@webs.com,Male,27,179
+148,2,65,9000.0,18000.0,28,2025-01-07 04:00:00,Taro Net Seaweed,Makanan Ringan,True,Clint Wragg,cwraggr@webs.com,Male,27,64
+149,4,207,45000.0,180000.0,29,2025-01-07 05:00:00,Champ Sosis Sapi,Makanan Beku (Frozen Food),True,Henrie Inworth,hinworths@shop-pro.jp,Genderfluid,28,191
+149,4,170,4500.0,18000.0,29,2025-01-07 05:00:00,Paramex Tablet,Produk Kesehatan,True,Henrie Inworth,hinworths@shop-pro.jp,Genderfluid,28,154
+149,5,146,22500.0,112500.0,29,2025-01-07 05:00:00,Total Care Mouthwash Fresh Mint,Pasta Gigi dan Mouthwash,True,Henrie Inworth,hinworths@shop-pro.jp,Genderfluid,28,130
+149,3,31,45000.0,135000.0,29,2025-01-07 05:00:00,Susu Dancow Full Cream,Produk Susu,True,Henrie Inworth,hinworths@shop-pro.jp,Genderfluid,28,30
+150,5,120,16500.0,82500.0,30,2025-01-07 06:00:00,Herborist Lulur Tradisional Bali,Sabun dan Perawatan Tubuh,True,Grete Beverage,gbeveraget@google.ca,Female,29,118
+150,2,201,37500.0,75000.0,30,2025-01-07 06:00:00,Fiesta Blackpepper Chicken,Makanan Beku (Frozen Food),True,Grete Beverage,gbeveraget@google.ca,Female,29,185
+150,2,151,85000.0,170000.0,30,2025-01-07 06:00:00,MamyPoko Pants Extra Soft,Produk Bayi,True,Grete Beverage,gbeveraget@google.ca,Female,29,135
+150,5,67,12500.0,62500.0,30,2025-01-07 06:00:00,Kacang Garuda Rosta,Makanan Ringan,True,Grete Beverage,gbeveraget@google.ca,Female,29,66
+151,5,12,2900.0,14500.0,31,2025-01-07 07:00:00,Mie Burung Dara Ayam Bawang,Makanan Instan,True,Dulce Filippello,dfilippellou@opera.com,Female,30,11
+151,3,67,12500.0,37500.0,31,2025-01-07 07:00:00,Kacang Garuda Rosta,Makanan Ringan,True,Dulce Filippello,dfilippellou@opera.com,Female,30,66
+151,1,193,19500.0,19500.0,31,2025-01-07 07:00:00,Daia Detergent Pink,Alat Kebersihan Rumah,True,Dulce Filippello,dfilippellou@opera.com,Female,30,177
+151,2,58,9500.0,19000.0,31,2025-01-07 07:00:00,Tong Tji Teh Celup,Kopi dan Teh,True,Dulce Filippello,dfilippellou@opera.com,Female,30,57
+152,2,173,6500.0,13000.0,32,2025-01-07 08:00:00,Antangin JRG,Produk Kesehatan,True,Alfi Feldstern,afeldsternv@blinklist.com,Female,31,157
+152,2,84,9500.0,19000.0,32,2025-01-07 08:00:00,Kobe Tepung Kentucky Super Crispy,Bumbu Dapur,True,Alfi Feldstern,afeldsternv@blinklist.com,Female,31,82
+152,2,215,12500.0,25000.0,32,2025-01-07 08:00:00,Tango Wafer Chocolate,Camilan Manis,True,Alfi Feldstern,afeldsternv@blinklist.com,Female,31,198
+152,1,225,10000.0,10000.0,32,2025-01-07 08:00:00,Pocky Strawberry,Camilan Manis,True,Alfi Feldstern,afeldsternv@blinklist.com,Female,31,208
+153,1,178,29500.0,29500.0,33,2025-01-07 09:00:00,Imboost Force,Produk Kesehatan,True,Cherrita Edelheid,cedelheidw@soundcloud.com,Female,32,162
+153,2,48,23000.0,46000.0,33,2025-01-07 09:00:00,Nescafe Classic 100g,Kopi dan Teh,True,Cherrita Edelheid,cedelheidw@soundcloud.com,Female,32,47
+153,1,198,32500.0,32500.0,33,2025-01-07 09:00:00,Fiesta Sosis Sapi Goreng,Makanan Beku (Frozen Food),True,Cherrita Edelheid,cedelheidw@soundcloud.com,Female,32,182
+153,5,114,28500.0,142500.0,33,2025-01-07 09:00:00,Body Wash Kojie San Skin Lightening,Sabun dan Perawatan Tubuh,True,Cherrita Edelheid,cedelheidw@soundcloud.com,Female,32,112
+154,2,176,18500.0,37000.0,34,2025-01-07 10:00:00,Enervon-C Tablet,Produk Kesehatan,True,Balduin Bailie,bbailiex@washington.edu,Male,33,160
+154,3,143,17500.0,52500.0,34,2025-01-07 10:00:00,Oral B Pro Health,Pasta Gigi dan Mouthwash,True,Balduin Bailie,bbailiex@washington.edu,Male,33,127
+154,2,36,9500.0,19000.0,34,2025-01-07 10:00:00,Bear Brand Susu Steril,Produk Susu,True,Balduin Bailie,bbailiex@washington.edu,Male,33,35
+154,2,188,15500.0,31000.0,34,2025-01-07 10:00:00,Vixal Pembersih Kamar Mandi,Alat Kebersihan Rumah,True,Balduin Bailie,bbailiex@washington.edu,Male,33,172
+155,4,69,7500.0,30000.0,35,2025-01-07 11:00:00,Oreo Vanilla,Makanan Ringan,True,Garik Ezzell,gezzelly@google.com.au,Male,34,68
+155,3,44,65000.0,195000.0,35,2025-01-07 11:00:00,Susu Zee Platinum Choco Hazel,Produk Susu,True,Garik Ezzell,gezzelly@google.com.au,Male,34,43
+155,1,100,15500.0,15500.0,35,2025-01-07 11:00:00,Gula Pasir Rose Brand 1kg,Beras dan Bahan Pokok,True,Garik Ezzell,gezzelly@google.com.au,Male,34,98
+155,5,56,7500.0,37500.0,35,2025-01-07 11:00:00,Teh Sosro Celup Melati,Kopi dan Teh,True,Garik Ezzell,gezzelly@google.com.au,Male,34,55
+156,3,38,17500.0,52500.0,36,2025-01-07 12:00:00,Diamond Susu UHT Full Cream,Produk Susu,True,Leila Hainey`,lhaineyz@hhs.gov,Female,35,37
+156,3,197,38500.0,115500.0,36,2025-01-07 12:00:00,Fiesta Chicken Nugget Stick,Makanan Beku (Frozen Food),True,Leila Hainey`,lhaineyz@hhs.gov,Female,35,181
+156,1,55,8500.0,8500.0,36,2025-01-07 12:00:00,Teh Celup Sariwangi,Kopi dan Teh,True,Leila Hainey`,lhaineyz@hhs.gov,Female,35,54
+156,5,88,3500.0,17500.0,36,2025-01-07 12:00:00,Desaku Bumbu Racik Ayam Goreng,Bumbu Dapur,True,Leila Hainey`,lhaineyz@hhs.gov,Female,35,86
+157,4,75,7000.0,28000.0,37,2025-01-07 13:00:00,Dueto Wafer Chocolate,Makanan Ringan,True,Elayne Von Salzberg,evonsalzberg10@cbc.ca,Female,36,73
+157,5,46,13500.0,67500.0,37,2025-01-07 13:00:00,Kopi Kapal Api Special Mix,Kopi dan Teh,True,Elayne Von Salzberg,evonsalzberg10@cbc.ca,Female,36,45
+157,4,158,32500.0,130000.0,37,2025-01-07 13:00:00,Zwitsal Baby Bath Hair dan Body,Produk Bayi,True,Elayne Von Salzberg,evonsalzberg10@cbc.ca,Female,36,142
+157,4,105,32000.0,128000.0,37,2025-01-07 13:00:00,Minyak Sovia 2L,Beras dan Bahan Pokok,True,Elayne Von Salzberg,evonsalzberg10@cbc.ca,Female,36,103
+158,2,38,17500.0,35000.0,38,2025-01-07 14:00:00,Diamond Susu UHT Full Cream,Produk Susu,True,Gloriana Westmarland,gwestmarland11@thetimes.co.uk,Female,37,37
+158,1,189,12500.0,12500.0,38,2025-01-07 14:00:00,SOS Pembersih Kaca,Alat Kebersihan Rumah,True,Gloriana Westmarland,gwestmarland11@thetimes.co.uk,Female,37,173
+158,5,207,45000.0,225000.0,38,2025-01-07 14:00:00,Champ Sosis Sapi,Makanan Beku (Frozen Food),True,Gloriana Westmarland,gwestmarland11@thetimes.co.uk,Female,37,191
+158,5,225,10000.0,50000.0,38,2025-01-07 14:00:00,Pocky Strawberry,Camilan Manis,True,Gloriana Westmarland,gwestmarland11@thetimes.co.uk,Female,37,208
+159,2,39,85000.0,170000.0,39,2025-01-07 15:00:00,Lactamil Pregnasis,Produk Susu,True,Randene Feaster,rfeaster12@google.ru,Female,38,38
+159,2,14,15000.0,30000.0,39,2025-01-07 15:00:00,Mi Samyang Spicy Chicken,Makanan Instan,True,Randene Feaster,rfeaster12@google.ru,Female,38,13
+159,4,155,82000.0,328000.0,39,2025-01-07 15:00:00,Nepia Genki Pants,Produk Bayi,True,Randene Feaster,rfeaster12@google.ru,Female,38,139
+159,3,91,73000.0,219000.0,39,2025-01-07 15:00:00,Beras Ramos Cap Topi Koki 5kg,Beras dan Bahan Pokok,True,Randene Feaster,rfeaster12@google.ru,Female,38,89
+160,1,186,13500.0,13500.0,40,2025-01-07 16:00:00,Wipol Karbol Cemara,Alat Kebersihan Rumah,True,Roseann Barbera,rbarbera13@un.org,Female,39,170
+160,3,179,21500.0,64500.0,40,2025-01-07 16:00:00,Woods Peppermint Cough Syrup,Produk Kesehatan,True,Roseann Barbera,rbarbera13@un.org,Female,39,163
+160,4,139,28500.0,114000.0,40,2025-01-07 16:00:00,Sensodyne Repair dan Protect,Pasta Gigi dan Mouthwash,True,Roseann Barbera,rbarbera13@un.org,Female,39,123
+160,3,217,11500.0,34500.0,40,2025-01-07 16:00:00,KitKat 4 Fingers,Camilan Manis,True,Roseann Barbera,rbarbera13@un.org,Female,39,200
+161,3,63,11000.0,33000.0,41,2025-01-07 17:00:00,Lays Rumput Laut,Makanan Ringan,True,Lonnard Ledley,lledley14@youtube.com,Male,40,62
+161,1,38,17500.0,17500.0,41,2025-01-07 17:00:00,Diamond Susu UHT Full Cream,Produk Susu,True,Lonnard Ledley,lledley14@youtube.com,Male,40,37
+161,3,198,32500.0,97500.0,41,2025-01-07 17:00:00,Fiesta Sosis Sapi Goreng,Makanan Beku (Frozen Food),True,Lonnard Ledley,lledley14@youtube.com,Male,40,182
+161,3,195,7500.0,22500.0,41,2025-01-07 17:00:00,Scotch Brite Spons Cuci Piring,Alat Kebersihan Rumah,True,Lonnard Ledley,lledley14@youtube.com,Male,40,179
+162,5,146,22500.0,112500.0,42,2025-01-07 18:00:00,Total Care Mouthwash Fresh Mint,Pasta Gigi dan Mouthwash,True,Bryant Antley,bantley15@bbb.org,Male,41,130
+162,2,162,35000.0,70000.0,42,2025-01-07 18:00:00,Baby Huki Botol Susu PP 250ml,Produk Bayi,True,Bryant Antley,bantley15@bbb.org,Male,41,146
+162,4,45,55000.0,220000.0,42,2025-01-07 18:00:00,Vidoran Xmart 1+ Vanilla,Produk Susu,True,Bryant Antley,bantley15@bbb.org,Male,41,44
+162,3,21,10000.0,30000.0,42,2025-01-07 18:00:00,You C1000 Orange,Minuman,True,Bryant Antley,bantley15@bbb.org,Male,41,20
+163,5,77,25000.0,125000.0,43,2025-01-07 19:00:00,Kecap Bango Manis,Bumbu Dapur,True,Augie People,apeople16@princeton.edu,Male,42,75
+163,3,197,38500.0,115500.0,43,2025-01-07 19:00:00,Fiesta Chicken Nugget Stick,Makanan Beku (Frozen Food),True,Augie People,apeople16@princeton.edu,Male,42,181
+163,2,174,7500.0,15000.0,43,2025-01-07 19:00:00,Tolak Angin Cair,Produk Kesehatan,True,Augie People,apeople16@princeton.edu,Male,42,158
+163,1,137,11500.0,11500.0,43,2025-01-07 19:00:00,Pepsodent Herbal,Pasta Gigi dan Mouthwash,True,Augie People,apeople16@princeton.edu,Male,42,121
+164,4,91,73000.0,292000.0,44,2025-01-07 20:00:00,Beras Ramos Cap Topi Koki 5kg,Beras dan Bahan Pokok,True,Charlean Redington,credington17@usnews.com,Female,43,89
+164,1,106,4500.0,4500.0,44,2025-01-07 20:00:00,Sabun Lifebuoy Total 10,Sabun dan Perawatan Tubuh,True,Charlean Redington,credington17@usnews.com,Female,43,104
+164,3,85,7500.0,22500.0,44,2025-01-07 20:00:00,Sasa Tepung Bumbu Spicy,Bumbu Dapur,True,Charlean Redington,credington17@usnews.com,Female,43,83
+164,5,19,7000.0,35000.0,44,2025-01-07 20:00:00,Mizone Lychee Lemon,Minuman,True,Charlean Redington,credington17@usnews.com,Female,43,18
+165,5,134,27500.0,137500.0,45,2025-01-07 21:00:00,Wardah Hairfall Treatment Shampoo,Shampoo dan Perawatan Rambut,True,Heall Smaleman,hsmaleman18@hibu.com,Male,44,119
+165,5,171,21500.0,107500.0,45,2025-01-07 21:00:00,Minyak Kayu Putih Cap Lang,Produk Kesehatan,True,Heall Smaleman,hsmaleman18@hibu.com,Male,44,155
+165,4,225,10000.0,40000.0,45,2025-01-07 21:00:00,Pocky Strawberry,Camilan Manis,True,Heall Smaleman,hsmaleman18@hibu.com,Male,44,208
+165,3,114,28500.0,85500.0,45,2025-01-07 21:00:00,Body Wash Kojie San Skin Lightening,Sabun dan Perawatan Tubuh,True,Heall Smaleman,hsmaleman18@hibu.com,Male,44,112
+166,5,86,13500.0,67500.0,46,2025-01-07 22:00:00,Tiga Sapi Kecap Manis,Bumbu Dapur,True,Ralf Isacke,risacke19@symantec.com,Male,45,84
+166,1,173,6500.0,6500.0,46,2025-01-07 22:00:00,Antangin JRG,Produk Kesehatan,True,Ralf Isacke,risacke19@symantec.com,Male,45,157
+166,3,78,12500.0,37500.0,46,2025-01-07 22:00:00,Saus Sambal Indofood,Bumbu Dapur,True,Ralf Isacke,risacke19@symantec.com,Male,45,76
+166,5,140,10500.0,52500.0,46,2025-01-07 22:00:00,Formula Pasta Gigi Anti Bakteri,Pasta Gigi dan Mouthwash,True,Ralf Isacke,risacke19@symantec.com,Male,45,124
+167,1,165,195000.0,195000.0,47,2025-01-07 23:00:00,Morinaga Chil Kid Platinum,Produk Bayi,True,Barrett Godbolt,bgodbolt1a@gravatar.com,Genderqueer,46,149
+167,5,40,75000.0,375000.0,47,2025-01-07 23:00:00,SGM Eksplor 1+ Vanilla,Produk Susu,True,Barrett Godbolt,bgodbolt1a@gravatar.com,Genderqueer,46,39
+167,2,80,5500.0,11000.0,47,2025-01-07 23:00:00,Royco Kaldu Ayam,Bumbu Dapur,True,Barrett Godbolt,bgodbolt1a@gravatar.com,Genderqueer,46,78
+167,3,81,5000.0,15000.0,47,2025-01-07 23:00:00,Masako Rasa Sapi,Bumbu Dapur,True,Barrett Godbolt,bgodbolt1a@gravatar.com,Genderqueer,46,79
+168,1,8,3300.0,3300.0,48,2025-01-08 00:00:00,Gaga 100 Extra Pedas,Makanan Instan,True,Ferguson Cicccitti,fcicccitti1b@google.com,Genderqueer,47,7
+168,2,104,33000.0,66000.0,48,2025-01-08 00:00:00,Minyak Tropical 2L,Beras dan Bahan Pokok,True,Ferguson Cicccitti,fcicccitti1b@google.com,Genderqueer,47,102
+168,5,42,80000.0,400000.0,48,2025-01-08 00:00:00,Anlene Gold 5X,Produk Susu,True,Ferguson Cicccitti,fcicccitti1b@google.com,Genderqueer,47,41
+168,2,53,5500.0,11000.0,48,2025-01-08 00:00:00,Kopi Tubruk Gadjah,Kopi dan Teh,True,Ferguson Cicccitti,fcicccitti1b@google.com,Genderqueer,47,52
+169,5,31,45000.0,225000.0,49,2025-01-08 01:00:00,Susu Dancow Full Cream,Produk Susu,True,Derward Rubinowicz,drubinowicz1c@mapy.cz,Male,48,30
+169,5,225,10000.0,50000.0,49,2025-01-08 01:00:00,Pocky Strawberry,Camilan Manis,True,Derward Rubinowicz,drubinowicz1c@mapy.cz,Male,48,208
+169,3,66,16500.0,49500.0,49,2025-01-08 01:00:00,Kusuka Keripik Singkong,Makanan Ringan,True,Derward Rubinowicz,drubinowicz1c@mapy.cz,Male,48,65
+169,4,13,12500.0,50000.0,49,2025-01-08 01:00:00,Mi Instan Sehat Alami FitMee Shirataki,Makanan Instan,True,Derward Rubinowicz,drubinowicz1c@mapy.cz,Male,48,12
+170,1,99,16000.0,16000.0,50,2025-01-08 02:00:00,Gula Pasir Gulaku Putih 1kg,Beras dan Bahan Pokok,True,Tannie Rydzynski,trydzynski1d@ftc.gov,Male,49,97
+170,3,149,17500.0,52500.0,50,2025-01-08 02:00:00,Darlie All Shiny White,Pasta Gigi dan Mouthwash,True,Tannie Rydzynski,trydzynski1d@ftc.gov,Male,49,133
+170,5,205,38500.0,192500.0,50,2025-01-08 02:00:00,Fiesta Tempura Chicken Nugget,Makanan Beku (Frozen Food),True,Tannie Rydzynski,trydzynski1d@ftc.gov,Male,49,189
+170,1,153,95000.0,95000.0,50,2025-01-08 02:00:00,Merries Pants Good Skin,Produk Bayi,True,Tannie Rydzynski,trydzynski1d@ftc.gov,Male,49,137
+171,5,166,18500.0,92500.0,51,2025-01-08 03:00:00,Betadine Antiseptic Solution,Produk Kesehatan,True,Karlyn Maddaford,kmaddaford1e@facebook.com,Female,50,150
+171,5,3,3400.0,17000.0,51,2025-01-08 03:00:00,Mie Sedaap Kari Ayam,Makanan Instan,True,Karlyn Maddaford,kmaddaford1e@facebook.com,Female,50,2
+171,3,30,5500.0,16500.0,51,2025-01-08 03:00:00,Freshtea Jasmine 500ml,Minuman,True,Karlyn Maddaford,kmaddaford1e@facebook.com,Female,50,29
+171,1,54,55000.0,55000.0,51,2025-01-08 03:00:00,Starbucks VIA Colombia,Kopi dan Teh,True,Karlyn Maddaford,kmaddaford1e@facebook.com,Female,50,53
+172,3,217,11500.0,34500.0,52,2025-01-08 04:00:00,KitKat 4 Fingers,Camilan Manis,True,Giffer Jearum,gjearum1f@aol.com,Male,51,200
+172,1,35,7500.0,7500.0,52,2025-01-08 04:00:00,Ultra Milk Cokelat 250ml,Produk Susu,True,Giffer Jearum,gjearum1f@aol.com,Male,51,34
+172,1,136,13500.0,13500.0,52,2025-01-08 04:00:00,Pepsodent Whitening,Pasta Gigi dan Mouthwash,True,Giffer Jearum,gjearum1f@aol.com,Male,51,120
+172,5,197,38500.0,192500.0,52,2025-01-08 04:00:00,Fiesta Chicken Nugget Stick,Makanan Beku (Frozen Food),True,Giffer Jearum,gjearum1f@aol.com,Male,51,181
+173,2,214,9500.0,19000.0,53,2025-01-08 05:00:00,Malkist Roma Cokelat,Camilan Manis,True,Sigfrid Ronaghan,sronaghan1g@vinaora.com,Male,52,197
+173,3,136,13500.0,40500.0,53,2025-01-08 05:00:00,Pepsodent Whitening,Pasta Gigi dan Mouthwash,True,Sigfrid Ronaghan,sronaghan1g@vinaora.com,Male,52,120
+173,1,106,4500.0,4500.0,53,2025-01-08 05:00:00,Sabun Lifebuoy Total 10,Sabun dan Perawatan Tubuh,True,Sigfrid Ronaghan,sronaghan1g@vinaora.com,Male,52,104
+173,1,189,12500.0,12500.0,53,2025-01-08 05:00:00,SOS Pembersih Kaca,Alat Kebersihan Rumah,True,Sigfrid Ronaghan,sronaghan1g@vinaora.com,Male,52,173
+174,5,68,8500.0,42500.0,54,2025-01-08 06:00:00,Astor Wafer Roll Chocolate,Makanan Ringan,True,Olympie Fayerbrother,ofayerbrother1h@goo.gl,Genderqueer,53,67
+174,1,15,6500.0,6500.0,54,2025-01-08 06:00:00,Mi BonCabe Level 15,Makanan Instan,True,Olympie Fayerbrother,ofayerbrother1h@goo.gl,Genderqueer,53,14
+174,2,84,9500.0,19000.0,54,2025-01-08 06:00:00,Kobe Tepung Kentucky Super Crispy,Bumbu Dapur,True,Olympie Fayerbrother,ofayerbrother1h@goo.gl,Genderqueer,53,82
+174,5,20,8000.0,40000.0,54,2025-01-08 06:00:00,Pocari Sweat 500ml,Minuman,True,Olympie Fayerbrother,ofayerbrother1h@goo.gl,Genderqueer,53,19
+175,1,94,35000.0,35000.0,55,2025-01-08 07:00:00,Minyak Goreng Bimoli 2L,Beras dan Bahan Pokok,True,Dorene Kellet,dkellet1i@cornell.edu,Female,54,92
+175,5,85,7500.0,37500.0,55,2025-01-08 07:00:00,Sasa Tepung Bumbu Spicy,Bumbu Dapur,True,Dorene Kellet,dkellet1i@cornell.edu,Female,54,83
+175,3,17,4000.0,12000.0,55,2025-01-08 07:00:00,Le Minerale 600ml,Minuman,True,Dorene Kellet,dkellet1i@cornell.edu,Female,54,16
+175,3,218,13500.0,40500.0,55,2025-01-08 07:00:00,Kinder Joy,Camilan Manis,True,Dorene Kellet,dkellet1i@cornell.edu,Female,54,201
+176,5,210,45000.0,225000.0,56,2025-01-08 08:00:00,SunnyGold Chicken Wing,Makanan Beku (Frozen Food),True,Yank Petken,ypetken1j@networksolutions.com,Male,55,194
+176,4,159,23500.0,94000.0,56,2025-01-08 08:00:00,Cussons Baby Powder Fresh dan Nourish,Produk Bayi,True,Yank Petken,ypetken1j@networksolutions.com,Male,55,143
+176,3,224,12000.0,36000.0,56,2025-01-08 08:00:00,Ovaltine Cookies,Camilan Manis,True,Yank Petken,ypetken1j@networksolutions.com,Male,55,207
+176,5,9,3100.0,15500.0,56,2025-01-08 08:00:00,Supermi Ayam Spesial,Makanan Instan,True,Yank Petken,ypetken1j@networksolutions.com,Male,55,8
+177,2,221,17500.0,35000.0,57,2025-01-08 09:00:00,Snickers Chocolate Bar,Camilan Manis,True,Ivar MacAulay,imacaulay1k@census.gov,Male,56,204
+177,4,11,8500.0,34000.0,57,2025-01-08 09:00:00,Koka Mie Goreng Singapura,Makanan Instan,True,Ivar MacAulay,imacaulay1k@census.gov,Male,56,10
+177,3,79,14500.0,43500.0,57,2025-01-08 09:00:00,Saus Tomat Del Monte,Bumbu Dapur,True,Ivar MacAulay,imacaulay1k@census.gov,Male,56,77
+177,2,2,3200.0,6400.0,57,2025-01-08 09:00:00,Indomie Kuah Ayam Bawang,Makanan Instan,True,Ivar MacAulay,imacaulay1k@census.gov,Male,56,1
+178,1,117,45000.0,45000.0,58,2025-01-08 10:00:00,Nivea Extra White Firming Lotion,Sabun dan Perawatan Tubuh,True,Briano Rimell,brimell1l@etsy.com,Male,57,115
+178,2,19,7000.0,14000.0,58,2025-01-08 10:00:00,Mizone Lychee Lemon,Minuman,True,Briano Rimell,brimell1l@etsy.com,Male,57,18
+178,2,2,3200.0,6400.0,58,2025-01-08 10:00:00,Indomie Kuah Ayam Bawang,Makanan Instan,True,Briano Rimell,brimell1l@etsy.com,Male,57,1
+178,5,154,105000.0,525000.0,58,2025-01-08 10:00:00,Pampers Premium Care,Produk Bayi,True,Briano Rimell,brimell1l@etsy.com,Male,57,138
+179,3,69,7500.0,22500.0,59,2025-01-08 11:00:00,Oreo Vanilla,Makanan Ringan,True,Chrotoem Willshire,cwillshire1m@deliciousdays.com,Male,58,68
+179,5,150,23500.0,117500.0,59,2025-01-08 11:00:00,Pepsodent Mouthwash Active Defense,Pasta Gigi dan Mouthwash,True,Chrotoem Willshire,cwillshire1m@deliciousdays.com,Male,58,134
+179,5,137,11500.0,57500.0,59,2025-01-08 11:00:00,Pepsodent Herbal,Pasta Gigi dan Mouthwash,True,Chrotoem Willshire,cwillshire1m@deliciousdays.com,Male,58,121
+179,4,86,13500.0,54000.0,59,2025-01-08 11:00:00,Tiga Sapi Kecap Manis,Bumbu Dapur,True,Chrotoem Willshire,cwillshire1m@deliciousdays.com,Male,58,84
+180,2,6,5500.0,11000.0,60,2025-01-08 12:00:00,Pop Mie Rasa Baso,Makanan Instan,True,Harwell Cookes,hcookes1n@mit.edu,Male,59,5
+180,1,82,6000.0,6000.0,60,2025-01-08 12:00:00,BonCabe Level 10,Bumbu Dapur,True,Harwell Cookes,hcookes1n@mit.edu,Male,59,80
+180,3,185,12500.0,37500.0,60,2025-01-08 12:00:00,Bayclin Pembersih Lantai,Alat Kebersihan Rumah,True,Harwell Cookes,hcookes1n@mit.edu,Male,59,169
+180,4,192,9500.0,38000.0,60,2025-01-08 12:00:00,Mama Lemon Jeruk Nipis,Alat Kebersihan Rumah,True,Harwell Cookes,hcookes1n@mit.edu,Male,59,176
+181,3,165,195000.0,585000.0,1,2025-01-08 13:00:00,Morinaga Chil Kid Platinum,Produk Bayi,True,Sibby Cartin,scartin0@google.cn,Female,0,149
+181,1,58,9500.0,9500.0,1,2025-01-08 13:00:00,Tong Tji Teh Celup,Kopi dan Teh,True,Sibby Cartin,scartin0@google.cn,Female,0,57
+181,4,48,23000.0,92000.0,1,2025-01-08 13:00:00,Nescafe Classic 100g,Kopi dan Teh,True,Sibby Cartin,scartin0@google.cn,Female,0,47
+181,4,89,4500.0,18000.0,1,2025-01-08 13:00:00,Bumbu Indofood Rendang,Bumbu Dapur,True,Sibby Cartin,scartin0@google.cn,Female,0,87
+182,3,145,35000.0,105000.0,2,2025-01-08 14:00:00,Betadine Mouthwash dan Gargle,Pasta Gigi dan Mouthwash,True,Meredith Aven,maven1@marketwatch.com,Male,1,129
+182,4,173,6500.0,26000.0,2,2025-01-08 14:00:00,Antangin JRG,Produk Kesehatan,True,Meredith Aven,maven1@marketwatch.com,Male,1,157
+182,2,211,25000.0,50000.0,2,2025-01-08 14:00:00,SilverQueen Cashew Milk Chocolate,Camilan Manis,True,Meredith Aven,maven1@marketwatch.com,Male,1,195
+182,1,105,32000.0,32000.0,2,2025-01-08 14:00:00,Minyak Sovia 2L,Beras dan Bahan Pokok,True,Meredith Aven,maven1@marketwatch.com,Male,1,103
+183,2,28,5000.0,10000.0,3,2025-01-08 15:00:00,Fanta Strawberry 390ml,Minuman,True,Udell Incogna,uincogna2@squarespace.com,Polygender,2,27
+183,2,47,12500.0,25000.0,3,2025-01-08 15:00:00,Good Day Mocacinno,Kopi dan Teh,True,Udell Incogna,uincogna2@squarespace.com,Polygender,2,46
+183,5,9,3100.0,15500.0,3,2025-01-08 15:00:00,Supermi Ayam Spesial,Makanan Instan,True,Udell Incogna,uincogna2@squarespace.com,Polygender,2,8
+183,3,156,65000.0,195000.0,3,2025-01-08 15:00:00,Sensi Dry Pants,Produk Bayi,True,Udell Incogna,uincogna2@squarespace.com,Polygender,2,140
+184,3,73,10000.0,30000.0,4,2025-01-08 16:00:00,Pocky Chocolate,Makanan Ringan,True,Rik Elan,relan3@opera.com,Male,3,71
+184,4,61,10500.0,42000.0,4,2025-01-08 16:00:00,Chitato Sapi Panggang,Makanan Ringan,True,Rik Elan,relan3@opera.com,Male,3,60
+184,4,167,9500.0,38000.0,4,2025-01-08 16:00:00,Hansaplast Plester,Produk Kesehatan,True,Rik Elan,relan3@opera.com,Male,3,151
+184,1,170,4500.0,4500.0,4,2025-01-08 16:00:00,Paramex Tablet,Produk Kesehatan,True,Rik Elan,relan3@opera.com,Male,3,154
+185,2,137,11500.0,23000.0,5,2025-01-08 17:00:00,Pepsodent Herbal,Pasta Gigi dan Mouthwash,True,Sara Ludlam,sludlam4@dell.com,Female,4,121
+185,3,175,8500.0,25500.0,5,2025-01-08 17:00:00,Promag Tablet,Produk Kesehatan,True,Sara Ludlam,sludlam4@dell.com,Female,4,159
+185,2,206,36500.0,73000.0,5,2025-01-08 17:00:00,Seafood Fiesta Fish Nugget,Makanan Beku (Frozen Food),True,Sara Ludlam,sludlam4@dell.com,Female,4,190
+185,3,41,95000.0,285000.0,5,2025-01-08 17:00:00,Bebelac 3 Vanila,Produk Susu,True,Sara Ludlam,sludlam4@dell.com,Female,4,40
+186,2,185,12500.0,25000.0,6,2025-01-08 18:00:00,Bayclin Pembersih Lantai,Alat Kebersihan Rumah,True,Nellie Lydiatt,nlydiatt5@tmall.com,Female,5,169
+186,4,83,8500.0,34000.0,6,2025-01-08 18:00:00,Sajiku Tepung Bumbu Serbaguna,Bumbu Dapur,True,Nellie Lydiatt,nlydiatt5@tmall.com,Female,5,81
+186,2,170,4500.0,9000.0,6,2025-01-08 18:00:00,Paramex Tablet,Produk Kesehatan,True,Nellie Lydiatt,nlydiatt5@tmall.com,Female,5,154
+186,2,208,41500.0,83000.0,6,2025-01-08 18:00:00,Belfoods Favorite Chicken Stick,Makanan Beku (Frozen Food),True,Nellie Lydiatt,nlydiatt5@tmall.com,Female,5,192
+187,2,43,185000.0,370000.0,7,2025-01-08 19:00:00,Enfagrow A+ 3 Vanilla,Produk Susu,True,Baldwin Di Baudi,bdibaudi6@who.int,Male,6,42
+187,3,12,2900.0,8700.0,7,2025-01-08 19:00:00,Mie Burung Dara Ayam Bawang,Makanan Instan,True,Baldwin Di Baudi,bdibaudi6@who.int,Male,6,11
+187,4,77,25000.0,100000.0,7,2025-01-08 19:00:00,Kecap Bango Manis,Bumbu Dapur,True,Baldwin Di Baudi,bdibaudi6@who.int,Male,6,75
+187,2,56,7500.0,15000.0,7,2025-01-08 19:00:00,Teh Sosro Celup Melati,Kopi dan Teh,True,Baldwin Di Baudi,bdibaudi6@who.int,Male,6,55
+188,3,146,22500.0,67500.0,8,2025-01-08 20:00:00,Total Care Mouthwash Fresh Mint,Pasta Gigi dan Mouthwash,True,Malanie Baughan,mbaughan7@infoseek.co.jp,Female,7,130
+188,3,22,6000.0,18000.0,8,2025-01-08 20:00:00,Ultrajaya Teh Kotak Jasmine,Minuman,True,Malanie Baughan,mbaughan7@infoseek.co.jp,Female,7,21
+188,4,211,25000.0,100000.0,8,2025-01-08 20:00:00,SilverQueen Cashew Milk Chocolate,Camilan Manis,True,Malanie Baughan,mbaughan7@infoseek.co.jp,Female,7,195
+188,1,20,8000.0,8000.0,8,2025-01-08 20:00:00,Pocari Sweat 500ml,Minuman,True,Malanie Baughan,mbaughan7@infoseek.co.jp,Female,7,19
+189,5,191,10500.0,52500.0,9,2025-01-08 21:00:00,Sunlight Jeruk Nipis 100,Alat Kebersihan Rumah,True,Adelaide Spiers,aspiers8@tiny.cc,Female,8,175
+189,5,15,6500.0,32500.0,9,2025-01-08 21:00:00,Mi BonCabe Level 15,Makanan Instan,True,Adelaide Spiers,aspiers8@tiny.cc,Female,8,14
+189,4,156,65000.0,260000.0,9,2025-01-08 21:00:00,Sensi Dry Pants,Produk Bayi,True,Adelaide Spiers,aspiers8@tiny.cc,Female,8,140
+189,3,89,4500.0,13500.0,9,2025-01-08 21:00:00,Bumbu Indofood Rendang,Bumbu Dapur,True,Adelaide Spiers,aspiers8@tiny.cc,Female,8,87
+190,4,201,37500.0,150000.0,10,2025-01-08 22:00:00,Fiesta Blackpepper Chicken,Makanan Beku (Frozen Food),True,Tamma MacSorley,tmacsorley9@goodreads.com,Female,9,185
+190,4,192,9500.0,38000.0,10,2025-01-08 22:00:00,Mama Lemon Jeruk Nipis,Alat Kebersihan Rumah,True,Tamma MacSorley,tmacsorley9@goodreads.com,Female,9,176
+190,5,202,35000.0,175000.0,10,2025-01-08 22:00:00,So Good Bakso Sapi,Makanan Beku (Frozen Food),True,Tamma MacSorley,tmacsorley9@goodreads.com,Female,9,186
+190,5,163,37500.0,187500.0,10,2025-01-08 22:00:00,Pigeon Baby Shampoo Chamomile,Produk Bayi,True,Tamma MacSorley,tmacsorley9@goodreads.com,Female,9,147
+191,3,173,6500.0,19500.0,11,2025-01-08 23:00:00,Antangin JRG,Produk Kesehatan,True,Noelyn Leggate,nleggatea@naver.com,Female,10,157
+191,3,218,13500.0,40500.0,11,2025-01-08 23:00:00,Kinder Joy,Camilan Manis,True,Noelyn Leggate,nleggatea@naver.com,Female,10,201
+191,3,26,5000.0,15000.0,11,2025-01-08 23:00:00,Sprite 390ml,Minuman,True,Noelyn Leggate,nleggatea@naver.com,Female,10,25
+191,1,181,24000.0,24000.0,11,2025-01-08 23:00:00,So Klin Liquid Detergent,Alat Kebersihan Rumah,True,Noelyn Leggate,nleggatea@naver.com,Female,10,165
+192,3,49,12000.0,36000.0,12,2025-01-09 00:00:00,Torabika Creamy Latte,Kopi dan Teh,True,Alissa Boost,aboostb@i2i.jp,Female,11,48
+192,1,174,7500.0,7500.0,12,2025-01-09 00:00:00,Tolak Angin Cair,Produk Kesehatan,True,Alissa Boost,aboostb@i2i.jp,Female,11,158
+192,4,111,8500.0,34000.0,12,2025-01-09 00:00:00,Sabun Shinzui Skin Lightening,Sabun dan Perawatan Tubuh,True,Alissa Boost,aboostb@i2i.jp,Female,11,109
+192,4,185,12500.0,50000.0,12,2025-01-09 00:00:00,Bayclin Pembersih Lantai,Alat Kebersihan Rumah,True,Alissa Boost,aboostb@i2i.jp,Female,11,169
+193,3,48,23000.0,69000.0,13,2025-01-09 01:00:00,Nescafe Classic 100g,Kopi dan Teh,True,Marylinda Witton,mwittonc@angelfire.com,Female,12,47
+193,5,1,3500.0,17500.0,13,2025-01-09 01:00:00,Indomie Goreng,Makanan Instan,True,Marylinda Witton,mwittonc@angelfire.com,Female,12,0
+193,1,186,13500.0,13500.0,13,2025-01-09 01:00:00,Wipol Karbol Cemara,Alat Kebersihan Rumah,True,Marylinda Witton,mwittonc@angelfire.com,Female,12,170
+193,2,1,3500.0,7000.0,13,2025-01-09 01:00:00,Indomie Goreng,Makanan Instan,True,Marylinda Witton,mwittonc@angelfire.com,Female,12,0
+194,4,114,28500.0,114000.0,14,2025-01-09 02:00:00,Body Wash Kojie San Skin Lightening,Sabun dan Perawatan Tubuh,True,Korry Rothon,krothond@cisco.com,Female,13,112
+194,3,221,17500.0,52500.0,14,2025-01-09 02:00:00,Snickers Chocolate Bar,Camilan Manis,True,Korry Rothon,krothond@cisco.com,Female,13,204
+194,4,148,23000.0,92000.0,14,2025-01-09 02:00:00,Colgate Sensitive Pro Relief,Pasta Gigi dan Mouthwash,True,Korry Rothon,krothond@cisco.com,Female,13,132
+194,1,156,65000.0,65000.0,14,2025-01-09 02:00:00,Sensi Dry Pants,Produk Bayi,True,Korry Rothon,krothond@cisco.com,Female,13,140
+195,4,90,7000.0,28000.0,15,2025-01-09 03:00:00,MamaSuka Kaldu Jamur,Bumbu Dapur,True,Bryce Deniscke,bdenisckee@adobe.com,Male,14,88
+195,5,195,7500.0,37500.0,15,2025-01-09 03:00:00,Scotch Brite Spons Cuci Piring,Alat Kebersihan Rumah,True,Bryce Deniscke,bdenisckee@adobe.com,Male,14,179
+195,2,116,29500.0,59000.0,15,2025-01-09 03:00:00,Vaseline Healthy White UV Lightening,Sabun dan Perawatan Tubuh,True,Bryce Deniscke,bdenisckee@adobe.com,Male,14,114
+195,5,213,2500.0,12500.0,15,2025-01-09 03:00:00,Choki-Choki Stick,Camilan Manis,True,Bryce Deniscke,bdenisckee@adobe.com,Male,14,196
+196,1,94,35000.0,35000.0,16,2025-01-09 04:00:00,Minyak Goreng Bimoli 2L,Beras dan Bahan Pokok,True,Wade Vertey,wverteyf@amazon.co.jp,Male,15,92
+196,3,49,12000.0,36000.0,16,2025-01-09 04:00:00,Torabika Creamy Latte,Kopi dan Teh,True,Wade Vertey,wverteyf@amazon.co.jp,Male,15,48
+196,3,195,7500.0,22500.0,16,2025-01-09 04:00:00,Scotch Brite Spons Cuci Piring,Alat Kebersihan Rumah,True,Wade Vertey,wverteyf@amazon.co.jp,Male,15,179
+196,1,151,85000.0,85000.0,16,2025-01-09 04:00:00,MamyPoko Pants Extra Soft,Produk Bayi,True,Wade Vertey,wverteyf@amazon.co.jp,Male,15,135
+197,1,208,41500.0,41500.0,17,2025-01-09 05:00:00,Belfoods Favorite Chicken Stick,Makanan Beku (Frozen Food),True,Gayler Streader,gstreaderg@pagesperso-orange.fr,Male,16,192
+197,1,103,85000.0,85000.0,17,2025-01-09 05:00:00,Beras Pandan Wangi Cap Caping Gunung 5kg,Beras dan Bahan Pokok,True,Gayler Streader,gstreaderg@pagesperso-orange.fr,Male,16,101
+197,4,8,3300.0,13200.0,17,2025-01-09 05:00:00,Gaga 100 Extra Pedas,Makanan Instan,True,Gayler Streader,gstreaderg@pagesperso-orange.fr,Male,16,7
+197,4,120,16500.0,66000.0,17,2025-01-09 05:00:00,Herborist Lulur Tradisional Bali,Sabun dan Perawatan Tubuh,True,Gayler Streader,gstreaderg@pagesperso-orange.fr,Male,16,118
+198,2,26,5000.0,10000.0,18,2025-01-09 06:00:00,Sprite 390ml,Minuman,True,Stacy Berge,sbergeh@csmonitor.com,Polygender,17,25
+198,2,215,12500.0,25000.0,18,2025-01-09 06:00:00,Tango Wafer Chocolate,Camilan Manis,True,Stacy Berge,sbergeh@csmonitor.com,Polygender,17,198
+198,5,46,13500.0,67500.0,18,2025-01-09 06:00:00,Kopi Kapal Api Special Mix,Kopi dan Teh,True,Stacy Berge,sbergeh@csmonitor.com,Polygender,17,45
+198,4,145,35000.0,140000.0,18,2025-01-09 06:00:00,Betadine Mouthwash dan Gargle,Pasta Gigi dan Mouthwash,True,Stacy Berge,sbergeh@csmonitor.com,Polygender,17,129
+199,4,66,16500.0,66000.0,19,2025-01-09 07:00:00,Kusuka Keripik Singkong,Makanan Ringan,True,Alene Perrins,aperrinsi@google.it,Polygender,18,65
+199,4,85,7500.0,30000.0,19,2025-01-09 07:00:00,Sasa Tepung Bumbu Spicy,Bumbu Dapur,True,Alene Perrins,aperrinsi@google.it,Polygender,18,83
+199,3,6,5500.0,16500.0,19,2025-01-09 07:00:00,Pop Mie Rasa Baso,Makanan Instan,True,Alene Perrins,aperrinsi@google.it,Polygender,18,5
+199,5,215,12500.0,62500.0,19,2025-01-09 07:00:00,Tango Wafer Chocolate,Camilan Manis,True,Alene Perrins,aperrinsi@google.it,Polygender,18,198
+200,2,108,4200.0,8400.0,20,2025-01-09 08:00:00,Sabun Lux Soft Touch,Sabun dan Perawatan Tubuh,True,Nanni Frossell,nfrossellj@chicagotribune.com,Female,19,106
+200,4,213,2500.0,10000.0,20,2025-01-09 08:00:00,Choki-Choki Stick,Camilan Manis,True,Nanni Frossell,nfrossellj@chicagotribune.com,Female,19,196
+200,1,92,68000.0,68000.0,20,2025-01-09 08:00:00,Beras Setra Ramos Cap Ayam Jago 5kg,Beras dan Bahan Pokok,True,Nanni Frossell,nfrossellj@chicagotribune.com,Female,19,90
+200,3,163,37500.0,112500.0,20,2025-01-09 08:00:00,Pigeon Baby Shampoo Chamomile,Produk Bayi,True,Nanni Frossell,nfrossellj@chicagotribune.com,Female,19,147
+201,1,202,35000.0,35000.0,21,2025-01-09 09:00:00,So Good Bakso Sapi,Makanan Beku (Frozen Food),True,Cahra Van Castele,cvancastelek@slashdot.org,Female,20,186
+201,5,196,45000.0,225000.0,21,2025-01-09 09:00:00,So Good Chicken Nugget Original,Makanan Beku (Frozen Food),True,Cahra Van Castele,cvancastelek@slashdot.org,Female,20,180
+201,2,193,19500.0,39000.0,21,2025-01-09 09:00:00,Daia Detergent Pink,Alat Kebersihan Rumah,True,Cahra Van Castele,cvancastelek@slashdot.org,Female,20,177
+201,5,65,9000.0,45000.0,21,2025-01-09 09:00:00,Taro Net Seaweed,Makanan Ringan,True,Cahra Van Castele,cvancastelek@slashdot.org,Female,20,64
+202,1,175,8500.0,8500.0,22,2025-01-09 10:00:00,Promag Tablet,Produk Kesehatan,True,Creighton Guillard,cguillardl@reuters.com,Male,21,159
+202,1,112,3800.0,3800.0,22,2025-01-09 10:00:00,Sabun Nuvo Family Protection,Sabun dan Perawatan Tubuh,True,Creighton Guillard,cguillardl@reuters.com,Male,21,110
+202,1,94,35000.0,35000.0,22,2025-01-09 10:00:00,Minyak Goreng Bimoli 2L,Beras dan Bahan Pokok,True,Creighton Guillard,cguillardl@reuters.com,Male,21,92
+202,4,96,34000.0,136000.0,22,2025-01-09 10:00:00,Minyak Filma 2L,Beras dan Bahan Pokok,True,Creighton Guillard,cguillardl@reuters.com,Male,21,94
+203,5,203,39500.0,197500.0,23,2025-01-09 11:00:00,Fiesta Chicken Karage,Makanan Beku (Frozen Food),True,Minni Gelletly,mgelletlym@blogger.com,Female,22,187
+203,3,199,69500.0,208500.0,23,2025-01-09 11:00:00,Kanzler Beef Sausage,Makanan Beku (Frozen Food),True,Minni Gelletly,mgelletlym@blogger.com,Female,22,183
+203,4,207,45000.0,180000.0,23,2025-01-09 11:00:00,Champ Sosis Sapi,Makanan Beku (Frozen Food),True,Minni Gelletly,mgelletlym@blogger.com,Female,22,191
+203,5,54,55000.0,275000.0,23,2025-01-09 11:00:00,Starbucks VIA Colombia,Kopi dan Teh,True,Minni Gelletly,mgelletlym@blogger.com,Female,22,53
+204,1,147,18500.0,18500.0,24,2025-01-09 12:00:00,Colgate Total 12 Professional Clean,Pasta Gigi dan Mouthwash,True,Elisabeth Seary,esearyn@washingtonpost.com,Female,23,131
+204,5,195,7500.0,37500.0,24,2025-01-09 12:00:00,Scotch Brite Spons Cuci Piring,Alat Kebersihan Rumah,True,Elisabeth Seary,esearyn@washingtonpost.com,Female,23,179
+204,3,46,13500.0,40500.0,24,2025-01-09 12:00:00,Kopi Kapal Api Special Mix,Kopi dan Teh,True,Elisabeth Seary,esearyn@washingtonpost.com,Female,23,45
+204,2,70,6500.0,13000.0,24,2025-01-09 12:00:00,Nabati Cheese Wafer,Makanan Ringan,True,Elisabeth Seary,esearyn@washingtonpost.com,Female,23,69
+205,1,165,195000.0,195000.0,25,2025-01-09 13:00:00,Morinaga Chil Kid Platinum,Produk Bayi,True,Erna Hofer,ehofero@nbcnews.com,Female,24,149
+205,1,110,15500.0,15500.0,25,2025-01-09 13:00:00,Sabun Biore Body Foam Fresh,Sabun dan Perawatan Tubuh,True,Erna Hofer,ehofero@nbcnews.com,Female,24,108
+205,3,155,82000.0,246000.0,25,2025-01-09 13:00:00,Nepia Genki Pants,Produk Bayi,True,Erna Hofer,ehofero@nbcnews.com,Female,24,139
+205,2,52,10500.0,21000.0,25,2025-01-09 13:00:00,Kopiko Lucky Day,Kopi dan Teh,True,Erna Hofer,ehofero@nbcnews.com,Female,24,51
+206,4,43,185000.0,740000.0,26,2025-01-09 14:00:00,Enfagrow A+ 3 Vanilla,Produk Susu,True,Yurik Ledwich,yledwichp@xinhuanet.com,Male,25,42
+206,2,120,16500.0,33000.0,26,2025-01-09 14:00:00,Herborist Lulur Tradisional Bali,Sabun dan Perawatan Tubuh,True,Yurik Ledwich,yledwichp@xinhuanet.com,Male,25,118
+206,2,29,4500.0,9000.0,26,2025-01-09 14:00:00,Nestle Pure Life 600ml,Minuman,True,Yurik Ledwich,yledwichp@xinhuanet.com,Male,25,28
+206,1,4,2500.0,2500.0,26,2025-01-09 14:00:00,Mie Gelas Ayam Bawang,Makanan Instan,True,Yurik Ledwich,yledwichp@xinhuanet.com,Male,25,3
+207,5,15,6500.0,32500.0,27,2025-01-09 15:00:00,Mi BonCabe Level 15,Makanan Instan,True,Lauretta Roelofs,lroelofsq@un.org,Female,26,14
+207,3,94,35000.0,105000.0,27,2025-01-09 15:00:00,Minyak Goreng Bimoli 2L,Beras dan Bahan Pokok,True,Lauretta Roelofs,lroelofsq@un.org,Female,26,92
+207,1,69,7500.0,7500.0,27,2025-01-09 15:00:00,Oreo Vanilla,Makanan Ringan,True,Lauretta Roelofs,lroelofsq@un.org,Female,26,68
+207,1,221,17500.0,17500.0,27,2025-01-09 15:00:00,Snickers Chocolate Bar,Camilan Manis,True,Lauretta Roelofs,lroelofsq@un.org,Female,26,204
+208,4,184,17500.0,70000.0,28,2025-01-09 16:00:00,Molto Pewangi All Variants,Alat Kebersihan Rumah,True,Clint Wragg,cwraggr@webs.com,Male,27,168
+208,3,49,12000.0,36000.0,28,2025-01-09 16:00:00,Torabika Creamy Latte,Kopi dan Teh,True,Clint Wragg,cwraggr@webs.com,Male,27,48
+208,5,91,73000.0,365000.0,28,2025-01-09 16:00:00,Beras Ramos Cap Topi Koki 5kg,Beras dan Bahan Pokok,True,Clint Wragg,cwraggr@webs.com,Male,27,89
+208,3,12,2900.0,8700.0,28,2025-01-09 16:00:00,Mie Burung Dara Ayam Bawang,Makanan Instan,True,Clint Wragg,cwraggr@webs.com,Male,27,11
+209,5,218,13500.0,67500.0,29,2025-01-09 17:00:00,Kinder Joy,Camilan Manis,True,Henrie Inworth,hinworths@shop-pro.jp,Genderfluid,28,201
+209,1,105,32000.0,32000.0,29,2025-01-09 17:00:00,Minyak Sovia 2L,Beras dan Bahan Pokok,True,Henrie Inworth,hinworths@shop-pro.jp,Genderfluid,28,103
+209,5,90,7000.0,35000.0,29,2025-01-09 17:00:00,MamaSuka Kaldu Jamur,Bumbu Dapur,True,Henrie Inworth,hinworths@shop-pro.jp,Genderfluid,28,88
+209,2,54,55000.0,110000.0,29,2025-01-09 17:00:00,Starbucks VIA Colombia,Kopi dan Teh,True,Henrie Inworth,hinworths@shop-pro.jp,Genderfluid,28,53
+210,3,83,8500.0,25500.0,30,2025-01-09 18:00:00,Sajiku Tepung Bumbu Serbaguna,Bumbu Dapur,True,Grete Beverage,gbeveraget@google.ca,Female,29,81
+210,4,161,28500.0,114000.0,30,2025-01-09 18:00:00,Pure Baby Liquid Cleanser,Produk Bayi,True,Grete Beverage,gbeveraget@google.ca,Female,29,145
+210,1,185,12500.0,12500.0,30,2025-01-09 18:00:00,Bayclin Pembersih Lantai,Alat Kebersihan Rumah,True,Grete Beverage,gbeveraget@google.ca,Female,29,169
+210,1,101,3500.0,3500.0,30,2025-01-09 18:00:00,Garam Cap Kapal,Beras dan Bahan Pokok,True,Grete Beverage,gbeveraget@google.ca,Female,29,99
+211,5,210,45000.0,225000.0,31,2025-01-09 19:00:00,SunnyGold Chicken Wing,Makanan Beku (Frozen Food),True,Dulce Filippello,dfilippellou@opera.com,Female,30,194
+211,5,203,39500.0,197500.0,31,2025-01-09 19:00:00,Fiesta Chicken Karage,Makanan Beku (Frozen Food),True,Dulce Filippello,dfilippellou@opera.com,Female,30,187
+211,2,196,45000.0,90000.0,31,2025-01-09 19:00:00,So Good Chicken Nugget Original,Makanan Beku (Frozen Food),True,Dulce Filippello,dfilippellou@opera.com,Female,30,180
+211,5,183,23000.0,115000.0,31,2025-01-09 19:00:00,Attack Easy Detergent Bubuk,Alat Kebersihan Rumah,True,Dulce Filippello,dfilippellou@opera.com,Female,30,167
+212,3,12,2900.0,8700.0,32,2025-01-09 20:00:00,Mie Burung Dara Ayam Bawang,Makanan Instan,True,Alfi Feldstern,afeldsternv@blinklist.com,Female,31,11
+212,1,153,95000.0,95000.0,32,2025-01-09 20:00:00,Merries Pants Good Skin,Produk Bayi,True,Alfi Feldstern,afeldsternv@blinklist.com,Female,31,137
+212,5,221,17500.0,87500.0,32,2025-01-09 20:00:00,Snickers Chocolate Bar,Camilan Manis,True,Alfi Feldstern,afeldsternv@blinklist.com,Female,31,204
+212,1,206,36500.0,36500.0,32,2025-01-09 20:00:00,Seafood Fiesta Fish Nugget,Makanan Beku (Frozen Food),True,Alfi Feldstern,afeldsternv@blinklist.com,Female,31,190
+213,2,140,10500.0,21000.0,33,2025-01-09 21:00:00,Formula Pasta Gigi Anti Bakteri,Pasta Gigi dan Mouthwash,True,Cherrita Edelheid,cedelheidw@soundcloud.com,Female,32,124
+213,1,179,21500.0,21500.0,33,2025-01-09 21:00:00,Woods Peppermint Cough Syrup,Produk Kesehatan,True,Cherrita Edelheid,cedelheidw@soundcloud.com,Female,32,163
+213,2,46,13500.0,27000.0,33,2025-01-09 21:00:00,Kopi Kapal Api Special Mix,Kopi dan Teh,True,Cherrita Edelheid,cedelheidw@soundcloud.com,Female,32,45
+213,2,7,7500.0,15000.0,33,2025-01-09 21:00:00,Lemonilo Mie Instan Ayam Bakar,Makanan Instan,True,Cherrita Edelheid,cedelheidw@soundcloud.com,Female,32,6
+214,3,223,9000.0,27000.0,34,2025-01-09 22:00:00,Better Wafer Roll Chocolate,Camilan Manis,True,Balduin Bailie,bbailiex@washington.edu,Male,33,206
+214,5,93,75000.0,375000.0,34,2025-01-09 22:00:00,Beras Kepala Cap Anak Raja 5kg,Beras dan Bahan Pokok,True,Balduin Bailie,bbailiex@washington.edu,Male,33,91
+214,5,176,18500.0,92500.0,34,2025-01-09 22:00:00,Enervon-C Tablet,Produk Kesehatan,True,Balduin Bailie,bbailiex@washington.edu,Male,33,160
+214,1,41,95000.0,95000.0,34,2025-01-09 22:00:00,Bebelac 3 Vanila,Produk Susu,True,Balduin Bailie,bbailiex@washington.edu,Male,33,40
+215,4,50,8500.0,34000.0,35,2025-01-09 23:00:00,ABC Kopi Susu,Kopi dan Teh,True,Garik Ezzell,gezzelly@google.com.au,Male,34,49
+215,2,219,15000.0,30000.0,35,2025-01-09 23:00:00,Twix Chocolate Bar,Camilan Manis,True,Garik Ezzell,gezzelly@google.com.au,Male,34,202
+215,1,118,21000.0,21000.0,35,2025-01-09 23:00:00,Marina UV White Healthy dan Glow,Sabun dan Perawatan Tubuh,True,Garik Ezzell,gezzelly@google.com.au,Male,34,116
+215,1,5,3000.0,3000.0,35,2025-01-09 23:00:00,Sarimi Ayam Kecap,Makanan Instan,True,Garik Ezzell,gezzelly@google.com.au,Male,34,4
+216,1,110,15500.0,15500.0,36,2025-01-10 00:00:00,Sabun Biore Body Foam Fresh,Sabun dan Perawatan Tubuh,True,Leila Hainey`,lhaineyz@hhs.gov,Female,35,108
+216,2,120,16500.0,33000.0,36,2025-01-10 00:00:00,Herborist Lulur Tradisional Bali,Sabun dan Perawatan Tubuh,True,Leila Hainey`,lhaineyz@hhs.gov,Female,35,118
+216,3,216,14500.0,43500.0,36,2025-01-10 00:00:00,Delfi Top,Camilan Manis,True,Leila Hainey`,lhaineyz@hhs.gov,Female,35,199
+216,5,46,13500.0,67500.0,36,2025-01-10 00:00:00,Kopi Kapal Api Special Mix,Kopi dan Teh,True,Leila Hainey`,lhaineyz@hhs.gov,Female,35,45
+217,4,53,5500.0,22000.0,37,2025-01-10 01:00:00,Kopi Tubruk Gadjah,Kopi dan Teh,True,Elayne Von Salzberg,evonsalzberg10@cbc.ca,Female,36,52
+217,1,183,23000.0,23000.0,37,2025-01-10 01:00:00,Attack Easy Detergent Bubuk,Alat Kebersihan Rumah,True,Elayne Von Salzberg,evonsalzberg10@cbc.ca,Female,36,167
+217,4,41,95000.0,380000.0,37,2025-01-10 01:00:00,Bebelac 3 Vanila,Produk Susu,True,Elayne Von Salzberg,evonsalzberg10@cbc.ca,Female,36,40
+217,5,34,25000.0,125000.0,37,2025-01-10 01:00:00,Greenfields Fresh Milk,Produk Susu,True,Elayne Von Salzberg,evonsalzberg10@cbc.ca,Female,36,33
+218,3,222,8500.0,25500.0,38,2025-01-10 02:00:00,Nabati Wafer Chocolate,Camilan Manis,True,Gloriana Westmarland,gwestmarland11@thetimes.co.uk,Female,37,205
+218,1,23,6500.0,6500.0,38,2025-01-10 02:00:00,Nu Green Tea Original,Minuman,True,Gloriana Westmarland,gwestmarland11@thetimes.co.uk,Female,37,22
+218,3,81,5000.0,15000.0,38,2025-01-10 02:00:00,Masako Rasa Sapi,Bumbu Dapur,True,Gloriana Westmarland,gwestmarland11@thetimes.co.uk,Female,37,79
+218,3,6,5500.0,16500.0,38,2025-01-10 02:00:00,Pop Mie Rasa Baso,Makanan Instan,True,Gloriana Westmarland,gwestmarland11@thetimes.co.uk,Female,37,5
+219,4,79,14500.0,58000.0,39,2025-01-10 03:00:00,Saus Tomat Del Monte,Bumbu Dapur,True,Randene Feaster,rfeaster12@google.ru,Female,38,77
+219,4,104,33000.0,132000.0,39,2025-01-10 03:00:00,Minyak Tropical 2L,Beras dan Bahan Pokok,True,Randene Feaster,rfeaster12@google.ru,Female,38,102
+219,1,155,82000.0,82000.0,39,2025-01-10 03:00:00,Nepia Genki Pants,Produk Bayi,True,Randene Feaster,rfeaster12@google.ru,Female,38,139
+219,2,176,18500.0,37000.0,39,2025-01-10 03:00:00,Enervon-C Tablet,Produk Kesehatan,True,Randene Feaster,rfeaster12@google.ru,Female,38,160
+220,3,105,32000.0,96000.0,40,2025-01-10 04:00:00,Minyak Sovia 2L,Beras dan Bahan Pokok,True,Roseann Barbera,rbarbera13@un.org,Female,39,103
+220,3,118,21000.0,63000.0,40,2025-01-10 04:00:00,Marina UV White Healthy dan Glow,Sabun dan Perawatan Tubuh,True,Roseann Barbera,rbarbera13@un.org,Female,39,116
+220,5,40,75000.0,375000.0,40,2025-01-10 04:00:00,SGM Eksplor 1+ Vanilla,Produk Susu,True,Roseann Barbera,rbarbera13@un.org,Female,39,39
+220,3,35,7500.0,22500.0,40,2025-01-10 04:00:00,Ultra Milk Cokelat 250ml,Produk Susu,True,Roseann Barbera,rbarbera13@un.org,Female,39,34
+221,3,166,18500.0,55500.0,41,2025-01-10 05:00:00,Betadine Antiseptic Solution,Produk Kesehatan,True,Lonnard Ledley,lledley14@youtube.com,Male,40,150
+221,2,163,37500.0,75000.0,41,2025-01-10 05:00:00,Pigeon Baby Shampoo Chamomile,Produk Bayi,True,Lonnard Ledley,lledley14@youtube.com,Male,40,147
+221,2,189,12500.0,25000.0,41,2025-01-10 05:00:00,SOS Pembersih Kaca,Alat Kebersihan Rumah,True,Lonnard Ledley,lledley14@youtube.com,Male,40,173
+221,4,91,73000.0,292000.0,41,2025-01-10 05:00:00,Beras Ramos Cap Topi Koki 5kg,Beras dan Bahan Pokok,True,Lonnard Ledley,lledley14@youtube.com,Male,40,89
+222,3,115,55000.0,165000.0,42,2025-01-10 06:00:00,Body Wash Scarlett Brightening Pomegranate,Sabun dan Perawatan Tubuh,True,Bryant Antley,bantley15@bbb.org,Male,41,113
+222,3,192,9500.0,28500.0,42,2025-01-10 06:00:00,Mama Lemon Jeruk Nipis,Alat Kebersihan Rumah,True,Bryant Antley,bantley15@bbb.org,Male,41,176
+222,1,178,29500.0,29500.0,42,2025-01-10 06:00:00,Imboost Force,Produk Kesehatan,True,Bryant Antley,bantley15@bbb.org,Male,41,162
+222,5,65,9000.0,45000.0,42,2025-01-10 06:00:00,Taro Net Seaweed,Makanan Ringan,True,Bryant Antley,bantley15@bbb.org,Male,41,64
+223,4,95,36000.0,144000.0,43,2025-01-10 07:00:00,Minyak Goreng SunCo 2L,Beras dan Bahan Pokok,True,Augie People,apeople16@princeton.edu,Male,42,93
+223,5,203,39500.0,197500.0,43,2025-01-10 07:00:00,Fiesta Chicken Karage,Makanan Beku (Frozen Food),True,Augie People,apeople16@princeton.edu,Male,42,187
+223,5,56,7500.0,37500.0,43,2025-01-10 07:00:00,Teh Sosro Celup Melati,Kopi dan Teh,True,Augie People,apeople16@princeton.edu,Male,42,55
+223,4,84,9500.0,38000.0,43,2025-01-10 07:00:00,Kobe Tepung Kentucky Super Crispy,Bumbu Dapur,True,Augie People,apeople16@princeton.edu,Male,42,82
+224,4,70,6500.0,26000.0,44,2025-01-10 08:00:00,Nabati Cheese Wafer,Makanan Ringan,True,Charlean Redington,credington17@usnews.com,Female,43,69
+224,1,146,22500.0,22500.0,44,2025-01-10 08:00:00,Total Care Mouthwash Fresh Mint,Pasta Gigi dan Mouthwash,True,Charlean Redington,credington17@usnews.com,Female,43,130
+224,5,194,13500.0,67500.0,44,2025-01-10 08:00:00,S.O.S Pembersih Serbaguna Lemon,Alat Kebersihan Rumah,True,Charlean Redington,credington17@usnews.com,Female,43,178
+224,5,138,12000.0,60000.0,44,2025-01-10 08:00:00,CloseUp Ever Fresh,Pasta Gigi dan Mouthwash,True,Charlean Redington,credington17@usnews.com,Female,43,122
+225,2,82,6000.0,12000.0,45,2025-01-10 09:00:00,BonCabe Level 10,Bumbu Dapur,True,Heall Smaleman,hsmaleman18@hibu.com,Male,44,80
+225,3,118,21000.0,63000.0,45,2025-01-10 09:00:00,Marina UV White Healthy dan Glow,Sabun dan Perawatan Tubuh,True,Heall Smaleman,hsmaleman18@hibu.com,Male,44,116
+225,3,18,6500.0,19500.0,45,2025-01-10 09:00:00,Aqua 1.5L,Minuman,True,Heall Smaleman,hsmaleman18@hibu.com,Male,44,17
+225,3,217,11500.0,34500.0,45,2025-01-10 09:00:00,KitKat 4 Fingers,Camilan Manis,True,Heall Smaleman,hsmaleman18@hibu.com,Male,44,200
+226,5,77,25000.0,125000.0,46,2025-01-10 10:00:00,Kecap Bango Manis,Bumbu Dapur,True,Ralf Isacke,risacke19@symantec.com,Male,45,75
+226,5,193,19500.0,97500.0,46,2025-01-10 10:00:00,Daia Detergent Pink,Alat Kebersihan Rumah,True,Ralf Isacke,risacke19@symantec.com,Male,45,177
+226,4,33,18000.0,72000.0,46,2025-01-10 10:00:00,Indomilk Full Cream 1L,Produk Susu,True,Ralf Isacke,risacke19@symantec.com,Male,45,32
+226,2,35,7500.0,15000.0,46,2025-01-10 10:00:00,Ultra Milk Cokelat 250ml,Produk Susu,True,Ralf Isacke,risacke19@symantec.com,Male,45,34
+227,2,35,7500.0,15000.0,47,2025-01-10 11:00:00,Ultra Milk Cokelat 250ml,Produk Susu,True,Barrett Godbolt,bgodbolt1a@gravatar.com,Genderqueer,46,34
+227,3,153,95000.0,285000.0,47,2025-01-10 11:00:00,Merries Pants Good Skin,Produk Bayi,True,Barrett Godbolt,bgodbolt1a@gravatar.com,Genderqueer,46,137
+227,1,48,23000.0,23000.0,47,2025-01-10 11:00:00,Nescafe Classic 100g,Kopi dan Teh,True,Barrett Godbolt,bgodbolt1a@gravatar.com,Genderqueer,46,47
+227,2,4,2500.0,5000.0,47,2025-01-10 11:00:00,Mie Gelas Ayam Bawang,Makanan Instan,True,Barrett Godbolt,bgodbolt1a@gravatar.com,Genderqueer,46,3
+228,2,22,6000.0,12000.0,48,2025-01-10 12:00:00,Ultrajaya Teh Kotak Jasmine,Minuman,True,Ferguson Cicccitti,fcicccitti1b@google.com,Genderqueer,47,21
+228,2,192,9500.0,19000.0,48,2025-01-10 12:00:00,Mama Lemon Jeruk Nipis,Alat Kebersihan Rumah,True,Ferguson Cicccitti,fcicccitti1b@google.com,Genderqueer,47,176
+228,4,215,12500.0,50000.0,48,2025-01-10 12:00:00,Tango Wafer Chocolate,Camilan Manis,True,Ferguson Cicccitti,fcicccitti1b@google.com,Genderqueer,47,198
+228,3,75,7000.0,21000.0,48,2025-01-10 12:00:00,Dueto Wafer Chocolate,Makanan Ringan,True,Ferguson Cicccitti,fcicccitti1b@google.com,Genderqueer,47,73
+229,5,196,45000.0,225000.0,49,2025-01-10 13:00:00,So Good Chicken Nugget Original,Makanan Beku (Frozen Food),True,Derward Rubinowicz,drubinowicz1c@mapy.cz,Male,48,180
+229,1,91,73000.0,73000.0,49,2025-01-10 13:00:00,Beras Ramos Cap Topi Koki 5kg,Beras dan Bahan Pokok,True,Derward Rubinowicz,drubinowicz1c@mapy.cz,Male,48,89
+229,4,51,13500.0,54000.0,49,2025-01-10 13:00:00,Luwak White Koffie Original,Kopi dan Teh,True,Derward Rubinowicz,drubinowicz1c@mapy.cz,Male,48,50
+229,4,74,9500.0,38000.0,49,2025-01-10 13:00:00,Good Time Cookies,Makanan Ringan,True,Derward Rubinowicz,drubinowicz1c@mapy.cz,Male,48,72
+230,4,174,7500.0,30000.0,50,2025-01-10 14:00:00,Tolak Angin Cair,Produk Kesehatan,True,Tannie Rydzynski,trydzynski1d@ftc.gov,Male,49,158
+230,2,28,5000.0,10000.0,50,2025-01-10 14:00:00,Fanta Strawberry 390ml,Minuman,True,Tannie Rydzynski,trydzynski1d@ftc.gov,Male,49,27
+230,5,108,4200.0,21000.0,50,2025-01-10 14:00:00,Sabun Lux Soft Touch,Sabun dan Perawatan Tubuh,True,Tannie Rydzynski,trydzynski1d@ftc.gov,Male,49,106
+230,5,115,55000.0,275000.0,50,2025-01-10 14:00:00,Body Wash Scarlett Brightening Pomegranate,Sabun dan Perawatan Tubuh,True,Tannie Rydzynski,trydzynski1d@ftc.gov,Male,49,113
+231,1,223,9000.0,9000.0,51,2025-01-10 15:00:00,Better Wafer Roll Chocolate,Camilan Manis,True,Karlyn Maddaford,kmaddaford1e@facebook.com,Female,50,206
+231,3,91,73000.0,219000.0,51,2025-01-10 15:00:00,Beras Ramos Cap Topi Koki 5kg,Beras dan Bahan Pokok,True,Karlyn Maddaford,kmaddaford1e@facebook.com,Female,50,89
+231,4,40,75000.0,300000.0,51,2025-01-10 15:00:00,SGM Eksplor 1+ Vanilla,Produk Susu,True,Karlyn Maddaford,kmaddaford1e@facebook.com,Female,50,39
+231,5,98,15000.0,75000.0,51,2025-01-10 15:00:00,Tepung Terigu Kunci Biru 1kg,Beras dan Bahan Pokok,True,Karlyn Maddaford,kmaddaford1e@facebook.com,Female,50,96
+232,1,56,7500.0,7500.0,52,2025-01-10 16:00:00,Teh Sosro Celup Melati,Kopi dan Teh,True,Giffer Jearum,gjearum1f@aol.com,Male,51,55
+232,5,69,7500.0,37500.0,52,2025-01-10 16:00:00,Oreo Vanilla,Makanan Ringan,True,Giffer Jearum,gjearum1f@aol.com,Male,51,68
+232,5,216,14500.0,72500.0,52,2025-01-10 16:00:00,Delfi Top,Camilan Manis,True,Giffer Jearum,gjearum1f@aol.com,Male,51,199
+232,1,210,45000.0,45000.0,52,2025-01-10 16:00:00,SunnyGold Chicken Wing,Makanan Beku (Frozen Food),True,Giffer Jearum,gjearum1f@aol.com,Male,51,194
+233,3,182,25500.0,76500.0,53,2025-01-10 17:00:00,Rinso Detergent Cair Anti Noda,Alat Kebersihan Rumah,True,Sigfrid Ronaghan,sronaghan1g@vinaora.com,Male,52,166
+233,3,112,3800.0,11400.0,53,2025-01-10 17:00:00,Sabun Nuvo Family Protection,Sabun dan Perawatan Tubuh,True,Sigfrid Ronaghan,sronaghan1g@vinaora.com,Male,52,110
+233,4,119,27000.0,108000.0,53,2025-01-10 17:00:00,Citra Body Lotion Pearly White UV,Sabun dan Perawatan Tubuh,True,Sigfrid Ronaghan,sronaghan1g@vinaora.com,Male,52,117
+233,5,3,3400.0,17000.0,53,2025-01-10 17:00:00,Mie Sedaap Kari Ayam,Makanan Instan,True,Sigfrid Ronaghan,sronaghan1g@vinaora.com,Male,52,2
+234,2,82,6000.0,12000.0,54,2025-01-10 18:00:00,BonCabe Level 10,Bumbu Dapur,True,Olympie Fayerbrother,ofayerbrother1h@goo.gl,Genderqueer,53,80
+234,1,70,6500.0,6500.0,54,2025-01-10 18:00:00,Nabati Cheese Wafer,Makanan Ringan,True,Olympie Fayerbrother,ofayerbrother1h@goo.gl,Genderqueer,53,69
+234,3,7,7500.0,22500.0,54,2025-01-10 18:00:00,Lemonilo Mie Instan Ayam Bakar,Makanan Instan,True,Olympie Fayerbrother,ofayerbrother1h@goo.gl,Genderqueer,53,6
+234,5,81,5000.0,25000.0,54,2025-01-10 18:00:00,Masako Rasa Sapi,Bumbu Dapur,True,Olympie Fayerbrother,ofayerbrother1h@goo.gl,Genderqueer,53,79
+235,5,84,9500.0,47500.0,55,2025-01-10 19:00:00,Kobe Tepung Kentucky Super Crispy,Bumbu Dapur,True,Dorene Kellet,dkellet1i@cornell.edu,Female,54,82
+235,5,25,7000.0,35000.0,55,2025-01-10 19:00:00,Good Day Coolin Coffee,Minuman,True,Dorene Kellet,dkellet1i@cornell.edu,Female,54,24
+235,3,64,10000.0,30000.0,55,2025-01-10 19:00:00,Piattos Keju,Makanan Ringan,True,Dorene Kellet,dkellet1i@cornell.edu,Female,54,63
+235,3,27,5000.0,15000.0,55,2025-01-10 19:00:00,Coca Cola 390ml,Minuman,True,Dorene Kellet,dkellet1i@cornell.edu,Female,54,26
+236,1,217,11500.0,11500.0,56,2025-01-10 20:00:00,KitKat 4 Fingers,Camilan Manis,True,Yank Petken,ypetken1j@networksolutions.com,Male,55,200
+236,2,175,8500.0,17000.0,56,2025-01-10 20:00:00,Promag Tablet,Produk Kesehatan,True,Yank Petken,ypetken1j@networksolutions.com,Male,55,159
+236,3,159,23500.0,70500.0,56,2025-01-10 20:00:00,Cussons Baby Powder Fresh dan Nourish,Produk Bayi,True,Yank Petken,ypetken1j@networksolutions.com,Male,55,143
+236,1,24,5500.0,5500.0,56,2025-01-10 20:00:00,Floridina Jeruk 360ml,Minuman,True,Yank Petken,ypetken1j@networksolutions.com,Male,55,23
+237,5,204,52500.0,262500.0,57,2025-01-10 21:00:00,Bernardi Bakso Sapi,Makanan Beku (Frozen Food),True,Ivar MacAulay,imacaulay1k@census.gov,Male,56,188
+237,2,31,45000.0,90000.0,57,2025-01-10 21:00:00,Susu Dancow Full Cream,Produk Susu,True,Ivar MacAulay,imacaulay1k@census.gov,Male,56,30
+237,4,165,195000.0,780000.0,57,2025-01-10 21:00:00,Morinaga Chil Kid Platinum,Produk Bayi,True,Ivar MacAulay,imacaulay1k@census.gov,Male,56,149
+237,4,222,8500.0,34000.0,57,2025-01-10 21:00:00,Nabati Wafer Chocolate,Camilan Manis,True,Ivar MacAulay,imacaulay1k@census.gov,Male,56,205
+238,2,166,18500.0,37000.0,58,2025-01-10 22:00:00,Betadine Antiseptic Solution,Produk Kesehatan,True,Briano Rimell,brimell1l@etsy.com,Male,57,150
+238,5,210,45000.0,225000.0,58,2025-01-10 22:00:00,SunnyGold Chicken Wing,Makanan Beku (Frozen Food),True,Briano Rimell,brimell1l@etsy.com,Male,57,194
+238,4,178,29500.0,118000.0,58,2025-01-10 22:00:00,Imboost Force,Produk Kesehatan,True,Briano Rimell,brimell1l@etsy.com,Male,57,162
+238,2,177,17000.0,34000.0,58,2025-01-10 22:00:00,Hemaviton Stamina Plus,Produk Kesehatan,True,Briano Rimell,brimell1l@etsy.com,Male,57,161
+239,4,164,165000.0,660000.0,59,2025-01-10 23:00:00,Bebelove 1 Susu Formula,Produk Bayi,True,Chrotoem Willshire,cwillshire1m@deliciousdays.com,Male,58,148
+239,5,65,9000.0,45000.0,59,2025-01-10 23:00:00,Taro Net Seaweed,Makanan Ringan,True,Chrotoem Willshire,cwillshire1m@deliciousdays.com,Male,58,64
+239,4,96,34000.0,136000.0,59,2025-01-10 23:00:00,Minyak Filma 2L,Beras dan Bahan Pokok,True,Chrotoem Willshire,cwillshire1m@deliciousdays.com,Male,58,94
+239,3,52,10500.0,31500.0,59,2025-01-10 23:00:00,Kopiko Lucky Day,Kopi dan Teh,True,Chrotoem Willshire,cwillshire1m@deliciousdays.com,Male,58,51
+240,3,30,5500.0,16500.0,60,2025-01-11 00:00:00,Freshtea Jasmine 500ml,Minuman,True,Harwell Cookes,hcookes1n@mit.edu,Male,59,29
+240,4,215,12500.0,50000.0,60,2025-01-11 00:00:00,Tango Wafer Chocolate,Camilan Manis,True,Harwell Cookes,hcookes1n@mit.edu,Male,59,198
+240,3,48,23000.0,69000.0,60,2025-01-11 00:00:00,Nescafe Classic 100g,Kopi dan Teh,True,Harwell Cookes,hcookes1n@mit.edu,Male,59,47
+240,5,163,37500.0,187500.0,60,2025-01-11 00:00:00,Pigeon Baby Shampoo Chamomile,Produk Bayi,True,Harwell Cookes,hcookes1n@mit.edu,Male,59,147
+241,3,23,6500.0,19500.0,1,2025-01-11 01:00:00,Nu Green Tea Original,Minuman,True,Sibby Cartin,scartin0@google.cn,Female,0,22
+241,2,157,23717.42195367573,71193.2527693857,1,2025-01-11 01:00:00,,,,Sibby Cartin,scartin0@google.cn,Female,0,141
+241,5,49,12000.0,60000.0,1,2025-01-11 01:00:00,Torabika Creamy Latte,Kopi dan Teh,True,Sibby Cartin,scartin0@google.cn,Female,0,48
+241,4,84,9500.0,38000.0,1,2025-01-11 01:00:00,Kobe Tepung Kentucky Super Crispy,Bumbu Dapur,True,Sibby Cartin,scartin0@google.cn,Female,0,82
+242,5,52,10500.0,52500.0,2,2025-01-11 02:00:00,Kopiko Lucky Day,Kopi dan Teh,True,Meredith Aven,maven1@marketwatch.com,Male,1,51
+242,2,45,55000.0,110000.0,2,2025-01-11 02:00:00,Vidoran Xmart 1+ Vanilla,Produk Susu,True,Meredith Aven,maven1@marketwatch.com,Male,1,44
+242,1,114,28500.0,28500.0,2,2025-01-11 02:00:00,Body Wash Kojie San Skin Lightening,Sabun dan Perawatan Tubuh,True,Meredith Aven,maven1@marketwatch.com,Male,1,112
+242,2,174,7500.0,15000.0,2,2025-01-11 02:00:00,Tolak Angin Cair,Produk Kesehatan,True,Meredith Aven,maven1@marketwatch.com,Male,1,158
+243,3,25,7000.0,21000.0,3,2025-01-11 03:00:00,Good Day Coolin Coffee,Minuman,True,Udell Incogna,uincogna2@squarespace.com,Polygender,2,24
+243,1,140,10500.0,10500.0,3,2025-01-11 03:00:00,Formula Pasta Gigi Anti Bakteri,Pasta Gigi dan Mouthwash,True,Udell Incogna,uincogna2@squarespace.com,Polygender,2,124
+243,2,28,5000.0,10000.0,3,2025-01-11 03:00:00,Fanta Strawberry 390ml,Minuman,True,Udell Incogna,uincogna2@squarespace.com,Polygender,2,27
+243,3,185,12500.0,37500.0,3,2025-01-11 03:00:00,Bayclin Pembersih Lantai,Alat Kebersihan Rumah,True,Udell Incogna,uincogna2@squarespace.com,Polygender,2,169
+244,3,180,18000.0,54000.0,4,2025-01-11 04:00:00,OBH Combi Anak,Produk Kesehatan,True,Rik Elan,relan3@opera.com,Male,3,164
+244,5,221,17500.0,87500.0,4,2025-01-11 04:00:00,Snickers Chocolate Bar,Camilan Manis,True,Rik Elan,relan3@opera.com,Male,3,204
+244,5,33,18000.0,90000.0,4,2025-01-11 04:00:00,Indomilk Full Cream 1L,Produk Susu,True,Rik Elan,relan3@opera.com,Male,3,32
+244,1,99,16000.0,16000.0,4,2025-01-11 04:00:00,Gula Pasir Gulaku Putih 1kg,Beras dan Bahan Pokok,True,Rik Elan,relan3@opera.com,Male,3,97
+245,1,54,55000.0,55000.0,5,2025-01-11 05:00:00,Starbucks VIA Colombia,Kopi dan Teh,True,Sara Ludlam,sludlam4@dell.com,Female,4,53
+245,2,200,42500.0,85000.0,5,2025-01-11 05:00:00,Belfoods Royal Chicken Nugget,Makanan Beku (Frozen Food),True,Sara Ludlam,sludlam4@dell.com,Female,4,184
+245,3,98,15000.0,45000.0,5,2025-01-11 05:00:00,Tepung Terigu Kunci Biru 1kg,Beras dan Bahan Pokok,True,Sara Ludlam,sludlam4@dell.com,Female,4,96
+245,5,210,45000.0,225000.0,5,2025-01-11 05:00:00,SunnyGold Chicken Wing,Makanan Beku (Frozen Food),True,Sara Ludlam,sludlam4@dell.com,Female,4,194
+246,1,149,17500.0,17500.0,6,2025-01-11 06:00:00,Darlie All Shiny White,Pasta Gigi dan Mouthwash,True,Nellie Lydiatt,nlydiatt5@tmall.com,Female,5,133
+246,3,70,6500.0,19500.0,6,2025-01-11 06:00:00,Nabati Cheese Wafer,Makanan Ringan,True,Nellie Lydiatt,nlydiatt5@tmall.com,Female,5,69
+246,4,141,25000.0,100000.0,6,2025-01-11 06:00:00,Enzim Orthodontic Toothpaste,Pasta Gigi dan Mouthwash,True,Nellie Lydiatt,nlydiatt5@tmall.com,Female,5,125
+246,4,140,10500.0,42000.0,6,2025-01-11 06:00:00,Formula Pasta Gigi Anti Bakteri,Pasta Gigi dan Mouthwash,True,Nellie Lydiatt,nlydiatt5@tmall.com,Female,5,124
+247,5,66,16500.0,82500.0,7,2025-01-11 07:00:00,Kusuka Keripik Singkong,Makanan Ringan,True,Baldwin Di Baudi,bdibaudi6@who.int,Male,6,65
+247,4,11,8500.0,34000.0,7,2025-01-11 07:00:00,Koka Mie Goreng Singapura,Makanan Instan,True,Baldwin Di Baudi,bdibaudi6@who.int,Male,6,10
+247,4,175,8500.0,34000.0,7,2025-01-11 07:00:00,Promag Tablet,Produk Kesehatan,True,Baldwin Di Baudi,bdibaudi6@who.int,Male,6,159
+247,5,195,7500.0,37500.0,7,2025-01-11 07:00:00,Scotch Brite Spons Cuci Piring,Alat Kebersihan Rumah,True,Baldwin Di Baudi,bdibaudi6@who.int,Male,6,179
+248,4,177,17000.0,68000.0,8,2025-01-11 08:00:00,Hemaviton Stamina Plus,Produk Kesehatan,True,Malanie Baughan,mbaughan7@infoseek.co.jp,Female,7,161
+248,4,146,22500.0,90000.0,8,2025-01-11 08:00:00,Total Care Mouthwash Fresh Mint,Pasta Gigi dan Mouthwash,True,Malanie Baughan,mbaughan7@infoseek.co.jp,Female,7,130
+248,4,184,17500.0,70000.0,8,2025-01-11 08:00:00,Molto Pewangi All Variants,Alat Kebersihan Rumah,True,Malanie Baughan,mbaughan7@infoseek.co.jp,Female,7,168
+248,4,218,13500.0,54000.0,8,2025-01-11 08:00:00,Kinder Joy,Camilan Manis,True,Malanie Baughan,mbaughan7@infoseek.co.jp,Female,7,201
+249,5,167,9500.0,47500.0,9,2025-01-11 09:00:00,Hansaplast Plester,Produk Kesehatan,True,Adelaide Spiers,aspiers8@tiny.cc,Female,8,151
+249,3,120,16500.0,49500.0,9,2025-01-11 09:00:00,Herborist Lulur Tradisional Bali,Sabun dan Perawatan Tubuh,True,Adelaide Spiers,aspiers8@tiny.cc,Female,8,118
+249,4,40,75000.0,300000.0,9,2025-01-11 09:00:00,SGM Eksplor 1+ Vanilla,Produk Susu,True,Adelaide Spiers,aspiers8@tiny.cc,Female,8,39
+249,4,101,3500.0,14000.0,9,2025-01-11 09:00:00,Garam Cap Kapal,Beras dan Bahan Pokok,True,Adelaide Spiers,aspiers8@tiny.cc,Female,8,99
+250,5,142,9500.0,47500.0,10,2025-01-11 10:00:00,Ciptadent Whitening,Pasta Gigi dan Mouthwash,True,Tamma MacSorley,tmacsorley9@goodreads.com,Female,9,126
+250,2,223,9000.0,18000.0,10,2025-01-11 10:00:00,Better Wafer Roll Chocolate,Camilan Manis,True,Tamma MacSorley,tmacsorley9@goodreads.com,Female,9,206
+250,4,213,2500.0,10000.0,10,2025-01-11 10:00:00,Choki-Choki Stick,Camilan Manis,True,Tamma MacSorley,tmacsorley9@goodreads.com,Female,9,196
+250,2,34,25000.0,50000.0,10,2025-01-11 10:00:00,Greenfields Fresh Milk,Produk Susu,True,Tamma MacSorley,tmacsorley9@goodreads.com,Female,9,33
