@@ -1,0 +1,226 @@
+id_product,name,category,harga,ketersediaan_stock
+1,Indomie Goreng,Makanan Instan,3500,True
+2,Indomie Kuah Ayam Bawang,Makanan Instan,3200,True
+3,Mie Sedaap Kari Ayam,Makanan Instan,3400,True
+4,Mie Gelas Ayam Bawang,Makanan Instan,2500,True
+5,Sarimi Ayam Kecap,Makanan Instan,3000,True
+6,Pop Mie Rasa Baso,Makanan Instan,5500,True
+7,Lemonilo Mie Instan Ayam Bakar,Makanan Instan,7500,True
+8,Gaga 100 Extra Pedas,Makanan Instan,3300,True
+9,Supermi Ayam Spesial,Makanan Instan,3100,True
+10,Mie ABC Selera Pedas,Makanan Instan,3200,True
+11,Koka Mie Goreng Singapura,Makanan Instan,8500,True
+12,Mie Burung Dara Ayam Bawang,Makanan Instan,2900,True
+13,Mi Instan Sehat Alami FitMee Shirataki,Makanan Instan,12500,True
+14,Mi Samyang Spicy Chicken,Makanan Instan,15000,True
+15,Mi BonCabe Level 15,Makanan Instan,6500,True
+16,Teh Botol Sosro,Minuman,5000,True
+17,Le Minerale 600ml,Minuman,4000,True
+18,Aqua 1.5L,Minuman,6500,True
+19,Mizone Lychee Lemon,Minuman,7000,True
+20,Pocari Sweat 500ml,Minuman,8000,True
+21,You C1000 Orange,Minuman,10000,True
+22,Ultrajaya Teh Kotak Jasmine,Minuman,6000,True
+23,Nu Green Tea Original,Minuman,6500,True
+24,Floridina Jeruk 360ml,Minuman,5500,True
+25,Good Day Coolin Coffee,Minuman,7000,True
+26,Sprite 390ml,Minuman,5000,True
+27,Coca Cola 390ml,Minuman,5000,True
+28,Fanta Strawberry 390ml,Minuman,5000,True
+29,Nestle Pure Life 600ml,Minuman,4500,True
+30,Freshtea Jasmine 500ml,Minuman,5500,True
+31,Susu Dancow Full Cream,Produk Susu,45000,True
+32,Frisian Flag Kental Manis Putih,Produk Susu,12500,True
+33,Indomilk Full Cream 1L,Produk Susu,18000,True
+34,Greenfields Fresh Milk,Produk Susu,25000,True
+35,Ultra Milk Cokelat 250ml,Produk Susu,7500,True
+36,Bear Brand Susu Steril,Produk Susu,9500,True
+37,Cimory Fresh Milk Chocolate,Produk Susu,9000,True
+38,Diamond Susu UHT Full Cream,Produk Susu,17500,True
+39,Lactamil Pregnasis,Produk Susu,85000,True
+40,SGM Eksplor 1+ Vanilla,Produk Susu,75000,True
+41,Bebelac 3 Vanila,Produk Susu,95000,True
+42,Anlene Gold 5X,Produk Susu,80000,True
+43,Enfagrow A+ 3 Vanilla,Produk Susu,185000,True
+44,Susu Zee Platinum Choco Hazel,Produk Susu,65000,True
+45,Vidoran Xmart 1+ Vanilla,Produk Susu,55000,True
+46,Kopi Kapal Api Special Mix,Kopi dan Teh,13500,True
+47,Good Day Mocacinno,Kopi dan Teh,12500,True
+48,Nescafe Classic 100g,Kopi dan Teh,23000,True
+49,Torabika Creamy Latte,Kopi dan Teh,12000,True
+50,ABC Kopi Susu,Kopi dan Teh,8500,True
+51,Luwak White Koffie Original,Kopi dan Teh,13500,True
+52,Kopiko Lucky Day,Kopi dan Teh,10500,True
+53,Kopi Tubruk Gadjah,Kopi dan Teh,5500,True
+54,Starbucks VIA Colombia,Kopi dan Teh,55000,True
+55,Teh Celup Sariwangi,Kopi dan Teh,8500,True
+56,Teh Sosro Celup Melati,Kopi dan Teh,7500,True
+57,Teh Pucuk Harum Jasmine,Kopi dan Teh,5000,True
+58,Tong Tji Teh Celup,Kopi dan Teh,9500,True
+59,Sosro Heritage Green Tea,Kopi dan Teh,15000,True
+60,Dilmah Tea English Breakfast,Kopi dan Teh,35000,True
+61,Chitato Sapi Panggang,Makanan Ringan,10500,True
+62,Qtela Keripik Singkong Original,Makanan Ringan,9500,True
+63,Lays Rumput Laut,Makanan Ringan,11000,True
+64,Piattos Keju,Makanan Ringan,10000,True
+65,Taro Net Seaweed,Makanan Ringan,9000,True
+66,Kusuka Keripik Singkong,Makanan Ringan,16500,True
+67,Kacang Garuda Rosta,Makanan Ringan,12500,True
+68,Astor Wafer Roll Chocolate,Makanan Ringan,8500,True
+69,Oreo Vanilla,Makanan Ringan,7500,True
+70,Nabati Cheese Wafer,Makanan Ringan,6500,True
+71,SilverQueen Chunky Bar,Makanan Ringan,23000,True
+72,Beng-Beng Share It,Makanan Ringan,15000,True
+73,Pocky Chocolate,Makanan Ringan,10000,True
+74,Good Time Cookies,Makanan Ringan,9500,True
+75,Dueto Wafer Chocolate,Makanan Ringan,7000,True
+76,Kecap ABC Manis,Bumbu Dapur,15000,True
+77,Kecap Bango Manis,Bumbu Dapur,25000,True
+78,Saus Sambal Indofood,Bumbu Dapur,12500,True
+79,Saus Tomat Del Monte,Bumbu Dapur,14500,True
+80,Royco Kaldu Ayam,Bumbu Dapur,5500,True
+81,Masako Rasa Sapi,Bumbu Dapur,5000,True
+82,BonCabe Level 10,Bumbu Dapur,6000,True
+83,Sajiku Tepung Bumbu Serbaguna,Bumbu Dapur,8500,True
+84,Kobe Tepung Kentucky Super Crispy,Bumbu Dapur,9500,True
+85,Sasa Tepung Bumbu Spicy,Bumbu Dapur,7500,True
+86,Tiga Sapi Kecap Manis,Bumbu Dapur,13500,True
+87,Indofood Sambal Extra Pedas,Bumbu Dapur,12000,True
+88,Desaku Bumbu Racik Ayam Goreng,Bumbu Dapur,3500,True
+89,Bumbu Indofood Rendang,Bumbu Dapur,4500,True
+90,MamaSuka Kaldu Jamur,Bumbu Dapur,7000,True
+91,Beras Ramos Cap Topi Koki 5kg,Beras dan Bahan Pokok,73000,True
+92,Beras Setra Ramos Cap Ayam Jago 5kg,Beras dan Bahan Pokok,68000,True
+93,Beras Kepala Cap Anak Raja 5kg,Beras dan Bahan Pokok,75000,True
+94,Minyak Goreng Bimoli 2L,Beras dan Bahan Pokok,35000,True
+95,Minyak Goreng SunCo 2L,Beras dan Bahan Pokok,36000,True
+96,Minyak Filma 2L,Beras dan Bahan Pokok,34000,True
+97,Tepung Terigu Segitiga Biru 1kg,Beras dan Bahan Pokok,13000,True
+98,Tepung Terigu Kunci Biru 1kg,Beras dan Bahan Pokok,15000,True
+99,Gula Pasir Gulaku Putih 1kg,Beras dan Bahan Pokok,16000,True
+100,Gula Pasir Rose Brand 1kg,Beras dan Bahan Pokok,15500,True
+101,Garam Cap Kapal,Beras dan Bahan Pokok,3500,True
+102,Garam Refina 500g,Beras dan Bahan Pokok,6000,True
+103,Beras Pandan Wangi Cap Caping Gunung 5kg,Beras dan Bahan Pokok,85000,True
+104,Minyak Tropical 2L,Beras dan Bahan Pokok,33000,True
+105,Minyak Sovia 2L,Beras dan Bahan Pokok,32000,True
+106,Sabun Lifebuoy Total 10,Sabun dan Perawatan Tubuh,4500,True
+107,Sabun Dettol Original,Sabun dan Perawatan Tubuh,5000,True
+108,Sabun Lux Soft Touch,Sabun dan Perawatan Tubuh,4200,True
+109,Sabun Dove Beauty Bar,Sabun dan Perawatan Tubuh,9500,True
+110,Sabun Biore Body Foam Fresh,Sabun dan Perawatan Tubuh,15500,True
+111,Sabun Shinzui Skin Lightening,Sabun dan Perawatan Tubuh,8500,True
+112,Sabun Nuvo Family Protection,Sabun dan Perawatan Tubuh,3800,True
+113,Body Wash Citra Natural White,Sabun dan Perawatan Tubuh,19500,True
+114,Body Wash Kojie San Skin Lightening,Sabun dan Perawatan Tubuh,28500,True
+115,Body Wash Scarlett Brightening Pomegranate,Sabun dan Perawatan Tubuh,55000,True
+116,Vaseline Healthy White UV Lightening,Sabun dan Perawatan Tubuh,29500,True
+117,Nivea Extra White Firming Lotion,Sabun dan Perawatan Tubuh,45000,True
+118,Marina UV White Healthy dan Glow,Sabun dan Perawatan Tubuh,21000,True
+119,Citra Body Lotion Pearly White UV,Sabun dan Perawatan Tubuh,27000,True
+120,Herborist Lulur Tradisional Bali,Sabun dan Perawatan Tubuh,16500,True
+121,Shampoo Pantene Pro-V Hair Fall Control,Shampoo dan Perawatan Rambut,27500,True
+122,Shampoo Sunsilk Hijab Recharge,Shampoo dan Perawatan Rambut,25000,True
+123,Shampoo Dove Total Hair Fall Treatment,Shampoo dan Perawatan Rambut,28500,True
+124,Shampoo Head dan Shoulders Clean dan Balanced,Shampoo dan Perawatan Rambut,37500,True
+125,Shampoo Clear Ice Cool Menthol,Shampoo dan Perawatan Rambut,29500,True
+126,Shampoo Tresemme Keratin Smooth,Shampoo dan Perawatan Rambut,48500,True
+127,Shampoo Makarizo Advisor Hair Recovery,Shampoo dan Perawatan Rambut,65000,True
+128,Conditioner Sunsilk Soft dan Smooth,Shampoo dan Perawatan Rambut,26000,True
+129,Conditioner Pantene Total Damage Care,Shampoo dan Perawatan Rambut,28500,True
+130,Ellips Hair Vitamin Pink,Shampoo dan Perawatan Rambut,12500,True
+131,Natur Shampoo Aloe Vera,Shampoo dan Perawatan Rambut,21500,True
+132,Emeron Shampoo Soft dan Smooth,Shampoo dan Perawatan Rambut,16500,True
+133,L'Oreal Paris Elseve Total Repair 5,Shampoo dan Perawatan Rambut,53500,True
+134,Wardah Hairfall Treatment Shampoo,Shampoo dan Perawatan Rambut,27500,True
+135,Mylea Intensive Hair Care Shampoo,Shampoo dan Perawatan Rambut,34500,True
+136,Pepsodent Whitening,Pasta Gigi dan Mouthwash,13500,True
+137,Pepsodent Herbal,Pasta Gigi dan Mouthwash,11500,True
+138,CloseUp Ever Fresh,Pasta Gigi dan Mouthwash,12000,True
+139,Sensodyne Repair dan Protect,Pasta Gigi dan Mouthwash,28500,True
+140,Formula Pasta Gigi Anti Bakteri,Pasta Gigi dan Mouthwash,10500,True
+141,Enzim Orthodontic Toothpaste,Pasta Gigi dan Mouthwash,25000,True
+142,Ciptadent Whitening,Pasta Gigi dan Mouthwash,9500,True
+143,Oral B Pro Health,Pasta Gigi dan Mouthwash,17500,True
+144,Listerine Cool Mint 250ml,Pasta Gigi dan Mouthwash,25000,True
+145,Betadine Mouthwash dan Gargle,Pasta Gigi dan Mouthwash,35000,True
+146,Total Care Mouthwash Fresh Mint,Pasta Gigi dan Mouthwash,22500,True
+147,Colgate Total 12 Professional Clean,Pasta Gigi dan Mouthwash,18500,True
+148,Colgate Sensitive Pro Relief,Pasta Gigi dan Mouthwash,23000,True
+149,Darlie All Shiny White,Pasta Gigi dan Mouthwash,17500,True
+150,Pepsodent Mouthwash Active Defense,Pasta Gigi dan Mouthwash,23500,True
+151,MamyPoko Pants Extra Soft,Produk Bayi,85000,True
+152,Sweety Silver Pants,Produk Bayi,78000,True
+153,Merries Pants Good Skin,Produk Bayi,95000,True
+154,Pampers Premium Care,Produk Bayi,105000,True
+155,Nepia Genki Pants,Produk Bayi,82000,True
+156,Sensi Dry Pants,Produk Bayi,65000,True
+157,Johnson's Baby Powder Blossoms,Produk Bayi,25000,True
+158,Zwitsal Baby Bath Hair dan Body,Produk Bayi,32500,True
+159,Cussons Baby Powder Fresh dan Nourish,Produk Bayi,23500,True
+160,Bambi Baby Lotion,Produk Bayi,18500,True
+161,Pure Baby Liquid Cleanser,Produk Bayi,28500,True
+162,Baby Huki Botol Susu PP 250ml,Produk Bayi,35000,True
+163,Pigeon Baby Shampoo Chamomile,Produk Bayi,37500,True
+164,Bebelove 1 Susu Formula,Produk Bayi,165000,True
+165,Morinaga Chil Kid Platinum,Produk Bayi,195000,True
+166,Betadine Antiseptic Solution,Produk Kesehatan,18500,True
+167,Hansaplast Plester,Produk Kesehatan,9500,True
+168,Konidin Sirup Batuk,Produk Kesehatan,16500,True
+169,Bodrex Extra,Produk Kesehatan,5500,True
+170,Paramex Tablet,Produk Kesehatan,4500,True
+171,Minyak Kayu Putih Cap Lang,Produk Kesehatan,21500,True
+172,Minyak Telon My Baby,Produk Kesehatan,19500,True
+173,Antangin JRG,Produk Kesehatan,6500,True
+174,Tolak Angin Cair,Produk Kesehatan,7500,True
+175,Promag Tablet,Produk Kesehatan,8500,True
+176,Enervon-C Tablet,Produk Kesehatan,18500,True
+177,Hemaviton Stamina Plus,Produk Kesehatan,17000,True
+178,Imboost Force,Produk Kesehatan,29500,True
+179,Woods Peppermint Cough Syrup,Produk Kesehatan,21500,True
+180,OBH Combi Anak,Produk Kesehatan,18000,True
+181,So Klin Liquid Detergent,Alat Kebersihan Rumah,24000,True
+182,Rinso Detergent Cair Anti Noda,Alat Kebersihan Rumah,25500,True
+183,Attack Easy Detergent Bubuk,Alat Kebersihan Rumah,23000,True
+184,Molto Pewangi All Variants,Alat Kebersihan Rumah,17500,True
+185,Bayclin Pembersih Lantai,Alat Kebersihan Rumah,12500,True
+186,Wipol Karbol Cemara,Alat Kebersihan Rumah,13500,True
+187,Super Pell Pembersih Lantai Lemon,Alat Kebersihan Rumah,14000,True
+188,Vixal Pembersih Kamar Mandi,Alat Kebersihan Rumah,15500,True
+189,SOS Pembersih Kaca,Alat Kebersihan Rumah,12500,True
+190,Mr. Muscle Pembersih Serbaguna,Alat Kebersihan Rumah,14500,True
+191,Sunlight Jeruk Nipis 100,Alat Kebersihan Rumah,10500,True
+192,Mama Lemon Jeruk Nipis,Alat Kebersihan Rumah,9500,True
+193,Daia Detergent Pink,Alat Kebersihan Rumah,19500,True
+194,S.O.S Pembersih Serbaguna Lemon,Alat Kebersihan Rumah,13500,True
+195,Scotch Brite Spons Cuci Piring,Alat Kebersihan Rumah,7500,True
+196,So Good Chicken Nugget Original,Makanan Beku (Frozen Food),45000,True
+197,Fiesta Chicken Nugget Stick,Makanan Beku (Frozen Food),38500,True
+198,Fiesta Sosis Sapi Goreng,Makanan Beku (Frozen Food),32500,True
+199,Kanzler Beef Sausage,Makanan Beku (Frozen Food),69500,True
+200,Belfoods Royal Chicken Nugget,Makanan Beku (Frozen Food),42500,True
+201,Fiesta Blackpepper Chicken,Makanan Beku (Frozen Food),37500,True
+202,So Good Bakso Sapi,Makanan Beku (Frozen Food),35000,True
+203,Fiesta Chicken Karage,Makanan Beku (Frozen Food),39500,True
+204,Bernardi Bakso Sapi,Makanan Beku (Frozen Food),52500,True
+205,Fiesta Tempura Chicken Nugget,Makanan Beku (Frozen Food),38500,True
+206,Seafood Fiesta Fish Nugget,Makanan Beku (Frozen Food),36500,True
+207,Champ Sosis Sapi,Makanan Beku (Frozen Food),45000,True
+208,Belfoods Favorite Chicken Stick,Makanan Beku (Frozen Food),41500,True
+209,Fiesta Spicy Wing,Makanan Beku (Frozen Food),43500,True
+210,SunnyGold Chicken Wing,Makanan Beku (Frozen Food),45000,True
+211,SilverQueen Cashew Milk Chocolate,Camilan Manis,25000,True
+212,Beng-Beng Mini,Camilan Manis,15500,True
+213,Choki-Choki Stick,Camilan Manis,2500,True
+214,Malkist Roma Cokelat,Camilan Manis,9500,True
+215,Tango Wafer Chocolate,Camilan Manis,12500,True
+216,Delfi Top,Camilan Manis,14500,True
+217,KitKat 4 Fingers,Camilan Manis,11500,True
+218,Kinder Joy,Camilan Manis,13500,True
+219,Twix Chocolate Bar,Camilan Manis,15000,True
+220,Dairy Milk Cadbury,Camilan Manis,22500,True
+221,Snickers Chocolate Bar,Camilan Manis,17500,True
+222,Nabati Wafer Chocolate,Camilan Manis,8500,True
+223,Better Wafer Roll Chocolate,Camilan Manis,9000,True
+224,Ovaltine Cookies,Camilan Manis,12000,True
+225,Pocky Strawberry,Camilan Manis,10000,True
