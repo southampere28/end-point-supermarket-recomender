@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import joblib
 from keras.models import load_model
+import pickle
 
 app = Flask(__name__)
 
@@ -18,12 +19,19 @@ product_df = pd.read_csv('data/product.csv')
 user_encoder = joblib.load('models/user_encoder.pkl')
 product_encoder = joblib.load('models/product_encoder.pkl')
 
-# Load model Keras
+# Load model Keras Collaborative Filtering
 model = load_model('models/supermarket_recommender.keras')
 
 # Buat list semua produk (encoded)
 num_items = len(product_encoder.classes_)
 all_products = np.arange(num_items)
+
+# === INIT: Load tambahan data content-based filtering ===
+# Load model pickle content-based
+with open('models/content_based_model.pkl', 'rb') as f:
+    products, cosine_sim, product_indices = pickle.load(f)
+
+cb_data = pd.read_csv('data/supermarket_encoded.csv')  # dataset user-product
 
 # === ROUTE: Predict Rekomendasi Produk ===
 @app.route('/predict', methods=['POST'])
@@ -90,6 +98,52 @@ def predict():
         except Exception as e:
             return jsonify({'error': str(e)}), 400
 
+# === ROUTE: Predict Rekomendasi Produk Berdasarkan Preferensi Pengguna ===
+@app.route('/predictcb', methods=['POST'])
+def predictcb():
+    data = request.get_json()
+    raw_user_id = data.get('id_user')
+    count_items = int(data.get('count_items', 10))
+
+    try:
+        # Encode user_id
+        user_id_encoded = user_encoder.transform([raw_user_id])[0]
+
+        # Ambil semua produk yang pernah dibeli oleh user ini
+        user_products = cb_data[cb_data['user_id_enc'] == user_id_encoded]['product_id_enc'].unique()
+        scores = {}
+
+        for pid in user_products:
+            idx = product_indices.get(pid)
+            if idx is not None:
+                sim_scores = list(enumerate(cosine_sim[idx]))
+                for i, score in sim_scores:
+                    pid_similar = products.iloc[i]['product_id_enc']
+                    if pid_similar not in user_products:
+                        scores[pid_similar] = scores.get(pid_similar, 0) + score
+
+        # Jika tidak ada produk yang bisa direkomendasikan, tampilkan top produk
+        if not scores:
+            return showTopProduct(count_items)
+
+        # Ambil top-N rekomendasi
+        recommended_ids = sorted(scores, key=scores.get, reverse=True)[:count_items]
+
+        recommended_products = products.set_index('product_id_enc').loc[recommended_ids].reset_index()
+        recommended_products['trusted_score'] = recommended_products['product_id_enc'].map(scores)
+        recommended_products = recommended_products.sort_values(by='trusted_score', ascending=False)
+
+        # Ambil original id_product
+        recommended_products['id_product'] = product_encoder.inverse_transform(recommended_products['product_id_enc'])
+
+        return jsonify({
+            'user_id': raw_user_id,
+            'message': 'Content-Based Recommendation',
+            'recommendations': recommended_products[['id_product', 'name', 'category', 'trusted_score']].to_dict(orient='records')
+        })
+
+    except Exception as e:
+        return jsonify({'error': str(e)}), 400
 
 def showTopProduct(count_items=10):
     try:
