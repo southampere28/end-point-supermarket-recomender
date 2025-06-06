@@ -33,6 +33,10 @@ with open('models/content_based_model.pkl', 'rb') as f:
 
 cb_data = pd.read_csv('data/supermarket_encoded.csv')  # dataset user-product
 
+@app.route('/')
+def index():
+    return "<H1>Flask Endpoint Supermarket Recomender</H1>"
+
 # === ROUTE: Predict Rekomendasi Produk ===
 @app.route('/predict', methods=['POST'])
 def predict():
@@ -170,5 +174,5 @@ def showTopProduct(count_items=10):
         return jsonify({'error': str(e)}), 400
     
 # === Run Server ===
-if __name__ == '__main__':
-    app.run(debug=True)
+# if __name__ == '__main__':
+#     app.run(debug=True)
